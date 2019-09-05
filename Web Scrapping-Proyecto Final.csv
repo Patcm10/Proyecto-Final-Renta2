@@ -1,10 +1,9 @@
-Adress|Price|Bedrooms|Bathrooms|Size
+Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)
 "Departamento en Renta Tokio #65, A1
 , Juárez, Cuauhtémoc, Distrito Federal (cdmx)"|30,000 MX$|2|2|107m2
 Departamento en Renta Azalea 152, Lomas Quebradas, La Magdalena Contreras, Distrito Federal (cdmx)|13,500 MX$|2|2|140m2
 "Departamento en Renta Lago Iseo #532, Be Grand Alto Polanc
 , Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|35,000 MX$|2|2|109m2
-Departamento en Renta Av. Pdte Plutarco Elías Calles 1451, Colonia Del Carmen, Benito Juárez, Distrito Federal (cdmx)|4,500 MX$|3|3|80m2
 Departamento en Renta Congreso 113, La Joya, Tlalpan, Distrito Federal (cdmx)|11,350 MX$|2|1|102m2
 Departamento en Renta Rómulo O'farril 520, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|14,500 MX$|2|2|76m2
 "Departamento en Renta Av. Emiliano Zapata #409
@@ -22,8 +21,8 @@ Departamento en Renta Avenida Santa Fe 482, Cuajimalpa De Morelos, 05349, Ciudad
 Departamento en Renta Joaquin Garcia Izcabaleta 55, San Rafael, Cuauhtemoc, Ciudad De Mexico, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16,000 MX$|3|2|120m2
 Departamento en Renta Avenida Horacio1537, Polanco Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|126,132.5 MX$|3|4|193m2
 Departamento en Renta Avenida De Las Torres 805, Torres Del Potrero, Alvaro Obregón Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|17,500 MX$|2|2|78m2
-Departamento en Renta Joaquin Garcia Izcabalceta 55, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16,000 MX$|3||120m2
 Departamento en Renta Francisco Petrarca 139, Colonia Polanco Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|Desde				97,025 MX$|2|2|167m2
+Departamento en Renta Joaquin Garcia Izcabalceta 55, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16,000 MX$|3||120m2
 Departamento en Renta Calle Division Del Norte 293, Lomas De Memetla, Cuajimalpa, Ciudad De Mexico, Lomas De Memetla, Cuajimalpa De Morelos|16,000 MX$|2|2|122m2
 Departamento en Renta Bosque De Tabachines 327, Colonia Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|155,240 MX$|3|3|650m2
 Departamento en Renta Palacio Escorial 20, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|33,000 MX$|2||70m2
@@ -39,7 +38,7 @@ Departamento en Renta Moliere 118, Distrito Federal (cdmx)|75,000 MX$|2|3|120m2
 "Departamento en Renta Avenida Santa Fe #498
 , Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|25,000 MX$|1|1|82m2
 "Departamento en Renta Calzada San Simon No. 82
-, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)"|11,500 MX$|2|1|51m2
+, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)"|10,500 MX$|2|1|51m2
 "Departamento en Renta Monte Elbruz #164
 , Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|194,050 MX$|3|3|400m2
 "Departamento en Renta Gabriel Mancera #1157
@@ -59,9 +58,8 @@ Departamento en Renta Moliere 118, Distrito Federal (cdmx)|75,000 MX$|2|3|120m2
 "Departamento en Renta Santa. Fe, Álvaro Obregón,penthouse 406
 , Álvaro Obregón, Distrito Federal (cdmx)"|42,000 MX$|2|3|270m2
 Departamento en Renta Ferrocarril Hidalgo 1404, Villa Gustavo A. Madero, Gustavo A. Madero|8,000 MX$|2|1|60m2
-"Departamento en Renta Moldeadores 103
-, Azcapotzalco, Distrito Federal (cdmx)"|5,000 MX$|1|1|
 Departamento en Renta Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14,000 MX$|2|2|60m2
+Departamento en Renta Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8,500 MX$|2|1|72m2
 Departamento en Renta Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4,500 MX$|2|1|61m2
 "Departamento en Renta Avenida 14 #25
 , Venustiano Carranza, Distrito Federal (cdmx)"|15,500 MX$|3|2|127m2
@@ -92,23 +90,27 @@ Departamento en Renta Calzada De Tlalpan 1434, Portales Oriente, Benito Juárez,
 , Xoco, Benito Juárez, Distrito Federal (cdmx)"|22,000 MX$|2|2|83m2
 "Departamento en Renta Bucareli #128
 , Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)"|38,810 MX$|3|2|310m2
-"Departamento en Renta Luz Saviñon 206
-, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|2|2|110m2
 "Departamento en Renta Ejercito Nacional #453, 200
 , Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|35,000 MX$|3|3|115m2
-Departamento en Renta Eugenia 606, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|24,500 MX$|2|2|68m2
+"Departamento en Renta Luz Saviñon 206
+, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|2|2|110m2
 Departamento en Renta Calzada México Tacuba 1501, Argentina Poniente, Miguel Hidalgo, Distrito Federal (cdmx)|9,500 MX$|2|1|58m2
+Departamento en Renta Eugenia 606, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|24,500 MX$|2|2|68m2
 "Departamento en Renta Retorno Arrecife #15
 , Las Águilas, Álvaro Obregón, Distrito Federal (cdmx)"|9,500 MX$|2|1|75m2
+Departamento en Renta Paseo De La Reforma 439, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|Desde				65,000 MX$|1|2|120m2
+"Departamento en Renta Laguna De Mayrán #375
+, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|19,000 MX$|2|2|82m2
 "Departamento en Renta Adolfo Lopez Mateos #5146
 , Pedregal De Carrasco, Coyoacán, Distrito Federal (cdmx)"|23,000 MX$|2|2|104m2
-Departamento en Renta Paseo De La Reforma 439, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|Desde				65,000 MX$|1|2|120m2
 "Departamento en Renta General Emiliano Zapata #360
 , Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|16,000 MX$|2|2|78m2
 Departamento en Renta Toltecas 166, Carola, Álvaro Obregón, Distrito Federal (cdmx)|11,000 MX$|3|2|70m2
 Departamento en Renta Av Centenario 1762, Ciudad De México, Distrito Federal (cdmx)|Desde				16,500 MX$|1|1|50m2
 "Departamento en Renta Romulo Oarril #520
 , Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)"|16,500 MX$|2|2|77m2
+"Departamento en Renta Iglesia #270
+, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)"|29,000 MX$|3|2|130m2
 "Departamento en Renta Av. De Las Torres #805, 407
 , Torres De Potrero, Álvaro Obregón, Distrito Federal (cdmx)"|18,000 MX$|2|2|70m2
 "Departamento en Renta Presa Falcón #243, Ph1
@@ -118,86 +120,82 @@ Departamento en Renta Av Centenario 1762, Ciudad De México, Distrito Federal (c
 Departamento en Renta Av Sta Fe 482, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|Desde				22,000 MX$|1|2|87m2
 "Departamento en Renta Paseo De La Reforma #77
 , Tabacalera, Cuauhtémoc, Distrito Federal (cdmx)"|32,750 MX$|1|2|99m2
+Departamento en Renta Ave. San Bernabe 655, San Jerónimo Lídice, Ciudad De México|16,000 MX$|2|2|110m2
 "Departamento en Renta Tomas Alva Edison #101
 , Tabacalera, Cuauhtémoc, Distrito Federal (cdmx)"|22,000 MX$|2|2|100m2
-Departamento en Renta Ave. San Bernabe 655, San Jerónimo Lídice, Ciudad De México|16,000 MX$|2|2|110m2
-"Departamento en Renta Ejercito Nacional #1
-, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|26,300 MX$|2|2|95m2
 "Departamento en Renta Av. Carlos Lazo #100
 , San Mateo Tlaltenango, Cuajimalpa De Morelos"|78,000 MX$|3|4|320m2
 "Departamento en Renta Prol. Paseo De La Reforma #100
 , Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|17,500 MX$|2|2|65m2
-"Departamento en Renta Ramos Millan #49, 0
-, Américas Unidas, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|3|3|164m2
 "Departamento en Renta Prolong. Bosques De Reforma #1455, 202
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|45,000 MX$|3|4|420m2
 "Departamento en Renta Dr. Barragan #850
 , Narvarte, Benito Juárez, Distrito Federal (cdmx)"|22,500 MX$|3|2|117m2
+"Departamento en Renta Ejercito Nacional #1
+, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|26,300 MX$|2|2|95m2
 Departamento en Renta Javier Barros Sierra 245, Lomas De Santa Fe, Ciudad De México|29,000 MX$|3|3|145m2
+"Departamento en Renta Ramos Millan #49, 0
+, Américas Unidas, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|3|3|164m2
+Departamento en Renta Av. Toluca 669 Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|16,500 MX$|2|2|83m2
 "Departamento en Renta Cacahuatales #20
 , Gabriel Ramos Millán, Iztacalco"|10,500 MX$|2|1|60m2
 "Departamento en Renta Lago Alberto #300
 , Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|26,000 MX$|2|2|93m2
-Departamento en Renta Av. Toluca 669 Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|16,500 MX$|2|2|83m2
 "Departamento en Renta Lomas De Sotelo #1120, Edificio C - 302
 , Lomas De Sotelo, Miguel Hidalgo, Distrito Federal (cdmx)"|14,000 MX$|3|3|100m2
-"Departamento en Renta Periferico #4860
-, Arenal De Guadalupe, Tlalpan, Distrito Federal (cdmx)"|15,500 MX$|2|2|83m2
+Departamento en Renta Calz Tlalpan 2971, Coyoacán, Distrito Federal (cdmx)|20,000 MX$|4|3|129m2
+Departamento en Renta Sinaloa No. 179 Roma Norte, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|Desde				21,000 MX$|2|2|70m2
+Departamento en Renta Golfo De San Jorge 37 Tacuba Miguel Hidalgo, Tacuba, Miguel Hidalgo, Distrito Federal (cdmx)|12,000 MX$|2|2|69m2
 "Departamento en Renta Lomas De Sotelo #1120, Edificio C
 , Lomas De Sotelo, Miguel Hidalgo, Distrito Federal (cdmx)"|14,300 MX$|3|2|110m2
 "Departamento en Renta Culiacan #1, Ph
 , Hipódromo Condesa, Cuauhtémoc, Distrito Federal (cdmx)"|38,000 MX$|2|3|143m2
-Departamento en Renta Calz Tlalpan 2971, Coyoacán, Distrito Federal (cdmx)|20,000 MX$|4|3|129m2
-Departamento en Renta Sinaloa No. 179 Roma Norte, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|Desde				21,000 MX$|2|2|70m2
-Departamento en Renta Golfo De San Jorge 37 Tacuba Miguel Hidalgo, Tacuba, Miguel Hidalgo, Distrito Federal (cdmx)|12,000 MX$|2|2|69m2
 "Departamento en Renta José María Rico #118
 , Actipan, Benito Juárez, Distrito Federal (cdmx)"|24,000 MX$|2|3|120m2
-"Departamento en Renta Sur 109
-, Iztacalco, Distrito Federal (cdmx)"|10,000 MX$|2|1|100m2
-"Departamento en Renta Paseo De La Reforma #0
-, Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)"|90,000 MX$|1|2|120m2
 "Departamento en Renta Av. Coyoacán #635
 , Del Valle, Benito Juárez, Distrito Federal (cdmx)"|26,000 MX$|4|2|140m2
 "Departamento en Renta Andrea Del Castagno #79
 , Mixcoac, Benito Juárez, Distrito Federal (cdmx)"|24,200 MX$|2|2|87m2
-"Departamento en Renta Uxmal #00
-, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|19,000 MX$|2|2|85m2
+"Departamento en Renta Sur 109
+, Iztacalco, Distrito Federal (cdmx)"|10,000 MX$|2|1|100m2
+"Departamento en Renta Paseo De La Reforma #0
+, Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)"|90,000 MX$|1|2|120m2
 "Departamento en Renta Lago Neuchatel #10
 , Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|29,200 MX$|3|2|125m2
 "Departamento en Renta Avenida San Miguel #40
 , Xalpa, Ciudad De México"|8,500 MX$|2|2|100m2
+"Departamento en Renta Uxmal #00
+, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|19,000 MX$|2|2|85m2
 Departamento en Renta Calzada San Isidro 492 San Pedro Xalpa, Azcapotzalco, Cdmx, San Pedro Xalpa, Azcapotzalco, Distrito Federal (cdmx)|11,500 MX$|3|2|90m2
 "Departamento en Renta Popocatepetl #00
 , Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|19,000 MX$|2|2|86m2
 "Departamento en Renta Lago Zurich #168, 0
 , Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|26,000 MX$|2|2|100m2
-"Departamento en Renta Laguna De Mayrán #375
-, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|19,000 MX$|2|2|82m2
+"Departamento en Renta Sierra Gorda #23, Torre Encinos - G3
+, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|116,430 MX$|3|3|352m2
 "Departamento en Renta Guanábana #10
 , Nueva Santa Maria, Azcapotzalco, Distrito Federal (cdmx)"|10,500 MX$|2|1|75m2
 "Departamento en Renta Calle10
 , San Pedro De Los Pinos, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|2|2|90m2
 "Departamento en Renta Etla #10
 , Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)"|35,000 MX$|3|2|140m2
-"Departamento en Renta Sierra Gorda #23, Torre Encinos - G3
-, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|116,430 MX$|3|3|352m2
 Departamento en Renta Avenida Centenario 2025, Distrito Federal (cdmx)|19,000 MX$|2|2|3,183m2
 "Departamento en Renta Lago Zirahuen #98
 , Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|11,500 MX$|2|1|58m2
 Departamento en Renta Minatitlan 54, San Jerónimo Aculco, La Magdalena Contreras, Distrito Federal (cdmx)|18,500 MX$|2|2|122m2
 "Departamento en Renta Popocatepetl #435, 9
 , Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|19,100 MX$|2|2|77m2
-"Departamento en Renta Avenida Vasco De Quiroga #1635
-, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|5,000 MX$|2|1|55m2
+"Departamento en Renta Departamento Graden En Renta En Lomas De Chapultepec Con 1 Recamara
+, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|26,500 MX$|1|2|100m2
 "Departamento en Renta Jesus Del Monte #274
 , Jesús Del Monte, Cuajimalpa De Morelos"|55,000 MX$|3|2|360m2
 "Departamento en Renta Popocatepetl #435, 20
 , Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|31,500 MX$|3|3|94m2
+"Departamento en Renta Avenida Vasco De Quiroga #1635
+, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|5,000 MX$|2|1|55m2
 "Departamento en Renta Yacatas #24, 6
 , Narvarte, Benito Juárez, Distrito Federal (cdmx)"|16,500 MX$|3|1|110m2
 Departamento en Renta Nellie Campobello 129, Carola, Álvaro Obregón, Distrito Federal (cdmx)|69,858 MX$|2|1|72m2
-"Departamento en Renta Avenida Mexico Coyoacan #371
-, Xoco, Benito Juárez, Distrito Federal (cdmx)"|22,000 MX$|2|2|80m2
 Departamento en Renta Fernando Alencastre 240, Lomas De Chapultepec Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|23,000 MX$|2|2|130m2
 "Departamento en Renta Cumbres De Acultzingo #67, 108
 , Narvarte, Benito Juárez, Distrito Federal (cdmx)"|9,500 MX$|2|1|70m2
@@ -207,7 +205,8 @@ Departamento en Renta Ave De Las Torres 805, Colonia Olivar De Los Padres, Álva
 , Jardines En La Montaña, Tlalpan, Distrito Federal (cdmx)"|65,000 MX$|3|4|400m2
 "Departamento en Renta Sierra Gorda #23
 , Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|155,240 MX$|4|4|400m2
-Departamento en Renta Av. El Bordo 85 Col Ex Hacienda Tlalpan, Tlalpan, Distrito Federal (cdmx)|18,000 MX$|2|2|88m2
+"Departamento en Renta Avenida Mexico Coyoacan #371
+, Xoco, Benito Juárez, Distrito Federal (cdmx)"|22,000 MX$|2|2|80m2
 "Departamento en Renta Bosque De Radiatas #14, 2b
 , Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)"|38,000 MX$|3|4|312m2
 "Departamento en Renta Citlaltépetl #54, 9
@@ -215,112 +214,109 @@ Departamento en Renta Av. El Bordo 85 Col Ex Hacienda Tlalpan, Tlalpan, Distrito
 Departamento en Renta Ruben Dario 100, Miguel Hidalgo, Distrito Federal (cdmx)|60,000 MX$|3|2|200m2
 "Departamento en Renta Av. Popocatépetl #000
 , Xoco, Benito Juárez, Distrito Federal (cdmx)"|20,000 MX$|2|2|100m2
+Departamento en Renta Av. El Bordo 85 Col Ex Hacienda Tlalpan, Tlalpan, Distrito Federal (cdmx)|18,000 MX$|2|2|88m2
 "Departamento en Renta Nicolas San Juan #279
 , Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)"|19,500 MX$|2|2|112m2
 "Departamento en Renta Jesus Del Monte #34
 , Jesús Del Monte, Cuajimalpa De Morelos"|17,500 MX$|1|1|50m2
-"Departamento en Renta Encarnación Ortiz #1860
-, Azcapotzalco, Distrito Federal (cdmx)"|18,000 MX$|3|2|80m2
-"Departamento en Renta Av Ejercito Nacional #769
-, Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|40,000 MX$|2|3|115m2
 Departamento en Renta Guanajuato 44, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|23,000 MX$|2|2|70m2
-"Departamento en Renta R.salido #166
-, Independencia, Benito Juárez, Distrito Federal (cdmx)"|13,950 MX$|2|2|75m2
 Departamento en Renta Mar Adriático 100, Popotla, Miguel Hidalgo, Distrito Federal (cdmx)|25,000 MX$|2|2|130m2
-"Departamento en Renta Amsterdam #1
-, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)"|38,810 MX$|2|2|140m2
 Departamento en Renta Av. Ejercito Nacional 769 Esquina Moliere, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|30,000 MX$|2|2|105m2
 "Departamento en Renta Aguascalientes #185, 5
 , Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)"|25,000 MX$|2|2|100m2
-"Departamento en Renta Lago Neuchatel #12
-, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|29,000 MX$|2|3|126m2
+"Departamento en Renta Encarnación Ortiz #1860
+, Azcapotzalco, Distrito Federal (cdmx)"|18,000 MX$|3|2|80m2
+"Departamento en Renta R.salido #166
+, Independencia, Benito Juárez, Distrito Federal (cdmx)"|13,950 MX$|2|2|75m2
 "Departamento en Renta Cleveland #6
 , Ciudad De Los Deportes, Benito Juárez, Distrito Federal (cdmx)"|2,800,000 MX$|2|2|84m2
+"Departamento en Renta Amsterdam #1
+, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)"|38,810 MX$|2|2|140m2
 "Departamento en Renta Ph En Renta Amueblado De 2 Nivles Y Roof Garden En Bosques De Las Lomas
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|95,084.5 MX$|3|3|380m2
-"Departamento en Renta Atenas #3
-, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)"|2,600 MX$|1|1|22m2
-"Departamento en Renta Prolongación Paseo De La Reforma #260
-, Santa Fe Cuajimalpa, Cuajimalpa De Morelos"|24,000 MX$|3|2|100m2
+"Departamento en Renta Lago Neuchatel #12
+, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|29,000 MX$|2|3|126m2
 "Departamento en Renta Lago Alberto #320
 , Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|36,000 MX$|3|2|150m2
 "Departamento en Renta Guanajuato #66
 , Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)"|22,000 MX$|2|2|119m2
+"Departamento en Renta Atenas #3
+, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)"|2,600 MX$|1|1|22m2
+"Departamento en Renta Prolongación Paseo De La Reforma #260
+, Santa Fe Cuajimalpa, Cuajimalpa De Morelos"|24,000 MX$|3|2|100m2
 "Departamento en Renta Bahía De Santa Barbara #0, 3
 , Veronica Anzures, Miguel Hidalgo, Distrito Federal (cdmx)"|22,000 MX$|2|2|93m2
-"Departamento en Renta Adolfo Prieto #1033
-, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|34,000 MX$|2|3|116m2
 Departamento en Renta Avenida De Los Poetas 100, Colonia Cuajimalpa, Cuajimalpa De Morelos|49,000 MX$|3|4|318m2
 Departamento en Renta General Mariano Escobedo 248, Miguel Hidalgo, Distrito Federal (cdmx)|25,500 MX$|2|2|94m2
 "Departamento en Renta Prol. Paseo De La Reforma #1
 , Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|22,000 MX$|2|2|65m2
+"Departamento en Renta Adolfo Prieto #1033
+, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|34,000 MX$|2|3|116m2
 Departamento en Renta Textitlán 42, Santa Ursula Coapa, Coyoacán, Distrito Federal (cdmx)|8,000 MX$|2|1|60m2
+"Departamento en Renta Departamento En Renta En Polanco Con 3 Recamaras.
+, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|58,215 MX$|3|3|250m2
 Departamento en Renta Chosica 655-3 Col.lindavista, Ciudad De México, Distrito Federal (cdmx)|13,800 MX$|2|1|120m2
 Departamento en Renta Av. Presidente Masaryk 123, Polanco, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37,200 MX$|2||60m2
-"Departamento en Renta Atenas #3
-, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)"|2,700 MX$|1|1|25m2
 "Departamento en Renta Goldsmith #a, 0
 , Polanco Iii Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|77,620 MX$|3|4|180m2
 Departamento en Renta Damas 76, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|28,000 MX$|3|3|171m2
-"Departamento en Renta Bruno Traven #93, 1
-, General Pedro Maria Anaya, Benito Juárez, Distrito Federal (cdmx)"|18,500 MX$|2|2|100m2
 "Departamento en Renta Av Bonampak Sm27 #01
 , Benito Juárez, Distrito Federal (cdmx)"|45,000 MX$|4|4|320m2
-"Departamento en Renta Prolongación 5 De Mayo
-, Lomas De Tarango, Álvaro Obregón, Distrito Federal (cdmx)"|6,950 MX$|2|1|46m2
+"Departamento en Renta Atenas #3
+, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)"|2,700 MX$|1|1|25m2
 "Departamento en Renta Bajio #232
 , Roma Sur, Cuauhtémoc, Distrito Federal (cdmx)"|19,500 MX$|2|2|105m2
 Departamento en Renta Popocatpetl 233 Santa Cruz Atoyac, Distrito Federal (cdmx)|14,000 MX$|2|2|70m2
-"Departamento en Renta Iglesia #270
-, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)"|29,000 MX$|3|2|130m2
 "Departamento en Renta Sagredo #253
 , Álvaro Obregón, Distrito Federal (cdmx)"|25,800 MX$|2|2|48m2
 Departamento en Renta Genova 20, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|20,000 MX$|2|2|118m2
+"Departamento en Renta Bruno Traven #93, 1
+, General Pedro Maria Anaya, Benito Juárez, Distrito Federal (cdmx)"|18,500 MX$|2|2|100m2
+"Departamento en Renta Prolongación 5 De Mayo
+, Lomas De Tarango, Álvaro Obregón, Distrito Federal (cdmx)"|6,950 MX$|2|1|46m2
+"Departamento en Renta Av. Mexico #359
+, Cuajimalpa De Morelos, Distrito Federal (cdmx)"|23,500 MX$|3|3|148m2
+"Departamento en Renta Adolfo Prieto #1033
+, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|30,000 MX$|2|2|116m2
+Departamento en Renta Av. Santa Fe 449, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20,000 MX$|3|3|173m2
+Departamento en Renta Culiacán 108, Condesa, Ciudad De México, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|21,500 MX$|2|2|130m2
 "Departamento en Renta Lago Alberto #300
 , Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|18,000 MX$|1|1|52m2
 "Departamento en Renta Av. De Las Torres Al 800
 , Álvaro Obregón, Distrito Federal (cdmx)"|14,000 MX$|1|1|54m2
-"Departamento en Renta Av. Mexico #359
-, Cuajimalpa De Morelos, Distrito Federal (cdmx)"|23,500 MX$|3|3|148m2
-"Departamento en Renta Xicoténcatl #137
-, Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)"|10,000 MX$|1|1|60m2
-"Departamento en Renta Mexico Coyoacan #371
-, Xoco, Benito Juárez, Distrito Federal (cdmx)"|20,000 MX$|2|2|80m2
-"Departamento en Renta Adolfo Prieto #1033
-, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|30,000 MX$|2|2|116m2
-Departamento en Renta Av. Santa Fe 449, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20,000 MX$|3|3|173m2
-"Departamento en Renta Sanchez Azcona #1651
-, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)"|17,000 MX$|2|1|114m2
-Departamento en Renta Culiacán 108, Condesa, Ciudad De México, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|21,500 MX$|2|2|130m2
 "Departamento en Renta Adolfo Prieto #1033
 , Del Valle, Benito Juárez, Distrito Federal (cdmx)"|34,000 MX$|2|2|116m2
 "Departamento en Renta Tiburcio Sánchez De La Barquera #115
 , Merced Gómez, Benito Juárez, Distrito Federal (cdmx)"|20,000 MX$|2|2|98m2
 Departamento en Renta Chosica 655-3 Col. Lindavista, Distrito Federal (cdmx)|13,800 MX$|2|1|120m2
-"Departamento en Renta 7 (periferico Oriental)
-, Iztacalco, Distrito Federal (cdmx)"|6,000 MX$|2|1|45m2
+"Departamento en Renta Xicoténcatl #137
+, Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)"|10,000 MX$|1|1|60m2
+"Departamento en Renta Mexico Coyoacan #371
+, Xoco, Benito Juárez, Distrito Federal (cdmx)"|20,000 MX$|2|2|80m2
+"Departamento en Renta Sanchez Azcona #1651
+, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)"|17,000 MX$|2|1|114m2
 Departamento en Renta Prolongación Reforma #1190, Cuajimalpa De Morelos, Distrito Federal (cdmx)|35,000 MX$|2|2|140m2
 Departamento en Renta Calle Duna Edificio 40 Depto 1 Unidad Habitacional Patera Vallejo, Vallejo, Ciudad De México|7,200 MX$|3|1|80m2
 "Departamento en Renta Oasis #94
 , Clavería, Azcapotzalco, Distrito Federal (cdmx)"|13,000 MX$|3|1|94m2
 "Departamento en Renta Chicago #98
 , Nápoles, Benito Juárez, Distrito Federal (cdmx)"|58,215 MX$|3|3|190m2
-"Departamento en Renta Av Tamaulipas #1236
-, Álvaro Obregón, Distrito Federal (cdmx)"|9,200 MX$|1|1|39m2
 "Departamento en Renta Jose Rosas Moreno #96
 , San Rafael, Cuauhtémoc, Distrito Federal (cdmx)"|20,500 MX$|2|1|74m2
 "Departamento en Renta Andres De La Concha #10
 , San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|18,000 MX$|2|2|120m2
 "Departamento en Renta Ahuehuetes Nte #1275, 401
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|54,000 MX$|3|3|305m2
+"Departamento en Renta 7 (periferico Oriental)
+, Iztacalco, Distrito Federal (cdmx)"|6,000 MX$|2|1|45m2
 Departamento en Renta Av.jardín 330 Colonia Del Gas, Azcapotzalco, Distrito Federal (cdmx)|9,500 MX$|2|2|76m2
+"Departamento en Renta Av Tamaulipas #1236
+, Álvaro Obregón, Distrito Federal (cdmx)"|9,200 MX$|1|1|39m2
 Departamento en Renta Revolucion 1185, Merced Gomez, Álvaro Obregón, Distrito Federal (cdmx)|15,000 MX$|2|2|65m2
 "Departamento en Renta Juan Augusto Ingres #143
 , Santa Maria Nonoalco, Benito Juárez, Distrito Federal (cdmx)"|13,000 MX$|2|1|65m2
 "Departamento en Renta Encinos #65
 , Tlalpan, Distrito Federal (cdmx)"|11,500 MX$|2|2|90m2
-"Departamento en Renta Avenida Mexico Coyoacan #0
-, Xoco, Benito Juárez, Distrito Federal (cdmx)"|18,500 MX$|2|2|80m2
 "Departamento en Renta Popocatepetl #415, 604
 , Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|22,000 MX$|2|2|86m2
 "Departamento en Renta Heraclito #2
@@ -332,58 +328,50 @@ Departamento en Renta Revolucion 1185, Merced Gomez, Álvaro Obregón, Distrito 
 Departamento en Renta Tiztik 9 Teotihuacan, Ciudad De México, Distrito Federal (cdmx)|14,500 MX$|2|2|130m2
 "Departamento en Renta Av. Cuauhtémoc #997, 5
 , Narvarte, Benito Juárez, Distrito Federal (cdmx)"|19,900 MX$|2|2|105m2
+"Departamento en Renta Avenida Mexico Coyoacan #0
+, Xoco, Benito Juárez, Distrito Federal (cdmx)"|18,500 MX$|2|2|80m2
 Departamento en Renta Avenida Mariano Escobedo, Esquina Con Lago Alberto, Colonia Anáhuac, 11490 Ciudad De México, Cdmx, Miguel Hidalgo, Distrito Federal (cdmx)|30,000 MX$|2|2|110m2
 "Departamento en Renta Departamento En Renta En Aquario Con 2 Recamaras En Interlomas.
 , Jesús Del Monte, Cuajimalpa De Morelos"|23,500 MX$|2|1|140m2
 "Departamento en Renta Jose Moran #00
 , San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|32,000 MX$|2|2|150m2
-"Departamento en Renta León Trotsky #58, 58
-, Romero Rubio, Venustiano Carranza, Distrito Federal (cdmx)"|4,800 MX$|2|1|50m2
-"Departamento en Renta Presa Las Lajas #243
-, Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|25,000 MX$|2|2|70m2
 "Departamento en Renta Zurich #272
 , Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|46,000 MX$|3|4|162m2
 "Departamento en Renta Cda. De Guillermo Prieto #38
 , Jesús Del Monte, Cuajimalpa De Morelos"|15,000 MX$|2|3|134m2
 "Departamento en Renta Departamento En Renta En Bosques De Las Lomas De 3 Recamaras, Cdmx
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|46,000 MX$|3|3|292m2
+"Departamento en Renta León Trotsky #58, 58
+, Romero Rubio, Venustiano Carranza, Distrito Federal (cdmx)"|4,800 MX$|2|1|50m2
 "Departamento en Renta Pennsylvania #229, 101
 , Nápoles, Benito Juárez, Distrito Federal (cdmx)"|20,500 MX$|2|2|98m2
 Departamento en Renta Lago Alberto 320, Miguel Hidalgo, Distrito Federal (cdmx)|38,000 MX$|3|3|156m2
 Departamento en Renta Tarasco 52 Interior Depto 801, Edificio “n”, Colonia Degollado, Delegación Iztapalapa, Ciudad De Mexico, Desarrollo Urbano Quetzalcoatl, Ciudad De México|4,000 MX$|2|1|50m2
 Departamento en Renta 1, Acacias, Benito Juárez, Distrito Federal (cdmx)|30,000 MX$|4|2|1m2
-"Departamento en Renta Jesus Del Monte #0, 0
-, Jesús Del Monte, Cuajimalpa De Morelos"|22,000 MX$|2|2|100m2
 "Departamento en Renta Angel Urraza #1839
 , Independencia, Benito Juárez, Distrito Federal (cdmx)"|17,500 MX$|2|2|75m2
 "Departamento en Renta Arquimedes #200
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|27,000 MX$|2|1|60m2
-"Departamento en Renta Eje Central #1130
-, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)"|14,500 MX$|2|1|70m2
-"Departamento en Renta Arquimedes #191
-, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|29,000 MX$|2|2|167m2
-"Departamento en Renta Independencia #1
-, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)"|13,500 MX$|2|2|97m2
+"Departamento en Renta Jesus Del Monte #0, 0
+, Jesús Del Monte, Cuajimalpa De Morelos"|22,000 MX$|2|2|100m2
 "Departamento en Renta Blvd Adolfo Lopez Mateos #1951
 , Los Alpes, Álvaro Obregón, Distrito Federal (cdmx)"|15,000 MX$|1|2|60m2
-"Departamento en Renta Popocatepetl #00x
-, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|19,000 MX$|2|2|85m2
 "Departamento en Renta Paseo De Laureles #410
 , Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)"|38,000 MX$|3|4|323m2
 "Departamento en Renta Capricornio #73
 , Prado Churubusco, Coyoacán, Distrito Federal (cdmx)"|14,000 MX$|3|3|102m2
 "Departamento en Renta Adolfo Prieto #1033, 102
 , Del Valle, Benito Juárez, Distrito Federal (cdmx)"|30,000 MX$|3|2|136m2
-"Departamento en Renta Atenas #3
-, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)"|3,600 MX$|2|1|42m2
+"Departamento en Renta Eje Central #1130
+, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)"|14,500 MX$|2|1|70m2
 "Departamento en Renta Departamento De 2 Niveles En Renta En Magna Residencial, Santa Fe.
 , El Yaqui, Cuajimalpa De Morelos"|30,715 MX$|2|2|120m2
-"Departamento en Renta Ibsen #0
-, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|184,347.5 MX$|4|5|470m2
-"Departamento en Renta Enrique Rebsamen #227
-, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|20,000 MX$|2|2|120m2
-"Departamento en Renta Carretera Mexico Toluca #5095
-, El Yaqui, Cuajimalpa De Morelos"|14,500 MX$|1|1|40m2
+"Departamento en Renta Arquimedes #191
+, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|29,000 MX$|2|2|167m2
+"Departamento en Renta Independencia #1
+, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)"|13,500 MX$|2|2|97m2
+"Departamento en Renta Popocatepetl #00x
+, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)"|19,000 MX$|2|2|85m2
 "Departamento en Renta Camino Real De Minas #17
 , Lomas De Los Angeles Del Pueblo Tetelpan, Álvaro Obregón, Distrito Federal (cdmx)"|20,000 MX$|2|3|150m2
 "Departamento en Renta Cofre De Perote #220
@@ -394,50 +382,56 @@ Departamento en Renta Insurgentes Norte 57 Esquina Hamburgo, Departamento 9, Col
 Departamento en Renta Paseo De La Reforma 284, Ciudad De México, Distrito Federal (cdmx)|22,000 MX$|1|1|78m2
 "Departamento en Renta Rafael Solana #5
 , Independencia, Benito Juárez, Distrito Federal (cdmx)"|13,200 MX$|2|2|70m2
+"Departamento en Renta Atenas #3
+, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)"|3,600 MX$|2|1|42m2
+"Departamento en Renta Ibsen #0
+, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|184,347.5 MX$|4|5|470m2
 Departamento en Renta Prolongación Paseo De La Reforma 200, Paseo De Las Lomas, Álvaro Obregón, Distrito Federal (cdmx)|12,000 MX$|1|2|113m2
 "Departamento en Renta Thomas A Edison #139
 , San Rafael, Cuauhtémoc, Distrito Federal (cdmx)"|15,000 MX$|2|1|65m2
+"Departamento en Renta Enrique Rebsamen #227
+, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|20,000 MX$|2|2|120m2
+"Departamento en Renta Carretera Mexico Toluca #5095
+, El Yaqui, Cuajimalpa De Morelos"|14,500 MX$|1|1|40m2
 "Departamento en Renta Barranca Del Muerto #212
 , San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|18,500 MX$|2|2|70m2
-"Departamento en Renta Barranca Del Muerto #1
-, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|3|4|147m2
 "Departamento en Renta Paseo De Las Bugambilias #1000, 00
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|90,000 MX$|3|4|395m2
 "Departamento en Renta Elefante #93
 , Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)"|42,000 MX$|3|5|300m2
 "Departamento en Renta Amores #1609
 , Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)"|18,000 MX$|2|2|96m2
-"Departamento en Renta Santa Cruz Cacalco #25, 601 ""a""
-, Miguel Hidalgo, Distrito Federal (cdmx)"|8,750 MX$|1|1|63m2
 "Departamento en Renta Cofré De Perote #0, 0
 , Lomas De Chapultepec Viii Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|60,000 MX$|3|4|250m2
 "Departamento en Renta Guanajuato #85
 , San Bartolo Atepehuacan, Gustavo A. Madero"|14,000 MX$|3|2|105m2
+"Departamento en Renta Barranca Del Muerto #1
+, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|3|4|147m2
+Departamento en Renta Avenida Toluca 441, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|13,000 MX$|2|2|75m2
+"Departamento en Renta Santa Cruz Cacalco #25, 601 ""a""
+, Miguel Hidalgo, Distrito Federal (cdmx)"|8,750 MX$|1|1|63m2
 "Departamento en Renta Ingenieros Grabadores #11
 , Jardines De Churubusco, Iztapalapa"|9,000 MX$|3|1|84m2
-Departamento en Renta Avenida Toluca 441, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|13,000 MX$|2|2|75m2
 Departamento en Renta Av Revolución 1400, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|20,000 MX$|2|2|75m2
-"Departamento en Renta Adolfo Prieto #1033, 101
-, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|26,500 MX$|3|2|117m2
 Departamento en Renta 11 De Abril 177 303 A, Ciudad De México, Distrito Federal (cdmx)|12,500 MX$|2|1|120m2
 "Departamento en Renta Montecito #57
 , Nápoles, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|1|2|90m2
 "Departamento en Renta Ave Revolucion #1062, 302
 , San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|17,000 MX$|2|2|80m2
-"Departamento en Renta Granjas #38
-, Cuajimalpa De Morelos, Distrito Federal (cdmx)"|14,800 MX$|2|1|74m2
 "Departamento en Renta Av. Veracruz #62
 , Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)"|52,000 MX$|2|2|128m2
+"Departamento en Renta Adolfo Prieto #1033, 101
+, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|26,500 MX$|3|2|117m2
 "Departamento en Renta Santa Fe #1
 , Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|72,000 MX$|3|4|240m2
 "Departamento en Renta Montecito #57
 , Ampliación Napoles, Benito Juárez, Distrito Federal (cdmx)"|25,000 MX$|1|2|90m2
 "Departamento en Renta Paseo De Las Palmas #515
 , Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)"|110,000 MX$|2|3|250m2
-"Departamento en Renta Division Del Norte #3526
-, Coyoacán, Distrito Federal (cdmx)"|17,000 MX$|2|2|89m2
 "Departamento en Renta Jose Ma. Vertiz #1
 , Vertiz Narvarte, Benito Juárez, Distrito Federal (cdmx)"|18,000 MX$|1|1|60m2
+"Departamento en Renta Granjas #38
+, Cuajimalpa De Morelos, Distrito Federal (cdmx)"|14,800 MX$|2|1|74m2
 "Departamento en Renta Departamento En Renta En Bosques De Las Lomas Con 2 Recamaras.
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|40,000 MX$|2|2|250m2
 Departamento en Renta Camino A Santa Fe 1231, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|11,500 MX$|2|1|100m2
@@ -445,59 +439,63 @@ Departamento en Renta Camino A Santa Fe 1231, Santa Fe, Álvaro Obregón, Distri
 , Cuajimalpa De Morelos, Distrito Federal (cdmx)"|19,000 MX$|2|2|97m2
 "Departamento en Renta Calzada Del Hueso #621
 , Granjas Coapa, Tlalpan, Distrito Federal (cdmx)"|11,000 MX$|3|1|86m2
-"Departamento en Renta Periférico Sur #4860, 5
-, Xochimilco, Distrito Federal (cdmx)"|20,000 MX$|2|2|85m2
+"Departamento en Renta Division Del Norte #3526
+, Coyoacán, Distrito Federal (cdmx)"|17,000 MX$|2|2|89m2
 "Departamento en Renta Paseo De Las Palmas #800
 , Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|194,050 MX$|2|3|620m2
 "Departamento en Renta Ing. Grabadores #11
 , Jardines De Churubusco, Iztapalapa"|9,000 MX$|3|1|84m2
-"Departamento en Renta Peral #26
-, Santa Maria La Ribera, Cuauhtémoc, Distrito Federal (cdmx)"|12,500 MX$|2|2|67m2
 "Departamento en Renta Inglaterra #105, 1er Piso
 , Parque San Andres, Coyoacán, Distrito Federal (cdmx)"|16,000 MX$|1|2|80m2
 "Departamento en Renta Estrasburgo #0
 , Juárez, Cuauhtémoc, Distrito Federal (cdmx)"|17,000 MX$|2|1|60m2
+"Departamento en Renta Periférico Sur #4860, 5
+, Xochimilco, Distrito Federal (cdmx)"|20,000 MX$|2|2|85m2
 Departamento en Renta Calzada México-tacuba 1501, Distrito Federal (cdmx)|10,500 MX$|2|1|58m2
-"Departamento en Renta Sur 79 #353
-, Venustiano Carranza, Distrito Federal (cdmx)"|5,500 MX$|1|1|48m2
 "Departamento en Renta Lago Zurich #272, 810
 , Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|46,000 MX$|3|5|162m2
-"Departamento en Renta General Pedro Antonio De Los Santos #0, 203
-, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|17,000 MX$|3|2|110m2
 Departamento en Renta Av Anacahuita 26, Distrito Federal (cdmx)|67,917.5 MX$|2|1|20m2
 "Departamento en Renta Cerrada De Tamarindos #0, 0
 , Bosques De Las Lomas, Cuajimalpa De Morelos"|33,000 MX$|3|4|218m2
 "Departamento en Renta Rubén Darío #275
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|145,537.5 MX$|2|3|390m2
+"Departamento en Renta Peral #26
+, Santa Maria La Ribera, Cuauhtémoc, Distrito Federal (cdmx)"|12,500 MX$|2|2|67m2
 "Departamento en Renta Providencia #1000
 , Del Valle, Benito Juárez, Distrito Federal (cdmx)"|16,000 MX$|2|2|86m2
 Departamento en Renta Gómez Farias 23a, Bejero, 01340 Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|Desde				4,500 MX$|6|1|9m2
-"Departamento en Renta Periferico Sur #4091
-, Tlalpan, Distrito Federal (cdmx)"|5,500 MX$|1|1|132m2
-"Departamento en Renta Víctor Hugo #17, 401
-, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)"|10,000 MX$|2|1|80m2
+"Departamento en Renta Sur 79 #353
+, Venustiano Carranza, Distrito Federal (cdmx)"|5,500 MX$|1|1|48m2
+"Departamento en Renta General Pedro Antonio De Los Santos #0, 203
+, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|17,000 MX$|3|2|110m2
 "Departamento en Renta Avenida Tecamachalco #31
 , Reforma Social, Miguel Hidalgo, Distrito Federal (cdmx)"|25,500 MX$|1|1|65m2
 "Departamento en Renta Suderman #1, 3
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|55,000 MX$|2|2|140m2
+"Departamento en Renta Periferico Sur #4091
+, Tlalpan, Distrito Federal (cdmx)"|5,500 MX$|1|1|132m2
 "Departamento en Renta Lago Margarita #34
 , Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|20,500 MX$|2|2|68m2
 "Departamento en Renta Calle Lago Zurich #245
 , Colonia Irrigación, Miguel Hidalgo, Distrito Federal (cdmx)"|70,000 MX$|2|3|120m2
+"Departamento en Renta Ph En Renta De 2 Niveles En Polanco, Miguel Hidalgo, Cdmx
+, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|106,727.5 MX$|3|3|250m2
 "Departamento en Renta Goldsmith #37
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|75,000 MX$|3|4|180m2
+"Departamento en Renta Víctor Hugo #17, 401
+, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)"|10,000 MX$|2|1|80m2
 Departamento en Renta Reforma 222, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|28,000 MX$|1|2|75m2
 "Departamento en Renta Prolongacion Ocote #64
-, Cuajimalpa De Morelos, Distrito Federal (cdmx)"|9,200 MX$|2|2|64m2
+, Cuajimalpa De Morelos, Distrito Federal (cdmx)"|8,950 MX$|2|2|64m2
 "Departamento en Renta Lago Alberto #300, 710
 , Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)"|19,800 MX$|1|1|52m2
-"Departamento en Renta Siete #190
-, Coyoacán, Distrito Federal (cdmx)"|15,800 MX$|3|2|110m2
 Departamento en Renta Plaza Rio De Janeiro 56, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|19,200 MX$|2|1|80m2
 "Departamento en Renta Xicohténcatl #137
 , Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)"|10,000 MX$|1|1|65m2
 "Departamento en Renta Anillo Perif. Blvd. Adolfo López Mateos #5146
 , Coyoacán, Distrito Federal (cdmx)"|28,000 MX$|2|2|105m2
+"Departamento en Renta Siete #190
+, Coyoacán, Distrito Federal (cdmx)"|15,800 MX$|3|2|110m2
 "Departamento en Renta Homero #246
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|87,322.5 MX$|3|3|280m2
 "Departamento en Renta Avenida Mariano Escobedo, Lago Iseo Esquina #0
@@ -508,8 +506,6 @@ Departamento en Renta Plaza Rio De Janeiro 56, Cuauhtémoc, Cuauhtémoc, Distrit
 , San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|21,000 MX$|2|2|103m2
 "Departamento en Renta Peten #543, 4
 , Letrán Valle, Benito Juárez, Distrito Federal (cdmx)"|18,000 MX$|3|2|103m2
-"Departamento en Renta Manuel Avila Camacho #166, 102
-, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|19,500 MX$|2|2|140m2
 Departamento en Renta Paseo De La Reforma 222, Distrito Federal (cdmx)|33,000 MX$|2|2|120m2
 "Departamento en Renta Palo Alto #73
 , Cuajimalpa De Morelos, Distrito Federal (cdmx)"|14,000 MX$|2|2|65m2
@@ -517,30 +513,30 @@ Departamento en Renta Río Nazas #152, Ciudad De México, Distrito Federal (cdmx
 Departamento en Renta Prolongación Avenida Vasco De Quiroga 3850, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20,000 MX$|2|2|91m2
 "Departamento en Renta Guaymas #33
 , Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)"|18,000 MX$|3|2|95m2
+"Departamento en Renta Manuel Avila Camacho #166, 102
+, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|19,500 MX$|2|2|140m2
 "Departamento en Renta Moras #1254
 , Álvaro Obregón, Distrito Federal (cdmx)"|14,000 MX$|1|1|20m2
 "Departamento en Renta Encarnación Ortiz #1860
 , Azcapotzalco, Distrito Federal (cdmx)"|13,000 MX$|2|2|65m2
-"Departamento en Renta Indianapolis #4
-, Nápoles, Benito Juárez, Distrito Federal (cdmx)"|22,500 MX$|2|2|64m2
 "Departamento en Renta Manuel Avila Camacho #166, 102
 , Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|19,500 MX$|2|2|80m2
 "Departamento en Renta Paseo De La Reforma #439
 , Cuauhtémoc, Distrito Federal (cdmx)"|89,000 MX$|2|2|180m2
-"Departamento en Renta Av. Cuauhtémoc #1
-, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|20,200 MX$|2|1|69m2
 "Departamento en Renta Inglaterra #105
 , Parque San Andres, Coyoacán, Distrito Federal (cdmx)"|16,000 MX$|1|1|80m2
-"Departamento en Renta Av Cuauhtemoc #514
-, Narvarte, Benito Juárez, Distrito Federal (cdmx)"|15,000 MX$|2|2|62m2
+"Departamento en Renta Indianapolis #4
+, Nápoles, Benito Juárez, Distrito Federal (cdmx)"|22,500 MX$|2|2|64m2
 "Departamento en Renta Palo Alto #73
 , Cuajimalpa De Morelos, Distrito Federal (cdmx)"|17,000 MX$|2|2|75m2
 "Departamento en Renta Sagredo #253
 , Álvaro Obregón, Distrito Federal (cdmx)"|19,980 MX$|1|1|36m2
-"Departamento en Renta Av. De Las Torres #58
-, Los Reyes, Coyoacán, Distrito Federal (cdmx)"|11,000 MX$|3|1|80m2
+"Departamento en Renta Av. Cuauhtémoc #1
+, Del Valle, Benito Juárez, Distrito Federal (cdmx)"|20,200 MX$|2|1|69m2
 "Departamento en Renta Avenida Revolucion #000
 , San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)"|19,000 MX$|2|2|103m2
+"Departamento en Renta Av Cuauhtemoc #514
+, Narvarte, Benito Juárez, Distrito Federal (cdmx)"|15,000 MX$|2|2|62m2
 "Departamento en Renta Campos Elíseos #1
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|50,000 MX$|3|3|274m2
 "Departamento en Renta Av. Del Iman #141, 3
@@ -551,8 +547,6 @@ Departamento en Renta San Guillermo Lote 1 Mz 19 Col. Pedregal De Santa Ursula, 
 "Departamento en Renta Inglaterra #105
 , Parque San Andres, Coyoacán, Distrito Federal (cdmx)"|16,000 MX$|1|1|80m2
 Departamento en Renta Privada Veracruz 13, Cuajimalpa De Morelos, Distrito Federal (cdmx)|15,500 MX$|3|3|166m2
-"Departamento en Renta Camino A Santa Fe #1231, 302
-, Álvaro Obregón, Distrito Federal (cdmx)"|11,000 MX$|2|1|80m2
 "Departamento en Renta Tlálpan #1461
 , Portales Oriente, Benito Juárez, Distrito Federal (cdmx)"|12,500 MX$|2|2|70m2
 "Departamento en Renta Plaza Valverde #60
@@ -565,6 +559,8 @@ Departamento en Renta Privada Veracruz 13, Cuajimalpa De Morelos, Distrito Feder
 , Del Valle, Benito Juárez, Distrito Federal (cdmx)"|24,000 MX$|3|3|110m2
 "Departamento en Renta Av Mexico #321
 , Coyoacán, Distrito Federal (cdmx)"|26,000 MX$|2|2|86m2
+"Departamento en Renta Camino A Santa Fe #1231, 302
+, Álvaro Obregón, Distrito Federal (cdmx)"|11,000 MX$|2|1|80m2
 "Departamento en Renta Edgar Allan Poe #0
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|76,649.75 MX$|2|3|170m2
 "Departamento en Renta Emerson #1
@@ -575,12 +571,8 @@ Departamento en Renta Privada Veracruz 13, Cuajimalpa De Morelos, Distrito Feder
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|97,025 MX$|3|3|250m2
 "Departamento en Renta Coyoacan #0
 , Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)"|23,000 MX$|2|2|140m2
-"Departamento en Renta Rio Becerra #64, 1
-, San Pedro De Los Pinos, Benito Juárez, Distrito Federal (cdmx)"|9,000 MX$|1|1|50m2
 "Departamento en Renta Ph En Renta De 2 Niveles En Polanco.
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|45,000 MX$|3|2|305m2
-"Departamento en Renta Sur 105 #1110
-, Venustiano Carranza, Distrito Federal (cdmx)"|6,800 MX$|2|1|60m2
 "Departamento en Renta Río Sena #67, 203
 , Cuauhtémoc, Distrito Federal (cdmx)"|29,000 MX$|2|2|100m2
 "Departamento en Renta Paseo De La Reforma #222
@@ -599,14 +591,10 @@ Departamento en Renta Av. Santa Fe 449, Loma De Santa Fe, Cuajimalpa De Morelos|
 Departamento en Renta Constituyente Amilcar Vidal 149, Lomas De Memetla, Distrito Federal (cdmx)|8,000 MX$|1|1|65m2
 "Departamento en Renta Arneses #10
 , Iztapalapa, Distrito Federal (cdmx)"|11,000 MX$|3|1|81m2
-"Departamento en Renta Prolongacion Paseo De La Reforma #307, 4
-, Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|21,000 MX$|2|2|74m2
 "Departamento en Renta Juan Sanchez Azcona #1426, 104
 , Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)"|17,000 MX$|1|1|80m2
 "Departamento en Renta Eugenio Sue #0
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|66,000 MX$|2|3|170m2
-"Departamento en Renta Ph En Renta De 2 Niveles En Polanco, Miguel Hidalgo, Cdmx
-, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|106,727.5 MX$|3|3|250m2
 "Departamento en Renta Azalea #152
 , La Magdalena Contreras, Distrito Federal (cdmx)"|11,500 MX$|2|2|140m2
 "Departamento en Renta Azalea #152
@@ -623,6 +611,8 @@ Departamento en Renta Constituyente Amilcar Vidal 149, Lomas De Memetla, Distrit
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|126,132.5 MX$|3|4|213m2
 "Departamento en Renta Juarez Y Zarco # 12
 , Cuajimalpa De Morelos, Distrito Federal (cdmx)"|15,000 MX$|2|2|60m2
+"Departamento en Renta Prolongacion Paseo De La Reforma #307, 4
+, Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|21,000 MX$|2|2|74m2
 Departamento en Renta Pablo Ucello 51, Ciudad De México, Distrito Federal (cdmx)|16,600 MX$|2|2|110m2
 "Departamento en Renta Río Sena #67, 203 A
 , Cuauhtémoc, Distrito Federal (cdmx)"|27,000 MX$|2|2|100m2
@@ -632,8 +622,6 @@ Departamento en Renta Pablo Ucello 51, Ciudad De México, Distrito Federal (cdmx
 , La Magdalena Contreras, Distrito Federal (cdmx)"|13,500 MX$|2|2|140m2
 Departamento en Renta Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|43,176.13 MX$|2||43m2
 Departamento en Renta Periferico Sur 4091, Ciudad De México, Distrito Federal (cdmx)|12,000 MX$|4|3|120m2
-"Departamento en Renta Coahuila #159
-, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)"|32,000 MX$|2|2|150m2
 "Departamento en Renta General Pedro Antonio De Los Santos #0, 204
 , San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|17,000 MX$|3|2|150m2
 "Departamento en Renta Eugenio Sue #200
@@ -641,10 +629,10 @@ Departamento en Renta Periferico Sur 4091, Ciudad De México, Distrito Federal (
 Departamento en Renta Moliere 340 B Polanco M. Hidalgo Cdmx, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|30,000 MX$|2|1|110m2
 "Departamento en Renta Francisco Petrarca #139
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|87,322.5 MX$|3|3|177m2
+"Departamento en Renta Coahuila #159
+, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)"|32,000 MX$|2|2|150m2
 "Departamento en Renta Cardos #6
 , Tlalpan, Distrito Federal (cdmx)"|5,500 MX$|3|1|64m2
-"Departamento en Renta Departamento En Renta En Polanco Con 3 Recamaras.
-, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|58,215 MX$|3|3|250m2
 "Departamento en Renta Anatole France #0
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|54,334 MX$|2|3|210m2
 Departamento en Renta Insurgentes Sur 297, Ciudad De México, Distrito Federal (cdmx)|24,000 MX$|3|2|115m2
@@ -670,20 +658,22 @@ Departamento en Renta Parroquia 411, Benito Juárez, Distrito Federal (cdmx)|21,
 , Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|97,025 MX$|3|4|360m2
 "Departamento en Renta Lago Como #128, 504
 , Miguel Hidalgo, Distrito Federal (cdmx)"|11,000 MX$|2|2|66m2
-"Departamento en Renta Cholula #20, 301 Y 502
-, Miguel Hidalgo, Distrito Federal (cdmx)"|29,000 MX$|3|2|110m2
 Departamento en Renta Camino Antiguo Santa Fe, Numero 55, Corpus Christy, Álvaro Obregón, Distrito Federal (cdmx)|4,200 MX$|2|2|70m2
 Departamento en Renta Lomas De Becerra Edif 7 Dep 1, Álvaro Obregón, Distrito Federal (cdmx)|Desde				9,000 MX$|2|1|73m2
+"Departamento en Renta Cholula #20, 301 Y 502
+, Miguel Hidalgo, Distrito Federal (cdmx)"|29,000 MX$|3|2|110m2
 Departamento en Renta Nelly Campobello 129, Álvaro Obregón, Distrito Federal (cdmx)|9,000 MX$|2|2|73m2
 "Departamento en Renta Patricio Sanz #1357
 , Tlacoquemecatl, Benito Juárez, Distrito Federal (cdmx)"|28,000 MX$|3|4|152m2
 Departamento en Renta Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|23,615.89 MX$|1||27m2
 "Departamento en Renta Uman #11
 , Tlalpan, Distrito Federal (cdmx)"|8,500 MX$|3|1|80m2
-"Departamento en Renta Encinos #65
-, Tlalpan, Distrito Federal (cdmx)"|11,500 MX$|2|2|90m2
+"Departamento en Renta Av. F.f.cc. Nacionales #1940
+, Azcapotzalco, Distrito Federal (cdmx)"|7,800 MX$|2|1|60m2
 "Departamento en Renta Ruben Dario #35
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|242,562.5 MX$|3|4|429m2
+"Departamento en Renta Encinos #65
+, Tlalpan, Distrito Federal (cdmx)"|11,500 MX$|2|2|90m2
 "Departamento en Renta Edgar Allan Poe #0
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|76,649.75 MX$|2|3|170m2
 Departamento en Renta Calle Lago Zurich 245, Delegación Miguel Hidalgo, 11529 Ciudad De México, Cdmx, Miguel Hidalgo, Distrito Federal (cdmx)|30,000 MX$|3|3|145m2
@@ -703,12 +693,12 @@ Departamento en Renta Calle Pitágoras 284, Benito Juárez, Distrito Federal (cd
 , Santa Fe Cuajimalpa, Cuajimalpa De Morelos"|27,000 MX$|3|4|127m2
 "Departamento en Renta Yaquis #1
 , Tlalpan, Distrito Federal (cdmx)"|4,000 MX$|2|1|33m2
-"Departamento en Renta Begonias #1
-, Clavería, Azcapotzalco, Distrito Federal (cdmx)"|8,750 MX$|2|1|75m2
 "Departamento en Renta Nubia #264
 , Del Recreo, Azcapotzalco, Distrito Federal (cdmx)"|10,500 MX$|2|1|55m2
 "Departamento en Renta Calzada De Tlalpan #1510
 , Portales Oriente, Benito Juárez, Distrito Federal (cdmx)"|14,000 MX$|2|2|70m2
+"Departamento en Renta Begonias #1
+, Clavería, Azcapotzalco, Distrito Federal (cdmx)"|8,750 MX$|2|1|75m2
 "Departamento en Renta Prolongación Paseo De La Reforma #307
 , Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)"|19,500 MX$|2|2|75m2
 Departamento en Renta José María Izazaga 20, Distrito Federal (cdmx)|18,000 MX$|2|1|80m2
@@ -723,21 +713,19 @@ Departamento en Renta Calzada De Las Aguilas 1124, Ciudad De México, Distrito F
 , Gustavo A. Madero, Distrito Federal (cdmx)"|10,500 MX$|2|1|66m2
 "Departamento en Renta Paseo De Las Palmas #800
 , Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)"|52,393.5 MX$|2|3|270m2
-"Departamento en Renta Basiliso Romo Anguiano #134, 7
-, Gustavo A. Madero, Distrito Federal (cdmx)"|19,000 MX$|3|3|120m2
 Departamento en Renta Ave. Carlos Lazo 20, Álvaro Obregón, Distrito Federal (cdmx)|Desde				22,000 MX$|1|1|120m2
 Departamento en Renta 6ta Cerrada De Francisco I Madero, Ex Ejido De Santa Ursula Coapa, Ex-ejido De Santa Ursula Coapa, Ciudad De México|Desde				2,900 MX$|3||80m2
 Departamento en Renta Calle La Paz # 6 Colonia San Lorenzo Huipulco, San Lorenzo Huipulco, Tlalpan, Distrito Federal (cdmx)|Desde				2,500 MX$|34|14|200m2
 "Departamento en Renta Pocito #139, 7
 , Popotla, Miguel Hidalgo, Distrito Federal (cdmx)"|8,300 MX$|3|1|70m2
-"Departamento en Renta Jesús Lecuona #90, 3
-, Tlalpan, Distrito Federal (cdmx)"|8,500 MX$|2|1|80m2
 "Departamento en Renta Prol Bosque De La Reforma #1455
 , Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)"|56,500 MX$|3|4|380m2
 Departamento en Renta Av. Aquiles Serdan 671, Centro De Azcapotzalco, Distrito Federal (cdmx)|Desde				13,200 MX$|2|1|64m2
+"Departamento en Renta Jesús Lecuona #90, 3
+, Tlalpan, Distrito Federal (cdmx)"|8,500 MX$|2|1|80m2
+Departamento en Renta Av. Jardín 257, Ampliación Del Gas, Azcapotzalco, Distrito Federal (cdmx)|Remate Bancario				13,000 MX$|1|1|51m2
 "Departamento en Renta Andres Molina Enriquez #4118
 , Cuauhtémoc, Distrito Federal (cdmx)"|5,000 MX$|1|1|40m2
-Departamento en Renta Av. Jardín 257, Ampliación Del Gas, Azcapotzalco, Distrito Federal (cdmx)|Remate Bancario				13,000 MX$|1|1|51m2
 Departamento en Renta Etla 15, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|21,000 MX$|1|1|50m2
 "Departamento en Renta Miguel De Cervantes De Saavedra #303
 , Granada, Miguel Hidalgo, Distrito Federal (cdmx)"|145,537.5 MX$|3|3|221m2
@@ -794,9 +782,9 @@ Departamento en Renta Lago Zurich 244 Ph, Ampliación Granada, Miguel Hidalgo, D
 , Del Valle, Benito Juárez, Distrito Federal (cdmx)"|15,000 MX$|2|2|80m2
 Departamento en Renta Miguel De Cervantes Saavedra 380, Colonia Irrigación, Miguel Hidalgo, Distrito Federal (cdmx)|35,000 MX$|2|2|154m2
 Departamento en Renta Cuitlahuac 44, Guadalupe Victoria, Ciudad De México|8,500 MX$|2|2|60m2
+Departamento en Renta Sullana #700, Lindavista Sur, Gustavo A. Madero|Desde				2,300 MX$|1|1|500m2
 "Departamento en Renta Mazaryk #400
 , Polanco, Miguel Hidalgo, Distrito Federal (cdmx)"|50,000 MX$|4|5|350m2
-Departamento en Renta Sullana #700, Lindavista Sur, Gustavo A. Madero|Desde				2,300 MX$|1|1|500m2
 Departamento en Renta Calzada Del Hueso 300, Ciudad De México, Distrito Federal (cdmx)|6,000 MX$|1|1|20m2
 Departamento en Renta Sur 143 1614, Iztacalco, Distrito Federal (cdmx)|7,000 MX$|2|1|120m2
 Departamento en Renta A 2 Cuadras De Ipn, Planetario Lindavista, Ciudad De México|2,500 MX$|1|1|40m2
