@@ -1,589 +1,589 @@
-Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)|Latitud|Longitud
-  Tokio 65, A1, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|30000|2|2.0|107|19.4236938|-99.1721906
-  Azalea 152, Lomas Quebradas, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849
-  Lago Iseo 532, Be Grand Alto Polanc, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|35000|2|2.0|109|19.4410251|-99.181858
-  Congreso 113, La Joya, Tlalpan, Distrito Federal (cdmx)|11350|2|1.0|102|19.2803318|-99.1682004
-  Rómulo O'farril 520, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|14500|2|2.0|76|19.3377623|-99.2145908
-  Av. Emiliano Zapata 409, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|14800|2|2.0|80|19.3690154|-99.1611432
-  1a Privada De La 5 Cerrada De Av Mexico 5, Cuajimalpa De Morelos, Distrito Federal (cdmx)|12000|1|2.0|60|19.3645334|-99.2999321
-  Jorge Bernard Shaw 10 10, 202, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|32000|3|2.0|185|19.431912|-99.20437829999999
-  Jorge Bernard Shaw 10 10, 602, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|34000|3|2.0|185|19.431912|-99.20437829999999
-  Hegel 210, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|40700|3|3.0|149|19.4351432|-99.1878935
-  Amplísimo, Mide 460m² En Lomas De Chapultepec, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|873225|3|3.0|460|19.424937399999997|-99.2134442
-  Avenida Santa Fe 482, Cuajimalpa De Morelos, 05349, Ciudad De Mexico, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|24000|1|1.0|85|19.3594534|-99.2699073
-  Joaquin Garcia Izcabaleta 55, San Rafael, Cuauhtemoc, Ciudad De Mexico, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16000|3|2.0|120|19.4413879|-99.1625563
-  Avenida Horacio1537, Polanco Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|1261325|3|4.0|193|19.4355887|-99.2064672
-  Avenida De Las Torres 805, Torres Del Potrero, Alvaro Obregón Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|17500|2|2.0|78|19.334299899999998|-99.2399338
-  Francisco Petrarca 139, Colonia Polanco Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|2|2.0|167|19.436182100000003|-99.1857411
-  Joaquin Garcia Izcabalceta 55, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16000|3||120|19.4413879|-99.1625563
-  Calle Division Del Norte 293, Lomas De Memetla, Cuajimalpa, Ciudad De Mexico, Lomas De Memetla, Cuajimalpa De Morelos|16000|2|2.0|122|19.3586393|-99.28396640000001
-  Bosque De Tabachines 327, Colonia Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|155240|3|3.0|650|19.380166199999998|-99.2606551
-  Palacio Escorial 20, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|33000|2||70|19.4017163|-99.2348249
-  Avenida Jesus Del Monte 41, Jesús Del Monte, Cuajimalpa De Morelos|95312|2||184|19.3754716|-99.2945852
-  Encarnacion Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|14000|2|2.0|69|19.4714503|-99.1613575
-  Tabasco 267, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|47000|2|3.0|113|19.4180712|-99.16533390000001
-  Hegel 15, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|2.0|230|19.4372428|-99.1881764
-  Moliere 118, Distrito Federal (cdmx)|75000|2|3.0|120|19.4335323|-99.2018276
-  Cumbres De Maltrata 423, Narvarte, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|70|19.3878982|-99.14802960000002
-  Avenida Santa Fe 498, Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|25000|1|1.0|82|19.3581997|-99.2717753
-  Calzada San Simon No. 82, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)|10500|2|1.0|51|19.3746796|-99.1445991
-  Monte Elbruz 164, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|3|3.0|400|19.4294695|-99.2033552
-  Gabriel Mancera 1157, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|19500|2|2.0|92|19.378335399999997|-99.16628859999999
-  Carrtera Mexico Toluca 5860, Contadero, Cuajimalpa De Morelos|16000|1|2.0|57|19.364126199999998|-99.2787997
-  Cofre De Perote 256, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|33500|2|2.0|112|19.4265398|-99.2239258
-  Avenida General Ignacio Zaragoza Al 500, Venustiano Carranza, Distrito Federal (cdmx)|8500|3|1.0|70|19.421174399999998|-99.1226981
-  Lago Zurich 219, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|36500|2|3.0|118|19.442115|-99.2040893
-  Calzada De Las Brujas 304, Villa Coapa, Tlalpan, Distrito Federal (cdmx)|10000|3|1.0|80|19.297433899999998|-99.1222877
-  Calle 28 De Diciembre Col. Emiliano Zapata, Coyoacàn, Coyoacán, Distrito Federal (cdmx)|13500|2|2.0|80|19.3264826|-99.1371429
-  Santa. Fe, Álvaro Obregón,penthouse 406, Álvaro Obregón, Distrito Federal (cdmx)|42000|2|3.0|270|19.386392800000003|-99.2255625
-  Ferrocarril Hidalgo 1404, Villa Gustavo A. Madero, Gustavo A. Madero|8000|2|1.0|60|19.480701800000002|-99.10792990000002
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Avenida 14 25, Venustiano Carranza, Distrito Federal (cdmx)|15500|3|2.0|127|19.4125026|-99.0967503
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Heriberto Frias 544, Narvarte, Benito Juárez, Distrito Federal (cdmx)|6000|1|1.0|20|19.3924579|-99.15970190000002
-  Manuel Toissaint 60, Coyoacán, Distrito Federal (cdmx)|5300|2|1.0|40|19.3477033|-99.1556963
-  Juan Alvarez 54, La Magdalena Contreras, Distrito Federal (cdmx)|7500|1|1.0|40|19.3015674|-99.2352146
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136
-  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136
-  Cerrada Ferrocarril De Cuernavaca 779, Ampliación Granada, Ciudad De México|45000|2|3.0|113|19.441622199999998|-99.1998906
-  Privada Paseo De Los Tamarindos No.7, Bosques De Las Lomas, Cuajimalpa De Morelos|42500|3|5.0|290|19.391738600000004|-99.2503287
-  Revolución 1336, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|22000|2|2.0|102|19.3584367|-99.1894233
-  Juan Salvador Agraz 37, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|29900|2|2.0|125|19.3601662|-99.2800525
-  Residencial San Angel 000, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|13700|1|1.0|60|19.3373288|-99.214254
-  Miguel De Cervantes Saavedra 303, Irrigación, Ciudad De México|47000|2|2.0|120|19.4404213|-99.20782690000001
-  Algeciras 38 -301, Insurgentes Mixcoac, Benito Juárez, Distrito Federal (cdmx)|22500|3|3.0|150|19.3719604|-99.1809593
-  Calzada Desierto De Los Leones 4373, Tetelpan, Álvaro Obregón, Distrito Federal (cdmx)|23000|2|2.0|115|19.3462604|-99.21147509999999
-  Versalles 33, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|22000|2|2.0|110|19.4309996|-99.15461540000001
-  Calzada De Tlalpan 1434, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|18000|2|2.0|90|19.3665135|-99.1418422
-  Popocatépetl 000, Xoco, Benito Juárez, Distrito Federal (cdmx)|22000|2|2.0|83|19.3650397|-99.1637713
-  Bucareli 128, Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)|38810|3|2.0|310|19.4286228|-99.1522547
-  Ejercito Nacional 453, 200, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|3.0|115|19.438313|-99.1884775
-  Luz Saviñon 206, Del Valle, Benito Juárez, Distrito Federal (cdmx)|25000|2|2.0|110|19.393463|-99.1703045
-  Calzada México Tacuba 1501, Argentina Poniente, Miguel Hidalgo, Distrito Federal (cdmx)|9500|2|1.0|58|19.455503699999998|-99.21121740000001
-  Eugenia 606, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|24500|2|2.0|68|19.3878637|-99.168406
-  Retorno Arrecife 15, Las Águilas, Álvaro Obregón, Distrito Federal (cdmx)|9500|2|1.0|75|19.34948|-99.219988
-  Paseo De La Reforma 439, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|65000|1|2.0|120|19.4256497|-99.1723516
-  Laguna De Mayrán 375, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|19000|2|2.0|82|19.4401814|-99.1770569
-  Adolfo Lopez Mateos 5146, Pedregal De Carrasco, Coyoacán, Distrito Federal (cdmx)|23000|2|2.0|104|19.303820899999998|-99.1770675
-  General Emiliano Zapata 360, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|16000|2|2.0|78|19.3676607|-99.160102
-  Toltecas 166, Carola, Álvaro Obregón, Distrito Federal (cdmx)|11000|3|2.0|70|19.387282199999998|-99.1917223
-  Av Centenario 1762, Ciudad De México, Distrito Federal (cdmx)|16500|1|1.0|50|19.348738100000002|-99.2524181
-  Romulo Oarril 520, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|16500|2|2.0|77|19.3377623|-99.2145908
-  Iglesia 270, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)|29000|3|2.0|130|19.3362518|-99.1996626
-  Av. De Las Torres 805, 407, Torres De Potrero, Álvaro Obregón, Distrito Federal (cdmx)|18000|2|2.0|70|19.334299899999998|-99.2399338
-  Presa Falcón 243, Ph1, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|50000|2|3.0|220|19.4435717|-99.204573
-  En Renta Excelente Departamento En Privada De Tamarindos 29, Bosques De Las Lomas, Cuajimalpa De Morelos, Distrito Federal, Bosques De Las Lomas, Cuajimalpa De Morelos|26000|2|2.0|160|19.3845775|-99.2529633
-  Av Sta Fe 482, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|22000|1|2.0|87|19.359052300000002|-99.2702192
-  Paseo De La Reforma 77, Tabacalera, Cuauhtémoc, Distrito Federal (cdmx)|32750|1|2.0|99|19.433699899999997|-99.1550421
-  Ave. San Bernabe 655, San Jerónimo Lídice, Ciudad De México|16000|2|2.0|110|19.3295992|-99.2291858
-  Tomas Alva Edison 101, Tabacalera, Cuauhtémoc, Distrito Federal (cdmx)|22000|2|2.0|100|19.4377336|-99.1547865
-  Av. Carlos Lazo 100, San Mateo Tlaltenango, Cuajimalpa De Morelos|78000|3|4.0|320|19.3482367|-99.2605663
-  Prol. Paseo De La Reforma 100, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|17500|2|2.0|65|19.382692199999997|-99.247635
-  Prolong. Bosques De Reforma 1455, 202, Bosques De Las Lomas, Cuajimalpa De Morelos|45000|3|4.0|420|19.3878909|-99.2631725
-  Dr. Barragan 850, Narvarte, Benito Juárez, Distrito Federal (cdmx)|22500|3|2.0|117|19.388557000000002|-99.1479978
-  Ejercito Nacional 1, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|26300|2|2.0|95|19.4325493|-99.1727747
-  Javier Barros Sierra 245, Lomas De Santa Fe, Ciudad De México|29000|3|3.0|145|19.373375|-99.2534416
-  Ramos Millan 49, 0, Américas Unidas, Benito Juárez, Distrito Federal (cdmx)|25000|3|3.0|164|19.3832219|-99.1417738
-  Av. Toluca 669 Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|16500|2|2.0|83|19.337556699999997|-99.22428570000001
-  Cacahuatales 20, Gabriel Ramos Millán, Iztacalco|10500|2|1.0|60|19.3007538|-99.11777790000001
-  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|26000|2|2.0|93|19.4400628|-99.1830266
-  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|18000|1|1.0|52|19.4400628|-99.1830266
-  Lomas De Sotelo 1120, Edificio C - 302, Lomas De Sotelo, Miguel Hidalgo, Distrito Federal (cdmx)|14000|3|3.0|100|19.4459977|-99.2163303
-  Calz Tlalpan 2971, Coyoacán, Distrito Federal (cdmx)|20000|4|3.0|129|19.324816100000003|-99.1383462
-  Sinaloa No. 179 Roma Norte, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|21000|2|2.0|70|19.4198868|-99.1720176
-  Golfo De San Jorge 37 Tacuba Miguel Hidalgo, Tacuba, Miguel Hidalgo, Distrito Federal (cdmx)|12000|2|2.0|69|19.454627600000002|-99.18631440000001
-  Lomas De Sotelo 1120, Edificio C, Lomas De Sotelo, Miguel Hidalgo, Distrito Federal (cdmx)|14300|3|2.0|110|19.4459977|-99.2163303
-  Culiacan 1, Ph, Hipódromo Condesa, Cuauhtémoc, Distrito Federal (cdmx)|38000|2|3.0|143|19.4085807|-99.1714436
-  José María Rico 118, Actipan, Benito Juárez, Distrito Federal (cdmx)|24000|2|3.0|120|19.3688957|-99.17803020000001
-  Av. Coyoacán 635, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|4|2.0|140|19.3883617|-99.16696280000001
-  Andrea Del Castagno 79, Mixcoac, Benito Juárez, Distrito Federal (cdmx)|24200|2|2.0|87|19.3836295|-99.191079
-  Sur 109, Iztacalco, Distrito Federal (cdmx)|10000|2|1.0|100|19.379658300000003|-99.12794240000001
-  Paseo De La Reforma 0, Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)|90000|1|2.0|120|19.4382486|-99.1457945
-  Lago Neuchatel 10, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|29200|3|2.0|125|19.4423271|-99.2016516
-  Avenida San Miguel 40, Xalpa, Ciudad De México|8500|2|2.0|100|19.332842000000003|-99.0320843
-  Uxmal 00, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|85|19.372230300000002|-99.1587114
-  Calzada San Isidro 492 San Pedro Xalpa, Azcapotzalco, Cdmx, San Pedro Xalpa, Azcapotzalco, Distrito Federal (cdmx)|11500|3|2.0|90|19.4841904|-99.2065419
-  Popocatepetl 00, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|86|19.3642068|-99.1607909
-  Lago Zurich 168, 0, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|26000|2|2.0|100|19.4448159|-99.2026389
-  Sierra Gorda 23, Torre Encinos - G3, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|116430|3|3.0|352|19.4279636|-99.221941
-  Guanábana 10, Nueva Santa Maria, Azcapotzalco, Distrito Federal (cdmx)|10500|2|1.0|75|19.4593296|-99.1691353
-  Calle10, San Pedro De Los Pinos, Benito Juárez, Distrito Federal (cdmx)|25000|2|2.0|90|19.3893443|-99.18854559999998
-  Etla 10, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|35000|3|2.0|140|19.406477600000002|-99.1751463
-  Avenida Centenario 2025, Distrito Federal (cdmx)|19000|2|2.0|3,183|19.4984052|-99.09578459999999
-  Lago Zirahuen 98, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|11500|2|1.0|58|19.445192300000002|-99.1728766
-  Minatitlan 54, San Jerónimo Aculco, La Magdalena Contreras, Distrito Federal (cdmx)|18500|2|2.0|122|19.3167615|-99.2271361
-  Popocatepetl 435, 9, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19100|2|2.0|77|19.364987799999998|-99.1618347
-  Departamento Graden En Renta En Lomas De Chapultepec Con 1 Recamara, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|26500|1|2.0|100|19.4194815|-99.1894558
-  Jesus Del Monte 274, Jesús Del Monte, Cuajimalpa De Morelos|55000|3|2.0|360|19.3901493|-99.2922717
-  Popocatepetl 435, 20, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|31500|3|3.0|94|19.364987799999998|-99.1618347
-  Avenida Vasco De Quiroga 1635, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|5000|2|1.0|55|19.382186800000003|-99.2392743
-  Yacatas 24, 6, Narvarte, Benito Juárez, Distrito Federal (cdmx)|16500|3|1.0|110|19.400962|-99.15480050000001
-  Nellie Campobello 129, Carola, Álvaro Obregón, Distrito Federal (cdmx)|69858|2|1.0|72|19.383796399999998|-99.1971753
-  Fernando Alencastre 240, Lomas De Chapultepec Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|23000|2|2.0|130|19.421385100000002|-99.20413520000001
-  Cumbres De Acultzingo 67, 108, Narvarte, Benito Juárez, Distrito Federal (cdmx)|9500|2|1.0|70|19.3923314|-99.1478421
-  Vértiz 983, Col. Vértiz Narvarte, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|108|19.385499600000003|-99.1522473
-  Ave De Las Torres 805, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|18500|2|2.0|104|19.3342912|-99.23990500000001
-  Pico De Verapaz 4, Jardines En La Montaña, Tlalpan, Distrito Federal (cdmx)|65000|3|4.0|400|19.2975321|-99.1964441
-  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|155240|4|4.0|400|19.4279636|-99.221941
-  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|174645|3|4.0|353|19.4279636|-99.221941
-  Avenida Mexico Coyoacan 371, Xoco, Benito Juárez, Distrito Federal (cdmx)|22000|2|2.0|80|19.3613949|-99.163194
-  Bosque De Radiatas 14, 2b, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|38000|3|4.0|312|19.3886948|-99.2520349
-  Citlaltépetl 54, 9, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|65000|2|3.0|220|19.4080605|-99.1717804
-  Ruben Dario 100, Miguel Hidalgo, Distrito Federal (cdmx)|60000|3|2.0|200|19.4289326|-99.1846333
-  Av. Popocatépetl 000, Xoco, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|100|19.362775|-99.1634115
-  Av. El Bordo 85 Col Ex Hacienda Tlalpan, Tlalpan, Distrito Federal (cdmx)|18000|2|2.0|88|19.3066704|-99.1381783
-  Nicolas San Juan 279, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|19500|2|2.0|112|19.3986044|-99.16078490000001
-  Jesus Del Monte 34, Jesús Del Monte, Cuajimalpa De Morelos|17500|1|1.0|50|19.3954203|-99.2899251
-  Guanajuato 44, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|23000|2|2.0|70|19.4173783|-99.1563673
-  Mar Adriático 100, Popotla, Miguel Hidalgo, Distrito Federal (cdmx)|25000|2|2.0|130|19.452131899999998|-99.179995
-  Av. Ejercito Nacional 769 Esquina Moliere, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|30000|2|2.0|105|19.439641|-99.1995083
-  Aguascalientes 185, 5, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|25000|2|2.0|100|19.4077573|-99.1704832
-  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|18000|3|2.0|80|19.4714503|-99.1613575
-  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|13000|2|2.0|65|19.4714503|-99.1613575
-  R.salido 166, Independencia, Benito Juárez, Distrito Federal (cdmx)|13950|2|2.0|75|19.3821537|-99.1503048
-  Cleveland 6, Ciudad De Los Deportes, Benito Juárez, Distrito Federal (cdmx)|2800000|2|2.0|84|19.3813898|-99.18102490000001
-  Amsterdam 1, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|38810|2|2.0|140|19.41535|-99.1669756
-  Ph En Renta Amueblado De 2 Nivles Y Roof Garden En Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|950845|3|3.0|380|19.390416199999997|-99.2550003
-  Lago Neuchatel 12, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|29000|2|3.0|126|19.442351600000002|-99.2013938
-  Lago Alberto 320, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|36000|3|2.0|150|19.4404402|-99.18518409999999
-  Guanajuato 66, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|22000|2|2.0|119|19.417109600000003|-99.1574963
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2600|1|1.0|22|19.2742435|-99.2281609
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2700|1|1.0|25|19.2742435|-99.2281609
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|3600|2|1.0|42|19.2742435|-99.2281609
-  Prolongación Paseo De La Reforma 260, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|24000|3|2.0|100|19.3742203|-99.2612165
-  Bahía De Santa Barbara 0, 3, Veronica Anzures, Miguel Hidalgo, Distrito Federal (cdmx)|22000|2|2.0|93|19.436425399999997|-99.17486170000001
-  Avenida De Los Poetas 100, Colonia Cuajimalpa, Cuajimalpa De Morelos|49000|3|4.0|318|19.3518443|-99.2592438
-  General Mariano Escobedo 248, Miguel Hidalgo, Distrito Federal (cdmx)|25500|2|2.0|94|19.4423448|-99.1857166
-  Prol. Paseo De La Reforma 1, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|22000|2|2.0|65|19.3804527|-99.2521306
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951
-  Textitlán 42, Santa Ursula Coapa, Coyoacán, Distrito Federal (cdmx)|8000|2|1.0|60|19.312800699999997|-99.14258850000002
-  Departamento En Renta En Polanco Con 3 Recamaras., Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|58215|3|3.0|250|19.431859|-99.186622
-  Chosica 655-3 Col.lindavista, Ciudad De México, Distrito Federal (cdmx)|13800|2|1.0|120|19.490405|-99.1357157
-  Av. Presidente Masaryk 123, Polanco, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37200|2||60|19.4319122|-99.1954899
-  Goldsmith a, 0, Polanco Iii Sección, Miguel Hidalgo, Distrito Federal (cdmx)|77620|3|4.0|180|19.433124199999998|-99.2005531
-  Damas 76, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|28000|3|3.0|171|19.365724800000002|-99.183387
-  Av Bonampak Sm27 01, Benito Juárez, Distrito Federal (cdmx)|45000|4|4.0|320|19.3824573|-99.15207740000001
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2600|1|1.0|22|19.2742435|-99.2281609
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2700|1|1.0|25|19.2742435|-99.2281609
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|3600|2|1.0|42|19.2742435|-99.2281609
-  Bajio 232, Roma Sur, Cuauhtémoc, Distrito Federal (cdmx)|19500|2|2.0|105|19.4033523|-99.16434040000001
-  Popocatpetl 233 Santa Cruz Atoyac, Distrito Federal (cdmx)|14000|2|2.0|70|19.3624946|-99.1571447
-  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|25800|2|2.0|48|19.3613167|-99.1885042
-  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|19980|1|1.0|36|19.3613167|-99.1885042
-  Genova 20, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|20000|2|2.0|118|19.427178899999998|-99.1642755
-  Bruno Traven 93, 1, General Pedro Maria Anaya, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|100|19.3606089|-99.1600859
-  Prolongación 5 De Mayo, Lomas De Tarango, Álvaro Obregón, Distrito Federal (cdmx)|6950|2|1.0|46|19.3609065|-99.2156956
-  Av. Mexico 359, Cuajimalpa De Morelos, Distrito Federal (cdmx)|23500|3|3.0|148|19.3660535|-99.2981805
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951
-  Av. Santa Fe 449, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20000|3|3.0|173|19.3621383|-99.2667033
-  Culiacán 108, Condesa, Ciudad De México, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|21500|2|2.0|130|19.4036622|-99.169994
-  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|26000|2|2.0|93|19.4400628|-99.1830266
-  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|18000|1|1.0|52|19.4400628|-99.1830266
-  Av. De Las Torres Al 800, Álvaro Obregón, Distrito Federal (cdmx)|14000|1|1.0|54|19.331789800000003|-99.244923
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951
-  Tiburcio Sánchez De La Barquera 115, Merced Gómez, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|98|19.363917|-99.1901873
-  Chosica 655-3 Col. Lindavista, Distrito Federal (cdmx)|13800|2|1.0|120|19.490405|-99.1357157
-  Xicoténcatl 137, Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)|10000|1|1.0|60|19.3548977|-99.1544151
-  Mexico Coyoacan 371, Xoco, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|80|19.3613949|-99.163194
-  Sanchez Azcona 1651, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|17000|2|1.0|114|19.3710629|-99.165752
-  Prolongación Reforma 1190, Cuajimalpa De Morelos, Distrito Federal (cdmx)|35000|2|2.0|140|19.360798000000003|-99.2694851
-  Calle Duna Edificio 40 Depto 1 Unidad Habitacional Patera Vallejo, Vallejo, Ciudad De México|7200|3|1.0|80|19.5027865|-99.1544184
-  Oasis 94, Clavería, Azcapotzalco, Distrito Federal (cdmx)|13000|3|1.0|94|19.46637|-99.18172879999999
-  Chicago 98, Nápoles, Benito Juárez, Distrito Federal (cdmx)|58215|3|3.0|190|19.396350299999998|-99.1758478
-  Jose Rosas Moreno 96, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|20500|2|1.0|74|19.4368225|-99.1620265
-  Andres De La Concha 10, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|18000|2|2.0|120|19.3687256|-99.1868552
-  Ahuehuetes Nte 1275, 401, Bosques De Las Lomas, Cuajimalpa De Morelos|54000|3|3.0|305|19.3986208|-99.2557117
-  7 (periferico Oriental), Iztacalco, Distrito Federal (cdmx)|6000|2|1.0|45|19.3971015|-99.0584708
-  Av.jardín 330 Colonia Del Gas, Azcapotzalco, Distrito Federal (cdmx)|9500|2|2.0|76|19.468982999999998|-99.15956070000001
-  Av Tamaulipas 1236, Álvaro Obregón, Distrito Federal (cdmx)|9200|1|1.0|39|19.3650508|-99.2415788
-  Revolucion 1185, Merced Gomez, Álvaro Obregón, Distrito Federal (cdmx)|15000|2|2.0|65|19.363781399999997|-99.1893241
-  Juan Augusto Ingres 143, Santa Maria Nonoalco, Benito Juárez, Distrito Federal (cdmx)|13000|2|1.0|65|19.383029500000003|-99.18891040000001
-  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495
-  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495
-  Popocatepetl 415, 604, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|22000|2|2.0|86|19.3648302|-99.1613626
-  Heraclito 2, Polanco V Sección, Miguel Hidalgo, Distrito Federal (cdmx)|48000|3|2.0|254|19.4324596|-99.1903491
-  Departamento En Renta En Carrimon De 3 Recamaras, Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|50000|3|3.0|290|19.3853815|-99.2541083
-  Adolfo Prieto 1033, 402, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|3.0|116|19.386347600000004|-99.1690951
-  Tiztik 9 Teotihuacan, Ciudad De México, Distrito Federal (cdmx)|14500|2|2.0|130|19.361301899999997|-99.1884152
-  Av. Cuauhtémoc 997, 5, Narvarte, Benito Juárez, Distrito Federal (cdmx)|19900|2|2.0|105|19.3825328|-99.1584744
-  Avenida Mexico Coyoacan 0, Xoco, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|80|19.362775|-99.1634115
-  Avenida Mariano Escobedo, Esquina Con Lago Alberto, Colonia Anáhuac, 11490 Ciudad De México, Cdmx, Miguel Hidalgo, Distrito Federal (cdmx)|30000|2|2.0|110|19.4397908|-99.1835247
-  Departamento En Renta En Aquario Con 2 Recamaras En Interlomas., Jesús Del Monte, Cuajimalpa De Morelos|23500|2|1.0|140|19.383654|-99.2917621
-  Jose Moran 00, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|32000|2|2.0|150|19.4096184|-99.1862618
-  Zurich 272, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|46000|3|4.0|162|19.4413824|-99.20284759999998
-  Cda. De Guillermo Prieto 38, Jesús Del Monte, Cuajimalpa De Morelos|15000|2|3.0|134|19.374996799999998|-99.2955
-  Departamento En Renta En Bosques De Las Lomas De 3 Recamaras, Cdmx, Bosques De Las Lomas, Cuajimalpa De Morelos|46000|3|3.0|292|19.390416199999997|-99.2550003
-  León Trotsky 58, 58, Romero Rubio, Venustiano Carranza, Distrito Federal (cdmx)|4800|2|1.0|50|19.4463679|-99.1015011
-  Pennsylvania 229, 101, Nápoles, Benito Juárez, Distrito Federal (cdmx)|20500|2|2.0|98|19.3869789|-99.1773521
-  Lago Alberto 320, Miguel Hidalgo, Distrito Federal (cdmx)|38000|3|3.0|156|19.4405817|-99.1865548
-  Tarasco 52 Interior Depto 801, Edificio “n”, Colonia Degollado, Delegación Iztapalapa, Ciudad De Mexico, Desarrollo Urbano Quetzalcoatl, Ciudad De México|4000|2|1.0|50|19.358566600000003|-99.0732118
-  1, Acacias, Benito Juárez, Distrito Federal (cdmx)|30000|4|2.0|1|19.3638034|-99.17321240000001
-  Angel Urraza 1839, Independencia, Benito Juárez, Distrito Federal (cdmx)|17500|2|2.0|75|19.3799168|-99.1518631
-  Arquimedes 200, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|27000|2|1.0|60|19.436655399999996|-99.1907925
-  Jesus Del Monte 0, 0, Jesús Del Monte, Cuajimalpa De Morelos|22000|2|2.0|100|19.365976|-99.2910762
-  Blvd Adolfo Lopez Mateos 1951, Los Alpes, Álvaro Obregón, Distrito Federal (cdmx)|15000|1|2.0|60|19.3606836|-99.1924411
-  Paseo De Laureles 410, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|38000|3|4.0|323|19.380057100000002|-99.2663205
-  Capricornio 73, Prado Churubusco, Coyoacán, Distrito Federal (cdmx)|14000|3|3.0|102|19.3548891|-99.1247671
-  Adolfo Prieto 1033, 102, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|3|2.0|136|19.386347600000004|-99.1690951
-  Eje Central 1130, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)|14500|2|1.0|70|19.3754112|-99.1487747
-  Departamento De 2 Niveles En Renta En Magna Residencial, Santa Fe., El Yaqui, Cuajimalpa De Morelos|30715|2|2.0|120|19.362865399999997|-99.283072
-  Arquimedes 191, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|29000|2|2.0|167|19.436178299999998|-99.19059150000001
-  Independencia 1, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)|13500|2|2.0|97|19.3381331|-99.19957790000001
-  Popocatepetl 00x, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|85|19.3643609|-99.1618693
-  Camino Real De Minas 17, Lomas De Los Angeles Del Pueblo Tetelpan, Álvaro Obregón, Distrito Federal (cdmx)|20000|2|3.0|150|19.346277800000003|-99.2127392
-  Cofre De Perote 220, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|59000|3|4.0|298|19.426197100000003|-99.2224624
-  Calzada Desierto De Los Leones 4054, Ph 1, Atlamaya, Álvaro Obregón, Distrito Federal (cdmx)|42000|3|5.0|158|19.3470307|-99.2031199
-  Insurgentes Norte 57 Esquina Hamburgo, Departamento 9, Colonia Juarez, Benito Juárez, Distrito Federal (cdmx)|22000|4|2.0|140|19.427806399999998|-99.1610284
-  Paseo De La Reforma 284, Ciudad De México, Distrito Federal (cdmx)|22000|1|1.0|78|19.4278301|-99.16459990000001
-  Rafael Solana 5, Independencia, Benito Juárez, Distrito Federal (cdmx)|13200|2|2.0|70|19.3810355|-99.145823
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2600|1|1.0|22|19.2742435|-99.2281609
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2700|1|1.0|25|19.2742435|-99.2281609
-  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|3600|2|1.0|42|19.2742435|-99.2281609
-  Ibsen 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1843475|4|5.0|470|19.4313793|-99.2014307
-  Prolongación Paseo De La Reforma 200, Paseo De Las Lomas, Álvaro Obregón, Distrito Federal (cdmx)|12000|1|2.0|113|19.3701439|-99.2660679
-  Thomas A Edison 139, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|15000|2|1.0|65|19.4383727|-99.1567523
-  Enrique Rebsamen 227, Del Valle, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|120|19.399434399999997|-99.1588824
-  Carretera Mexico Toluca 5095, El Yaqui, Cuajimalpa De Morelos|14500|1|1.0|40|19.3660268|-99.2727072
-  Barranca Del Muerto 212, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|70|19.361615899999997|-99.1838078
-  Paseo De Las Bugambilias 1000, 00, Bosques De Las Lomas, Cuajimalpa De Morelos|90000|3|4.0|395|19.3869299|-99.2689321
-  Elefante 93, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|42000|3|5.0|300|19.3700014|-99.1772111
-  Amores 1609, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|18000|2|2.0|96|19.369143899999997|-99.1701818
-  Cofré De Perote 0, 0, Lomas De Chapultepec Viii Sección, Miguel Hidalgo, Distrito Federal (cdmx)|60000|3|4.0|250|19.4260222|-99.2242748
-  Guanajuato 85, San Bartolo Atepehuacan, Gustavo A. Madero|14000|3|2.0|105|19.4943782|-99.14465
-  Barranca Del Muerto 1, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|25000|3|4.0|147|19.363697|-99.1790552
-  Avenida Toluca 441, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|13000|2|2.0|75|19.339641|-99.2167116
-"  Santa Cruz Cacalco 25, 601 ""a"", Miguel Hidalgo, Distrito Federal (cdmx)"|8750|1|1.0|63|19.450690100000003|-99.2017387
-  Ingenieros Grabadores 11, Jardines De Churubusco, Iztapalapa|9000|3|1.0|84|19.373525100000002|-99.1066755
-  Av Revolución 1400, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|20000|2|2.0|75|19.3563295|-99.18960890000001
-  11 De Abril 177 303 A, Ciudad De México, Distrito Federal (cdmx)|12500|2|1.0|120|19.3960468|-99.184039
-  Montecito 57, Nápoles, Benito Juárez, Distrito Federal (cdmx)|25000|1|2.0|90|19.395326|-99.1737694
-  Ave Revolucion 1062, 302, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|17000|2|2.0|80|19.368114499999997|-99.1883503
-  Av. Veracruz 62, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|52000|2|2.0|128|19.4175483|-99.1740246
-  Adolfo Prieto 1033, 101, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26500|3|2.0|117|19.386347600000004|-99.1690951
-  Santa Fe 1, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|72000|3|4.0|240|19.3660336|-99.2621958
-  Montecito 57, Ampliación Napoles, Benito Juárez, Distrito Federal (cdmx)|25000|1|2.0|90|19.395326|-99.1737694
-  Paseo De Las Palmas 515, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|110000|2|3.0|250|19.4301984|-99.2122757
-  Jose Ma. Vertiz 1, Vertiz Narvarte, Benito Juárez, Distrito Federal (cdmx)|18000|1|1.0|60|19.410864899999996|-99.1491358
-  Granjas 38, Cuajimalpa De Morelos, Distrito Federal (cdmx)|14800|2|1.0|74|19.3822943|-99.2551798
-  Departamento En Renta En Bosques De Las Lomas Con 2 Recamaras., Bosques De Las Lomas, Cuajimalpa De Morelos|40000|2|2.0|250|19.390416199999997|-99.2550003
-  Camino A Santa Fe 1231, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|11500|2|1.0|100|19.3898806|-99.203598
-  Prolongación Paseo De La Reforma 367, Cuajimalpa De Morelos, Distrito Federal (cdmx)|19000|2|2.0|97|19.3784892|-99.2554913
-  Calzada Del Hueso 621, Granjas Coapa, Tlalpan, Distrito Federal (cdmx)|11000|3|1.0|86|19.3021875|-99.1202756
-  Division Del Norte 3526, Coyoacán, Distrito Federal (cdmx)|17000|2|2.0|89|19.325581399999997|-99.139684
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841
-  Ing. Grabadores 11, Jardines De Churubusco, Iztapalapa|9000|3|1.0|84|19.373525100000002|-99.1066755
-  Inglaterra 105, 1er Piso, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|2.0|80|19.3441688|-99.1505835
-  Estrasburgo 0, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|17000|2|1.0|60|19.4267254|-99.16527090000001
-  Periférico Sur 4860, 5, Xochimilco, Distrito Federal (cdmx)|20000|2|2.0|85|19.301233800000002|-99.16359449999999
-  Calzada México-tacuba 1501, Distrito Federal (cdmx)|10500|2|1.0|58|19.455503699999998|-99.21121740000001
-  Lago Zurich 272, 810, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|46000|3|5.0|162|19.4414677|-99.202496
-  Av Anacahuita 26, Distrito Federal (cdmx)|679175|2|1.0|20|19.3342897|-99.169909
-  Cerrada De Tamarindos 0, 0, Bosques De Las Lomas, Cuajimalpa De Morelos|33000|3|4.0|218|19.385514699999998|-99.2533303
-  Rubén Darío 275, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1455375|2|3.0|390|19.4263008|-99.1911453
-  Peral 26, Santa Maria La Ribera, Cuauhtémoc, Distrito Federal (cdmx)|12500|2|2.0|67|19.4543423|-99.1622723
-  Providencia 1000, Del Valle, Benito Juárez, Distrito Federal (cdmx)|16000|2|2.0|86|19.3854505|-99.1701577
-  Gómez Farias 23a, Bejero, 01340 Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|4500|6|1.0|9|19.3800728|-99.2456569
-  Sur 79 353, Venustiano Carranza, Distrito Federal (cdmx)|5500|1|1.0|48|19.416715399999998|-99.12376400000001
-  General Pedro Antonio De Los Santos 0, 203, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|17000|3|2.0|110|19.4103796|-99.1831385
-  Avenida Tecamachalco 31, Reforma Social, Miguel Hidalgo, Distrito Federal (cdmx)|25500|1|1.0|65|19.4332289|-99.211299
-  Suderman 1, 3, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|55000|2|2.0|140|19.4354037|-99.1840781
-  Periferico Sur 4091, Tlalpan, Distrito Federal (cdmx)|5500|1|1.0|132|19.3064279|-99.211316
-  Lago Margarita 34, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|20500|2|2.0|68|19.4386749|-99.1873782
-  Calle Lago Zurich 245, Colonia Irrigación, Miguel Hidalgo, Distrito Federal (cdmx)|70000|2|3.0|120|19.4416485|-99.2039108
-  Ph En Renta De 2 Niveles En Polanco, Miguel Hidalgo, Cdmx, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1067275|3|3.0|250|19.445374899999997|-99.18171070000001
-  Goldsmith 37, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|75000|3|4.0|180|19.430351899999998|-99.200657
-  Víctor Hugo 17, 401, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|10000|2|1.0|80|19.3688216|-99.1381447
-  Reforma 222, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|28000|1|2.0|75|19.4285853|-99.1617883
-  Prolongacion Ocote 64, Cuajimalpa De Morelos, Distrito Federal (cdmx)|8950|2|2.0|64|19.37245|-99.291322
-  Lago Alberto 300, 710, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|19800|1|1.0|52|19.4400628|-99.1830266
-  Plaza Rio De Janeiro 56, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|19200|2|1.0|80|19.4210467|-99.1597361
-  Xicohténcatl 137, Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)|10000|1|1.0|65|19.3548977|-99.1544151
-  Anillo Perif. Blvd. Adolfo López Mateos 5146, Coyoacán, Distrito Federal (cdmx)|28000|2|2.0|105|19.3038798|-99.17718670000001
-  Siete 190, Coyoacán, Distrito Federal (cdmx)|15800|3|2.0|110|19.314216100000003|-99.1358408
-  Homero 246, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|873225|3|3.0|280|19.435475600000004|-99.1916716
-  Avenida Mariano Escobedo, Lago Iseo Esquina 0, Cuauhtémoc, Distrito Federal (cdmx)|30000|2|2.0|94|19.4397908|-99.1835247
-  Lago Alberto 321, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|19850|1|1.0|55|19.4401734|-99.1880532
-  Av. Revolución 1, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|21000|2|2.0|103|19.3785332|-99.187561
-  Peten 543, 4, Letrán Valle, Benito Juárez, Distrito Federal (cdmx)|18000|3|2.0|103|19.378553699999998|-99.154916
-  Paseo De La Reforma 222, Distrito Federal (cdmx)|33000|2|2.0|120|19.4286725|-99.16166820000001
-  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|14000|2|2.0|65|19.38268|-99.2561818
-  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|17000|2|2.0|75|19.38268|-99.2561818
-  Río Nazas 152, Ciudad De México, Distrito Federal (cdmx)|19000|2|2.0|100|19.430562899999998|-99.17056170000001
-  Prolongación Avenida Vasco De Quiroga 3850, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20000|2|2.0|91|19.3607488|-99.27527579999999
-  Guaymas 33, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|18000|3|2.0|95|19.4239288|-99.15503659999999
-  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|140|19.434078|-99.2112666
-  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|80|19.434078|-99.2112666
-  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|14000|1|1.0|20|19.3584142|-99.17777059999999
-  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|28000|2|2.0|45|19.3584142|-99.17777059999999
-  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|18000|3|2.0|80|19.4714503|-99.1613575
-  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|13000|2|2.0|65|19.4714503|-99.1613575
-  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|140|19.434078|-99.2112666
-  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|80|19.434078|-99.2112666
-  Paseo De La Reforma 439, Cuauhtémoc, Distrito Federal (cdmx)|89000|2|2.0|180|19.4256497|-99.1723516
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Indianapolis 4, Nápoles, Benito Juárez, Distrito Federal (cdmx)|22500|2|2.0|64|19.394105300000003|-99.1774246
-  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|14000|2|2.0|65|19.38268|-99.2561818
-  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|17000|2|2.0|75|19.38268|-99.2561818
-  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|25800|2|2.0|48|19.3613167|-99.1885042
-  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|19980|1|1.0|36|19.3613167|-99.1885042
-  Av. Cuauhtémoc 1, Del Valle, Benito Juárez, Distrito Federal (cdmx)|20200|2|1.0|69|19.406026100000002|-99.15514920000001
-  Avenida Revolucion 000, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|103|19.3676615|-99.1886542
-  Av Cuauhtemoc 514, Narvarte, Benito Juárez, Distrito Federal (cdmx)|15000|2|2.0|62|19.3996034|-99.1555014
-  Campos Elíseos 1, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|50000|3|3.0|274|19.4287872|-99.1803683
-  Av. Del Iman 141, 3, Insurgentes Cuicuilco, Coyoacán, Distrito Federal (cdmx)|12000|2|1.0|70|19.307182100000002|-99.1815155
-  San Guillermo Lote 1 Mz 19 Col. Pedregal De Santa Ursula, Ciudad De México, Distrito Federal (cdmx)|4000|1|1.0|12|19.3109425|-99.1625881
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835
-  Privada Veracruz 13, Cuajimalpa De Morelos, Distrito Federal (cdmx)|15500|3|3.0|166|19.378071300000002|-99.29696209999999
-  Tlálpan 1461, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|12500|2|2.0|70|19.364967|-99.1428406
-  Plaza Valverde 60, Álvaro Obregón, Distrito Federal (cdmx)|29400|3|2.0|117|19.3393016|-99.193528
-  Ibsen 00, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|45000|2|2.0|170|19.4313793|-99.2014307
-  Departamento En Renta En Via Santa Fe Con 2 Recamaras, Álvaro Obregón, Distrito Federal (cdmx)|23000|2|2.0|97|19.3609821|-99.2686522
-  Pedro Romero De Terreros 730, Del Valle, Benito Juárez, Distrito Federal (cdmx)|24000|3|3.0|110|19.3942682|-99.164189
-  Av Mexico 321, Coyoacán, Distrito Federal (cdmx)|26000|2|2.0|86|19.358366600000004|-99.1698871
-  Camino A Santa Fe 1231, 302, Álvaro Obregón, Distrito Federal (cdmx)|11000|2|1.0|80|19.3898806|-99.203598
-  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001
-  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001
-  Emerson 1, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37000|2|2.0|191|19.433530800000003|-99.1888509
-  Viaducto Tlalpan 000, 000, Tlalpan, Distrito Federal (cdmx)|14300|3|3.0|123|19.2898477|-99.1522034
-  3 Picos 12, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|3.0|250|19.4284413|-99.1863053
-  Coyoacan 0, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|23000|2|2.0|140|19.3842782|-99.16784140000001
-  Ph En Renta De 2 Niveles En Polanco., Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|45000|3|2.0|305|19.445374899999997|-99.18171070000001
-  Río Sena 67, 203, Cuauhtémoc, Distrito Federal (cdmx)|29000|2|2.0|100|19.430421300000003|-99.1662906
-  Paseo De La Reforma 222, Cuauhtémoc, Distrito Federal (cdmx)|45000|2|2.0|125|19.4286725|-99.16166820000001
-  Av. Santa Fe 449, Loma De Santa Fe, Cuajimalpa De Morelos|4000000|3|2.0|173|19.3621383|-99.2667033
-  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516
-  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516
-  Lope De Vega 237, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|30000|1|1.0|70|19.4341567|-99.1873743
-  Lago Alberto 32o, 25, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|2.0|150|19.4399893|-99.1852486
-  San Camilo 26, 702, Tlalpan, Distrito Federal (cdmx)|10000|2|1.0|55|19.28656|-99.1321471
-  Cuitláhuac 94, Gustavo A. Madero, Distrito Federal (cdmx)|12000|3|2.0|95|19.473083|-99.1492211
-  Constituyente Amilcar Vidal 149, Lomas De Memetla, Distrito Federal (cdmx)|8000|1|1.0|65|19.3583576|-99.2866262
-  Arneses 10, Iztapalapa, Distrito Federal (cdmx)|11000|3|1.0|81|19.356014899999998|-99.1101435
-  Juan Sanchez Azcona 1426, 104, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|17000|1|1.0|80|19.3767641|-99.1642438
-  Eugenio Sue 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|66000|2|3.0|170|19.4377529|-99.1935959
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Horacio 1609, 1001, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|25000|3|2.0|130|19.4356965|-99.2076746
-  Adolfo Prieto 125, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|3.0|165|19.399095300000003|-99.1660784
-  Homero 0, 9, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|40000|3|2.0|190|19.4359961|-99.1980942
-  Campos Elíseos 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1261325|3|4.0|213|19.4272576|-99.1936044
-  Juarez Y Zarco  12, Cuajimalpa De Morelos, Distrito Federal (cdmx)|15000|2|2.0|60|19.3544035|-99.2949992
-  Prolongacion Paseo De La Reforma 307, 4, Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|21000|2|2.0|74|19.3795682|-99.2538313
-  Pablo Ucello 51, Ciudad De México, Distrito Federal (cdmx)|16600|2|2.0|110|19.382220800000002|-99.1830482
-  Río Sena 67, 203 A, Cuauhtémoc, Distrito Federal (cdmx)|27000|2|2.0|100|19.430421300000003|-99.1662906
-  Lago Constanza 27, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|20500|2|2.0|68|19.449108600000002|-99.1868876
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849
-  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849
-  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|4317613|2||43|19.3613167|-99.1885042
-  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|2361589|1||27|19.3613167|-99.1885042
-  Periferico Sur 4091, Ciudad De México, Distrito Federal (cdmx)|12000|4|3.0|120|19.3064279|-99.211316
-  General Pedro Antonio De Los Santos 0, 204, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|17000|3|2.0|150|19.4103796|-99.1831385
-  Eugenio Sue 200, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|65000|3|3.0|208|19.4341173|-99.19415179999999
-  Moliere 340 B Polanco M. Hidalgo Cdmx, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|30000|2|1.0|110|19.437172600000004|-99.2012363
-  Francisco Petrarca 139, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|873225|3|3.0|177|19.4362197|-99.1857304
-  Coahuila 159, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|32000|2|2.0|150|19.411271300000003|-99.1633655
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Anatole France 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|54334|2|3.0|210|19.4311987|-99.1976385
-  Insurgentes Sur 297, Ciudad De México, Distrito Federal (cdmx)|24000|3|2.0|115|19.414801999999998|-99.1659622
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151
-  Canalito 1, Progreso Tizapan, Álvaro Obregón, Distrito Federal (cdmx)|13000|2|1.0|68|19.3401218|-99.20625340000001
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841
-  Eugenio Sue 0, Pb, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|108000|3|4.0|250|19.4377529|-99.1935959
-  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|6500|2|1.0|60|19.2876015|-99.2258515
-  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|5200|2|1.0|60|19.2876015|-99.2258515
-  Salamanca 0, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|14500|1|1.0|35|19.4205382|-99.1701058
-  Rancho Calichan 51, A-402, Tlalpan, Distrito Federal (cdmx)|10000|2|1.0|86|19.298158800000003|-99.1282555
-  Parroquia 411, Benito Juárez, Distrito Federal (cdmx)|21000|3|2.0|110|19.3701633|-99.1742779
-  Prolongación División Del Norte 4134, 1c, Tlalpan, Distrito Federal (cdmx)|12000|2|1.0|84|19.2945565|-99.1314271
-  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|7500|2|1.0|72|19.2751896|-99.1724386
-  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|4000|2|1.0|33|19.2751896|-99.1724386
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841
-  Lago Como 128, 504, Miguel Hidalgo, Distrito Federal (cdmx)|11000|2|2.0|66|19.4464049|-99.1836748
-  Camino Antiguo Santa Fe, Numero 55, Corpus Christy, Álvaro Obregón, Distrito Federal (cdmx)|4200|2|2.0|70|19.3686704|-99.25737729999999
-  Lomas De Becerra Edif 7 Dep 1, Álvaro Obregón, Distrito Federal (cdmx)|9000|2|1.0|73|19.384945499999997|-99.2138697
-  Cholula 20, 301 Y 502, Miguel Hidalgo, Distrito Federal (cdmx)|29000|3|2.0|110|19.430657500000002|-99.2083953
-  Nelly Campobello 129, Álvaro Obregón, Distrito Federal (cdmx)|9000|2|2.0|73|19.383796399999998|-99.1971753
-  Patricio Sanz 1357, Tlacoquemecatl, Benito Juárez, Distrito Federal (cdmx)|28000|3|4.0|152|19.3773756|-99.1738399
-  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|4317613|2||43|19.3613167|-99.1885042
-  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|2361589|1||27|19.3613167|-99.1885042
-  Uman 11, Tlalpan, Distrito Federal (cdmx)|8500|3|1.0|80|19.2811336|-99.2283237
-  Av. F.f.cc. Nacionales 1940, Azcapotzalco, Distrito Federal (cdmx)|7800|2|1.0|60|19.4704246|-99.1905284
-  Ruben Dario 35, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|2425625|3|4.0|429|19.4300669|-99.1821687
-  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495
-  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495
-  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001
-  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001
-  Calle Lago Zurich 245, Delegación Miguel Hidalgo, 11529 Ciudad De México, Cdmx, Miguel Hidalgo, Distrito Federal (cdmx)|30000|3|3.0|145|19.4416421|-99.2039005
-  Villalongin 82, Cuauhtémoc, Distrito Federal (cdmx)|18500|2|2.0|95|19.432859|-99.16392950000001
-  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|14000|1|1.0|20|19.3584142|-99.17777059999999
-  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|28000|2|2.0|45|19.3584142|-99.17777059999999
-  Lamartine 0, 501, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|25000|3|2.0|120|19.432127800000004|-99.18975379999999
-  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|155240|4|4.0|400|19.4279636|-99.221941
-  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|174645|3|4.0|353|19.4279636|-99.221941
-  Ejército Nacional 225, Ciudad De México, Distrito Federal (cdmx)|23000|2|2.0|104|19.4367558|-99.1793111
-  Calle Pitágoras 284, Benito Juárez, Distrito Federal (cdmx)|19405|1|1.0|71|19.398350100000002|-99.1573626
-  Arquimedes 196, 2, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|36000|3|3.0|200|19.4363783|-99.1907524
-  Carretera Mexico Toluca 2500, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|27000|3|4.0|127|19.388847199999997|-99.2400876
-  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|7500|2|1.0|72|19.2751896|-99.1724386
-  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|4000|2|1.0|33|19.2751896|-99.1724386
-  Nubia 264, Del Recreo, Azcapotzalco, Distrito Federal (cdmx)|10500|2|1.0|55|19.4735213|-99.1823344
-  Calzada De Tlalpan 1510, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|14000|2|2.0|70|19.3632488|-99.1424011
-  Begonias 1, Clavería, Azcapotzalco, Distrito Federal (cdmx)|8750|2|1.0|75|19.4635773|-99.18051390000001
-  Prolongación Paseo De La Reforma 307, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|19500|2|2.0|75|19.3795682|-99.2538313
-  José María Izazaga 20, Distrito Federal (cdmx)|18000|2|1.0|80|19.426923100000003|-99.1408698
-  Renta Residencial La Jolla Bosques De La Reforma 1592, Bosques De Las Lomas, Cuajimalpa De Morelos, Bosques De Las Lomas, Cuajimalpa De Morelos|97025|3|3.0|400|19.3846052|-99.2638167
-  Mimosa 3, Distrito Federal (cdmx)|3500|1|1.0|30|19.333569100000002|-99.233711
-  Calle  3, Agrícola Pantitlán, Iztacalco|3500|1|1.0|35|19.413731100000003|-99.0644816
-  Calzada De Las Aguilas 1124, Ciudad De México, Distrito Federal (cdmx)|7700|2|1.0|60|19.349237300000002|-99.2248749
-  Bahia De San Hipolito 43, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|17500|2|2.0|74|19.4400986|-99.17682420000001
-  Barranquilla 139, Gustavo A. Madero, Distrito Federal (cdmx)|10500|2|1.0|66|19.5019839|-99.1276727
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841
-  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841
-  Ave. Carlos Lazo 20, Álvaro Obregón, Distrito Federal (cdmx)|22000|1|1.0|120|19.363825199999997|-99.2659316
-  6ta Cerrada De Francisco I Madero, Ex Ejido De Santa Ursula Coapa, Ex-ejido De Santa Ursula Coapa, Ciudad De México|2900|3||80|19.3043162|-99.1413745
-  Calle La Paz  6 Colonia San Lorenzo Huipulco, San Lorenzo Huipulco, Tlalpan, Distrito Federal (cdmx)|2500|34|14.0|200|19.298513399999997|-99.1487787
-  Pocito 139, 7, Popotla, Miguel Hidalgo, Distrito Federal (cdmx)|8300|3|1.0|70|19.455213600000004|-99.1827196
-  Prol Bosque De La Reforma 1455, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|56500|3|4.0|380|19.3878909|-99.2631725
-  Av. Aquiles Serdan 671, Centro De Azcapotzalco, Distrito Federal (cdmx)|13200|2|1.0|64|19.4836447|-99.1878718
-  Jesús Lecuona 90, 3, Tlalpan, Distrito Federal (cdmx)|8500|2|1.0|80|19.285040600000002|-99.1982905
-  Av. Jardín 257, Ampliación Del Gas, Azcapotzalco, Distrito Federal (cdmx)|13000|1|1.0|51|19.465393|-99.1589121
-  Andres Molina Enriquez 4118, Cuauhtémoc, Distrito Federal (cdmx)|5000|1|1.0|40|19.4069017|-99.1285417
-  Etla 15, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|21000|1|1.0|50|19.4064379|-99.17536650000001
-  Miguel De Cervantes De Saavedra 303, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|1455375|3|3.0|221|19.440692600000002|-99.2047001
-  Jesus Del Monte 245, Jesús Del Monte, Cuajimalpa De Morelos|23500|2|2.0|98|19.3675283|-99.2925703
-  Miguel De Cervantes Saavedra 443, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|43000|3|2.0|110|19.4406215|-99.2079858
-  Avenida 2 200, San Pedro De Los Pinos, Álvaro Obregón, Distrito Federal (cdmx)|14500|2|2.0|90|19.388758199999998|-99.1845614
-  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|6500|2|1.0|60|19.2876015|-99.2258515
-  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|5200|2|1.0|60|19.2876015|-99.2258515
-  Bartolome R Salido 166, Vertiz Narvarte, Benito Juárez, Distrito Federal (cdmx)|16000|2|2.0|76|19.3821537|-99.1503048
-  Avenida Parque Lira 141, 12, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|15000|2|1.0|95|19.4043632|-99.1877986
-  Prol. Paseo De La Reforma 3700, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|56500|3|4.0|380|19.3883491|-99.24091379999999
-  Antigua Taxqueña 164, Coyoacán, Distrito Federal (cdmx)|17500|3|2.0|115|19.3451105|-99.1530858
-  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516
-  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516
-  Gabino Barreda 117, San Rafael, Ciudad De México|4500|2|1.0|70|19.436176899999996|-99.1644315
-  Av Tamapulipas 250, San Francisco Culhuacán Barrio De Santa Ana, Ciudad De México|66000|4|4.0|320|19.333673|-99.123239
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951
-  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951
-  Parras 15, Hipódromo, Cuauhtémoc, 06100, México D.f., Distrito Federal (cdmx)|4500|1|1.0|11|19.4146434|-99.1702334
-  Avenida México No. 133, Colonia Hipódromo, Delegación Cuauhtémoc, Ciudad De México, Ciudad De México, Distrito Federal (cdmx)|15500|1|1.0|40|19.4107758|-99.1690226
-  Calle 4 Num 308, Agrícola Pantitlán, Iztacalco|4500|2|1.0|60|19.4155236|-99.0623488
-  Arquimedes 1, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|240|19.4261608|-99.1917496
-  Cuitlahuac 19, Isidro Fabela, Tlalpan, Distrito Federal (cdmx)|15500|3|3.0|120|19.2974784|-99.1707496
-  Parque Lira 0, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|15000|2|1.0|93|19.4099693|-99.19050959999998
-  Rio Elba 30, Cuauhtémoc, Distrito Federal (cdmx)|21000|2|1.0|120|19.425413199999998|-99.1748833
-  Cerrada De La Cruz 12, Cuajimalpa De Morelos, Distrito Federal (cdmx)|21000|2|2.0|94|19.3574017|-99.287644
-  San Marcos 11, Ciudad De México, Distrito Federal (cdmx)|16300|3|3.0|120|19.3075075|-99.2306311
-  Plutarco Elias Calles 282, Iztacalco, Distrito Federal (cdmx)|10000|2|1.0|72|19.3978246|-99.1119502
-  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10100|2|2.0|65|19.4814269|-99.1948158
-  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10000|2|2.0|67|19.4814269|-99.1948158
-  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10100|2|2.0|65|19.4814269|-99.1948158
-  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10000|2|2.0|67|19.4814269|-99.1948158
-  Fracc Copal Lt 2 Edf D104, San Pedro Zacatenco, Gustavo A. Madero|1500|2|1.0|1|19.506951500000003|-99.12140450000001
-  Av Ejercito Nacional 769 Esq Moliere, Miguel Hidalgo, Ciudad De México, Distrito Federal (cdmx)|38000|2|2.0|115|19.439641|-99.1995083
-  2 Cuadras De Ipn, Planetario Lindavista, Ciudad De México|2500|1|1.0|35|19.496732|-99.14251290000001
-  Revillagigedo 18, Distrito Federal (cdmx)|34929|3|2.0|115|19.4342202|-99.1456585
-  Lago Alberto 00, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|25000|2|2.0|90|19.4386555|-99.1808203
-  Av. De Los Bosques 1516 Col. Lomas De Chamizal, Lomas Del Chamizal, Cuajimalpa De Morelos|45000|3|4.0|285|19.399668300000002|-99.25648670000001
-  Cholula 10, Hipódromo Condesa, Cuauhtémoc, Distrito Federal (cdmx)|28750|2|2.0|93|19.4102375|-99.1736072
-  Avenida Paseo De Las Palmas 800, Lomas De Chapultepec I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|679175|3|3.0|320|19.428531600000003|-99.2160841
-  Lago Zurich 244 Ph, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|25000|3|2.0|110|19.442756600000003|-99.202496
-  Concepcion Beistigui 616, 201, Del Valle, Benito Juárez, Distrito Federal (cdmx)|15000|2|2.0|80|19.3898495|-99.1674013
-  Miguel De Cervantes Saavedra 380, Colonia Irrigación, Miguel Hidalgo, Distrito Federal (cdmx)|35000|2|2.0|154|19.439811600000002|-99.2057069
-  Cuitlahuac 44, Guadalupe Victoria, Ciudad De México|8500|2|2.0|60|19.4715893|-99.13967480000001
-  Sullana 700, Lindavista Sur, Gustavo A. Madero|2300|1|1.0|500|19.4927652|-99.13923759999999
-  Mazaryk 400, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|50000|4|5.0|350|19.4317034|-99.198464
-  Calzada Del Hueso 300, Ciudad De México, Distrito Federal (cdmx)|6000|1|1.0|20|19.3079824|-99.1341744
-  Sur 143 1614, Iztacalco, Distrito Federal (cdmx)|7000|2|1.0|120|19.3878741|-99.09842579999999
-  A 2 Cuadras De Ipn, Planetario Lindavista, Ciudad De México|2500|1|1.0|40|19.496732|-99.14251290000001
-  Josafat F. Márquez 26, Colonial Iztapalapa, Iztapalapa, Distrito Federal (cdmx)|7500|2|2.0|78|19.3446888|-99.0573055
-  Av. Talleres Graficos 42b, Agrícola Pantitlán, Iztacalco|5500|2|1.0|64|19.4145621|-99.0712658
-  Calle 31 No. 13, Álvaro Obregón, Col. Olivar Del Conde, Álvaro Obregón, Distrito Federal (cdmx)|4000|2|1.0|64|19.372131200000002|-99.2207334
-  Alpes 2001 Periferico Sur, Álvaro Obregón, Distrito Federal (cdmx)|13000|2|2.0|76|19.3305129|-99.210092
-  Calle 31-13 Col. Olivar Del Conde 2da Sección, Delegación Álvaro Obregón, Ciudad De México, Distrito Federal (cdmx)|4200|2|1.0|140|19.372131200000002|-99.2207334
+Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)|Latitud|Longitud|Coordinates
+  Tokio 65, A1, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|30000|2|2.0|107|19.4236938|-99.1721906|19.4236938,-99.1721906
+  Azalea 152, Lomas Quebradas, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Lago Iseo 532, Be Grand Alto Polanc, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|35000|2|2.0|109|19.4410251|-99.181858|19.4410251,-99.181858
+  Congreso 113, La Joya, Tlalpan, Distrito Federal (cdmx)|11350|2|1.0|102|19.2803318|-99.1682004|19.2803318,-99.1682004
+  Rómulo O'farril 520, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|14500|2|2.0|76|19.3377623|-99.2145908|19.3377623,-99.2145908
+  Av. Emiliano Zapata 409, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|14800|2|2.0|80|19.3690154|-99.1611432|19.3690154,-99.1611432
+  1a Privada De La 5 Cerrada De Av Mexico 5, Cuajimalpa De Morelos, Distrito Federal (cdmx)|12000|1|2.0|60|19.3645334|-99.2999321|19.3645334,-99.2999321
+  Jorge Bernard Shaw 10 10, 202, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|32000|3|2.0|185|19.431912|-99.20437829999999|19.431912,-99.20437829999999
+  Jorge Bernard Shaw 10 10, 602, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|34000|3|2.0|185|19.431912|-99.20437829999999|19.431912,-99.20437829999999
+  Hegel 210, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|40700|3|3.0|149|19.4351432|-99.1878935|19.4351432,-99.1878935
+  Amplísimo, Mide 460m² En Lomas De Chapultepec, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|873225|3|3.0|460|19.424937399999997|-99.2134442|19.424937399999997,-99.2134442
+  Avenida Santa Fe 482, Cuajimalpa De Morelos, 05349, Ciudad De Mexico, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|24000|1|1.0|85|19.3594534|-99.2699073|19.3594534,-99.2699073
+  Joaquin Garcia Izcabaleta 55, San Rafael, Cuauhtemoc, Ciudad De Mexico, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16000|3|2.0|120|19.4413879|-99.1625563|19.4413879,-99.1625563
+  Avenida Horacio1537, Polanco Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|1261325|3|4.0|193|19.4355887|-99.2064672|19.4355887,-99.2064672
+  Avenida De Las Torres 805, Torres Del Potrero, Alvaro Obregón Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|17500|2|2.0|78|19.334299899999998|-99.2399338|19.334299899999998,-99.2399338
+  Francisco Petrarca 139, Colonia Polanco Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|2|2.0|167|19.436182100000003|-99.1857411|19.436182100000003,-99.1857411
+  Joaquin Garcia Izcabalceta 55, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16000|3||120|19.4413879|-99.1625563|19.4413879,-99.1625563
+  Calle Division Del Norte 293, Lomas De Memetla, Cuajimalpa, Ciudad De Mexico, Lomas De Memetla, Cuajimalpa De Morelos|16000|2|2.0|122|19.3586393|-99.28396640000001|19.3586393,-99.28396640000001
+  Bosque De Tabachines 327, Colonia Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|155240|3|3.0|650|19.380166199999998|-99.2606551|19.380166199999998,-99.2606551
+  Palacio Escorial 20, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|33000|2||70|19.4017163|-99.2348249|19.4017163,-99.2348249
+  Avenida Jesus Del Monte 41, Jesús Del Monte, Cuajimalpa De Morelos|95312|2||184|19.3754716|-99.2945852|19.3754716,-99.2945852
+  Encarnacion Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|14000|2|2.0|69|19.4714503|-99.1613575|19.4714503,-99.1613575
+  Tabasco 267, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|47000|2|3.0|113|19.4180712|-99.16533390000001|19.4180712,-99.16533390000001
+  Hegel 15, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|2.0|230|19.4372428|-99.1881764|19.4372428,-99.1881764
+  Moliere 118, Distrito Federal (cdmx)|75000|2|3.0|120|19.4335323|-99.2018276|19.4335323,-99.2018276
+  Cumbres De Maltrata 423, Narvarte, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|70|19.3878982|-99.14802960000002|19.3878982,-99.14802960000002
+  Avenida Santa Fe 498, Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|25000|1|1.0|82|19.3581997|-99.2717753|19.3581997,-99.2717753
+  Calzada San Simon No. 82, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)|10500|2|1.0|51|19.3746796|-99.1445991|19.3746796,-99.1445991
+  Monte Elbruz 164, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|3|3.0|400|19.4294695|-99.2033552|19.4294695,-99.2033552
+  Gabriel Mancera 1157, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|19500|2|2.0|92|19.378335399999997|-99.16628859999999|19.378335399999997,-99.16628859999999
+  Carrtera Mexico Toluca 5860, Contadero, Cuajimalpa De Morelos|16000|1|2.0|57|19.364126199999998|-99.2787997|19.364126199999998,-99.2787997
+  Cofre De Perote 256, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|33500|2|2.0|112|19.4265398|-99.2239258|19.4265398,-99.2239258
+  Avenida General Ignacio Zaragoza Al 500, Venustiano Carranza, Distrito Federal (cdmx)|8500|3|1.0|70|19.421174399999998|-99.1226981|19.421174399999998,-99.1226981
+  Lago Zurich 219, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|36500|2|3.0|118|19.442115|-99.2040893|19.442115,-99.2040893
+  Calzada De Las Brujas 304, Villa Coapa, Tlalpan, Distrito Federal (cdmx)|10000|3|1.0|80|19.297433899999998|-99.1222877|19.297433899999998,-99.1222877
+  Calle 28 De Diciembre Col. Emiliano Zapata, Coyoacàn, Coyoacán, Distrito Federal (cdmx)|13500|2|2.0|80|19.3264826|-99.1371429|19.3264826,-99.1371429
+  Santa. Fe, Álvaro Obregón,penthouse 406, Álvaro Obregón, Distrito Federal (cdmx)|42000|2|3.0|270|19.386392800000003|-99.2255625|19.386392800000003,-99.2255625
+  Ferrocarril Hidalgo 1404, Villa Gustavo A. Madero, Gustavo A. Madero|8000|2|1.0|60|19.480701800000002|-99.10792990000002|19.480701800000002,-99.10792990000002
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Avenida 14 25, Venustiano Carranza, Distrito Federal (cdmx)|15500|3|2.0|127|19.4125026|-99.0967503|19.4125026,-99.0967503
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Heriberto Frias 544, Narvarte, Benito Juárez, Distrito Federal (cdmx)|6000|1|1.0|20|19.3924579|-99.15970190000002|19.3924579,-99.15970190000002
+  Manuel Toissaint 60, Coyoacán, Distrito Federal (cdmx)|5300|2|1.0|40|19.3477033|-99.1556963|19.3477033,-99.1556963
+  Juan Alvarez 54, La Magdalena Contreras, Distrito Federal (cdmx)|7500|1|1.0|40|19.3015674|-99.2352146|19.3015674,-99.2352146
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|14000|2|2.0|60|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|8500|2|1.0|72|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|9000|2|1.0|65|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|7000|1|1.0|71|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|4500|2|1.0|61|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Centro (área 1), Cuauhtémoc, Distrito Federal (cdmx)|6500|2|1.0|59|19.430267800000003|-99.1373136|19.430267800000003,-99.1373136
+  Cerrada Ferrocarril De Cuernavaca 779, Ampliación Granada, Ciudad De México|45000|2|3.0|113|19.441622199999998|-99.1998906|19.441622199999998,-99.1998906
+  Privada Paseo De Los Tamarindos No.7, Bosques De Las Lomas, Cuajimalpa De Morelos|42500|3|5.0|290|19.391738600000004|-99.2503287|19.391738600000004,-99.2503287
+  Revolución 1336, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|22000|2|2.0|102|19.3584367|-99.1894233|19.3584367,-99.1894233
+  Juan Salvador Agraz 37, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|29900|2|2.0|125|19.3601662|-99.2800525|19.3601662,-99.2800525
+  Residencial San Angel 000, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|13700|1|1.0|60|19.3373288|-99.214254|19.3373288,-99.214254
+  Miguel De Cervantes Saavedra 303, Irrigación, Ciudad De México|47000|2|2.0|120|19.4404213|-99.20782690000001|19.4404213,-99.20782690000001
+  Algeciras 38 -301, Insurgentes Mixcoac, Benito Juárez, Distrito Federal (cdmx)|22500|3|3.0|150|19.3719604|-99.1809593|19.3719604,-99.1809593
+  Calzada Desierto De Los Leones 4373, Tetelpan, Álvaro Obregón, Distrito Federal (cdmx)|23000|2|2.0|115|19.3462604|-99.21147509999999|19.3462604,-99.21147509999999
+  Versalles 33, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|22000|2|2.0|110|19.4309996|-99.15461540000001|19.4309996,-99.15461540000001
+  Calzada De Tlalpan 1434, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|18000|2|2.0|90|19.3665135|-99.1418422|19.3665135,-99.1418422
+  Popocatépetl 000, Xoco, Benito Juárez, Distrito Federal (cdmx)|22000|2|2.0|83|19.3650397|-99.1637713|19.3650397,-99.1637713
+  Bucareli 128, Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)|38810|3|2.0|310|19.4286228|-99.1522547|19.4286228,-99.1522547
+  Ejercito Nacional 453, 200, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|3.0|115|19.438313|-99.1884775|19.438313,-99.1884775
+  Luz Saviñon 206, Del Valle, Benito Juárez, Distrito Federal (cdmx)|25000|2|2.0|110|19.393463|-99.1703045|19.393463,-99.1703045
+  Calzada México Tacuba 1501, Argentina Poniente, Miguel Hidalgo, Distrito Federal (cdmx)|9500|2|1.0|58|19.455503699999998|-99.21121740000001|19.455503699999998,-99.21121740000001
+  Eugenia 606, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|24500|2|2.0|68|19.3878637|-99.168406|19.3878637,-99.168406
+  Retorno Arrecife 15, Las Águilas, Álvaro Obregón, Distrito Federal (cdmx)|9500|2|1.0|75|19.34948|-99.219988|19.34948,-99.219988
+  Paseo De La Reforma 439, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|65000|1|2.0|120|19.4256497|-99.1723516|19.4256497,-99.1723516
+  Laguna De Mayrán 375, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|19000|2|2.0|82|19.4401814|-99.1770569|19.4401814,-99.1770569
+  Adolfo Lopez Mateos 5146, Pedregal De Carrasco, Coyoacán, Distrito Federal (cdmx)|23000|2|2.0|104|19.303820899999998|-99.1770675|19.303820899999998,-99.1770675
+  General Emiliano Zapata 360, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|16000|2|2.0|78|19.3676607|-99.160102|19.3676607,-99.160102
+  Toltecas 166, Carola, Álvaro Obregón, Distrito Federal (cdmx)|11000|3|2.0|70|19.387282199999998|-99.1917223|19.387282199999998,-99.1917223
+  Av Centenario 1762, Ciudad De México, Distrito Federal (cdmx)|16500|1|1.0|50|19.348738100000002|-99.2524181|19.348738100000002,-99.2524181
+  Romulo Oarril 520, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|16500|2|2.0|77|19.3377623|-99.2145908|19.3377623,-99.2145908
+  Iglesia 270, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)|29000|3|2.0|130|19.3362518|-99.1996626|19.3362518,-99.1996626
+  Av. De Las Torres 805, 407, Torres De Potrero, Álvaro Obregón, Distrito Federal (cdmx)|18000|2|2.0|70|19.334299899999998|-99.2399338|19.334299899999998,-99.2399338
+  Presa Falcón 243, Ph1, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|50000|2|3.0|220|19.4435717|-99.204573|19.4435717,-99.204573
+  En Renta Excelente Departamento En Privada De Tamarindos 29, Bosques De Las Lomas, Cuajimalpa De Morelos, Distrito Federal, Bosques De Las Lomas, Cuajimalpa De Morelos|26000|2|2.0|160|19.3845775|-99.2529633|19.3845775,-99.2529633
+  Av Sta Fe 482, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|22000|1|2.0|87|19.359052300000002|-99.2702192|19.359052300000002,-99.2702192
+  Paseo De La Reforma 77, Tabacalera, Cuauhtémoc, Distrito Federal (cdmx)|32750|1|2.0|99|19.433699899999997|-99.1550421|19.433699899999997,-99.1550421
+  Ave. San Bernabe 655, San Jerónimo Lídice, Ciudad De México|16000|2|2.0|110|19.3295992|-99.2291858|19.3295992,-99.2291858
+  Tomas Alva Edison 101, Tabacalera, Cuauhtémoc, Distrito Federal (cdmx)|22000|2|2.0|100|19.4377336|-99.1547865|19.4377336,-99.1547865
+  Av. Carlos Lazo 100, San Mateo Tlaltenango, Cuajimalpa De Morelos|78000|3|4.0|320|19.3482367|-99.2605663|19.3482367,-99.2605663
+  Prol. Paseo De La Reforma 100, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|17500|2|2.0|65|19.382692199999997|-99.247635|19.382692199999997,-99.247635
+  Prolong. Bosques De Reforma 1455, 202, Bosques De Las Lomas, Cuajimalpa De Morelos|45000|3|4.0|420|19.3878909|-99.2631725|19.3878909,-99.2631725
+  Dr. Barragan 850, Narvarte, Benito Juárez, Distrito Federal (cdmx)|22500|3|2.0|117|19.388557000000002|-99.1479978|19.388557000000002,-99.1479978
+  Ejercito Nacional 1, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|26300|2|2.0|95|19.4325493|-99.1727747|19.4325493,-99.1727747
+  Javier Barros Sierra 245, Lomas De Santa Fe, Ciudad De México|29000|3|3.0|145|19.373375|-99.2534416|19.373375,-99.2534416
+  Ramos Millan 49, 0, Américas Unidas, Benito Juárez, Distrito Federal (cdmx)|25000|3|3.0|164|19.3832219|-99.1417738|19.3832219,-99.1417738
+  Av. Toluca 669 Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|16500|2|2.0|83|19.337556699999997|-99.22428570000001|19.337556699999997,-99.22428570000001
+  Cacahuatales 20, Gabriel Ramos Millán, Iztacalco|10500|2|1.0|60|19.3007538|-99.11777790000001|19.3007538,-99.11777790000001
+  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|26000|2|2.0|93|19.4400628|-99.1830266|19.4400628,-99.1830266
+  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|18000|1|1.0|52|19.4400628|-99.1830266|19.4400628,-99.1830266
+  Lomas De Sotelo 1120, Edificio C - 302, Lomas De Sotelo, Miguel Hidalgo, Distrito Federal (cdmx)|14000|3|3.0|100|19.4459977|-99.2163303|19.4459977,-99.2163303
+  Calz Tlalpan 2971, Coyoacán, Distrito Federal (cdmx)|20000|4|3.0|129|19.324816100000003|-99.1383462|19.324816100000003,-99.1383462
+  Sinaloa No. 179 Roma Norte, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|21000|2|2.0|70|19.4198868|-99.1720176|19.4198868,-99.1720176
+  Golfo De San Jorge 37 Tacuba Miguel Hidalgo, Tacuba, Miguel Hidalgo, Distrito Federal (cdmx)|12000|2|2.0|69|19.454627600000002|-99.18631440000001|19.454627600000002,-99.18631440000001
+  Lomas De Sotelo 1120, Edificio C, Lomas De Sotelo, Miguel Hidalgo, Distrito Federal (cdmx)|14300|3|2.0|110|19.4459977|-99.2163303|19.4459977,-99.2163303
+  Culiacan 1, Ph, Hipódromo Condesa, Cuauhtémoc, Distrito Federal (cdmx)|38000|2|3.0|143|19.4085807|-99.1714436|19.4085807,-99.1714436
+  José María Rico 118, Actipan, Benito Juárez, Distrito Federal (cdmx)|24000|2|3.0|120|19.3688957|-99.17803020000001|19.3688957,-99.17803020000001
+  Av. Coyoacán 635, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|4|2.0|140|19.3883617|-99.16696280000001|19.3883617,-99.16696280000001
+  Andrea Del Castagno 79, Mixcoac, Benito Juárez, Distrito Federal (cdmx)|24200|2|2.0|87|19.3836295|-99.191079|19.3836295,-99.191079
+  Sur 109, Iztacalco, Distrito Federal (cdmx)|10000|2|1.0|100|19.379658300000003|-99.12794240000001|19.379658300000003,-99.12794240000001
+  Paseo De La Reforma 0, Zona Centro, Cuauhtémoc, Distrito Federal (cdmx)|90000|1|2.0|120|19.4382486|-99.1457945|19.4382486,-99.1457945
+  Lago Neuchatel 10, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|29200|3|2.0|125|19.4423271|-99.2016516|19.4423271,-99.2016516
+  Avenida San Miguel 40, Xalpa, Ciudad De México|8500|2|2.0|100|19.332842000000003|-99.0320843|19.332842000000003,-99.0320843
+  Uxmal 00, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|85|19.372230300000002|-99.1587114|19.372230300000002,-99.1587114
+  Calzada San Isidro 492 San Pedro Xalpa, Azcapotzalco, Cdmx, San Pedro Xalpa, Azcapotzalco, Distrito Federal (cdmx)|11500|3|2.0|90|19.4841904|-99.2065419|19.4841904,-99.2065419
+  Popocatepetl 00, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|86|19.3642068|-99.1607909|19.3642068,-99.1607909
+  Lago Zurich 168, 0, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|26000|2|2.0|100|19.4448159|-99.2026389|19.4448159,-99.2026389
+  Sierra Gorda 23, Torre Encinos - G3, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|116430|3|3.0|352|19.4279636|-99.221941|19.4279636,-99.221941
+  Guanábana 10, Nueva Santa Maria, Azcapotzalco, Distrito Federal (cdmx)|10500|2|1.0|75|19.4593296|-99.1691353|19.4593296,-99.1691353
+  Calle10, San Pedro De Los Pinos, Benito Juárez, Distrito Federal (cdmx)|25000|2|2.0|90|19.3893443|-99.18854559999998|19.3893443,-99.18854559999998
+  Etla 10, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|35000|3|2.0|140|19.406477600000002|-99.1751463|19.406477600000002,-99.1751463
+  Avenida Centenario 2025, Distrito Federal (cdmx)|19000|2|2.0|3,183|19.4984052|-99.09578459999999|19.4984052,-99.09578459999999
+  Lago Zirahuen 98, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|11500|2|1.0|58|19.445192300000002|-99.1728766|19.445192300000002,-99.1728766
+  Minatitlan 54, San Jerónimo Aculco, La Magdalena Contreras, Distrito Federal (cdmx)|18500|2|2.0|122|19.3167615|-99.2271361|19.3167615,-99.2271361
+  Popocatepetl 435, 9, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19100|2|2.0|77|19.364987799999998|-99.1618347|19.364987799999998,-99.1618347
+  Departamento Graden En Renta En Lomas De Chapultepec Con 1 Recamara, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|26500|1|2.0|100|19.4194815|-99.1894558|19.4194815,-99.1894558
+  Jesus Del Monte 274, Jesús Del Monte, Cuajimalpa De Morelos|55000|3|2.0|360|19.3901493|-99.2922717|19.3901493,-99.2922717
+  Popocatepetl 435, 20, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|31500|3|3.0|94|19.364987799999998|-99.1618347|19.364987799999998,-99.1618347
+  Avenida Vasco De Quiroga 1635, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|5000|2|1.0|55|19.382186800000003|-99.2392743|19.382186800000003,-99.2392743
+  Yacatas 24, 6, Narvarte, Benito Juárez, Distrito Federal (cdmx)|16500|3|1.0|110|19.400962|-99.15480050000001|19.400962,-99.15480050000001
+  Nellie Campobello 129, Carola, Álvaro Obregón, Distrito Federal (cdmx)|69858|2|1.0|72|19.383796399999998|-99.1971753|19.383796399999998,-99.1971753
+  Fernando Alencastre 240, Lomas De Chapultepec Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|23000|2|2.0|130|19.421385100000002|-99.20413520000001|19.421385100000002,-99.20413520000001
+  Cumbres De Acultzingo 67, 108, Narvarte, Benito Juárez, Distrito Federal (cdmx)|9500|2|1.0|70|19.3923314|-99.1478421|19.3923314,-99.1478421
+  Vértiz 983, Col. Vértiz Narvarte, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|108|19.385499600000003|-99.1522473|19.385499600000003,-99.1522473
+  Ave De Las Torres 805, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|18500|2|2.0|104|19.3342912|-99.23990500000001|19.3342912,-99.23990500000001
+  Pico De Verapaz 4, Jardines En La Montaña, Tlalpan, Distrito Federal (cdmx)|65000|3|4.0|400|19.2975321|-99.1964441|19.2975321,-99.1964441
+  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|155240|4|4.0|400|19.4279636|-99.221941|19.4279636,-99.221941
+  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|174645|3|4.0|353|19.4279636|-99.221941|19.4279636,-99.221941
+  Avenida Mexico Coyoacan 371, Xoco, Benito Juárez, Distrito Federal (cdmx)|22000|2|2.0|80|19.3613949|-99.163194|19.3613949,-99.163194
+  Bosque De Radiatas 14, 2b, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|38000|3|4.0|312|19.3886948|-99.2520349|19.3886948,-99.2520349
+  Citlaltépetl 54, 9, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|65000|2|3.0|220|19.4080605|-99.1717804|19.4080605,-99.1717804
+  Ruben Dario 100, Miguel Hidalgo, Distrito Federal (cdmx)|60000|3|2.0|200|19.4289326|-99.1846333|19.4289326,-99.1846333
+  Av. Popocatépetl 000, Xoco, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|100|19.362775|-99.1634115|19.362775,-99.1634115
+  Av. El Bordo 85 Col Ex Hacienda Tlalpan, Tlalpan, Distrito Federal (cdmx)|18000|2|2.0|88|19.3066704|-99.1381783|19.3066704,-99.1381783
+  Nicolas San Juan 279, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|19500|2|2.0|112|19.3986044|-99.16078490000001|19.3986044,-99.16078490000001
+  Jesus Del Monte 34, Jesús Del Monte, Cuajimalpa De Morelos|17500|1|1.0|50|19.3954203|-99.2899251|19.3954203,-99.2899251
+  Guanajuato 44, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|23000|2|2.0|70|19.4173783|-99.1563673|19.4173783,-99.1563673
+  Mar Adriático 100, Popotla, Miguel Hidalgo, Distrito Federal (cdmx)|25000|2|2.0|130|19.452131899999998|-99.179995|19.452131899999998,-99.179995
+  Av. Ejercito Nacional 769 Esquina Moliere, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|30000|2|2.0|105|19.439641|-99.1995083|19.439641,-99.1995083
+  Aguascalientes 185, 5, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|25000|2|2.0|100|19.4077573|-99.1704832|19.4077573,-99.1704832
+  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|18000|3|2.0|80|19.4714503|-99.1613575|19.4714503,-99.1613575
+  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|13000|2|2.0|65|19.4714503|-99.1613575|19.4714503,-99.1613575
+  R.salido 166, Independencia, Benito Juárez, Distrito Federal (cdmx)|13950|2|2.0|75|19.3821537|-99.1503048|19.3821537,-99.1503048
+  Cleveland 6, Ciudad De Los Deportes, Benito Juárez, Distrito Federal (cdmx)|2800000|2|2.0|84|19.3813898|-99.18102490000001|19.3813898,-99.18102490000001
+  Amsterdam 1, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|38810|2|2.0|140|19.41535|-99.1669756|19.41535,-99.1669756
+  Ph En Renta Amueblado De 2 Nivles Y Roof Garden En Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|950845|3|3.0|380|19.390416199999997|-99.2550003|19.390416199999997,-99.2550003
+  Lago Neuchatel 12, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|29000|2|3.0|126|19.442351600000002|-99.2013938|19.442351600000002,-99.2013938
+  Lago Alberto 320, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|36000|3|2.0|150|19.4404402|-99.18518409999999|19.4404402,-99.18518409999999
+  Guanajuato 66, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|22000|2|2.0|119|19.417109600000003|-99.1574963|19.417109600000003,-99.1574963
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2600|1|1.0|22|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2700|1|1.0|25|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|3600|2|1.0|42|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Prolongación Paseo De La Reforma 260, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|24000|3|2.0|100|19.3742203|-99.2612165|19.3742203,-99.2612165
+  Bahía De Santa Barbara 0, 3, Veronica Anzures, Miguel Hidalgo, Distrito Federal (cdmx)|22000|2|2.0|93|19.436425399999997|-99.17486170000001|19.436425399999997,-99.17486170000001
+  Avenida De Los Poetas 100, Colonia Cuajimalpa, Cuajimalpa De Morelos|49000|3|4.0|318|19.3518443|-99.2592438|19.3518443,-99.2592438
+  General Mariano Escobedo 248, Miguel Hidalgo, Distrito Federal (cdmx)|25500|2|2.0|94|19.4423448|-99.1857166|19.4423448,-99.1857166
+  Prol. Paseo De La Reforma 1, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|22000|2|2.0|65|19.3804527|-99.2521306|19.3804527,-99.2521306
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Textitlán 42, Santa Ursula Coapa, Coyoacán, Distrito Federal (cdmx)|8000|2|1.0|60|19.312800699999997|-99.14258850000002|19.312800699999997,-99.14258850000002
+  Departamento En Renta En Polanco Con 3 Recamaras., Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|58215|3|3.0|250|19.431859|-99.186622|19.431859,-99.186622
+  Chosica 655-3 Col.lindavista, Ciudad De México, Distrito Federal (cdmx)|13800|2|1.0|120|19.490405|-99.1357157|19.490405,-99.1357157
+  Av. Presidente Masaryk 123, Polanco, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37200|2||60|19.4319122|-99.1954899|19.4319122,-99.1954899
+  Goldsmith a, 0, Polanco Iii Sección, Miguel Hidalgo, Distrito Federal (cdmx)|77620|3|4.0|180|19.433124199999998|-99.2005531|19.433124199999998,-99.2005531
+  Damas 76, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|28000|3|3.0|171|19.365724800000002|-99.183387|19.365724800000002,-99.183387
+  Av Bonampak Sm27 01, Benito Juárez, Distrito Federal (cdmx)|45000|4|4.0|320|19.3824573|-99.15207740000001|19.3824573,-99.15207740000001
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2600|1|1.0|22|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2700|1|1.0|25|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|3600|2|1.0|42|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Bajio 232, Roma Sur, Cuauhtémoc, Distrito Federal (cdmx)|19500|2|2.0|105|19.4033523|-99.16434040000001|19.4033523,-99.16434040000001
+  Popocatpetl 233 Santa Cruz Atoyac, Distrito Federal (cdmx)|14000|2|2.0|70|19.3624946|-99.1571447|19.3624946,-99.1571447
+  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|25800|2|2.0|48|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|19980|1|1.0|36|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Genova 20, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|20000|2|2.0|118|19.427178899999998|-99.1642755|19.427178899999998,-99.1642755
+  Bruno Traven 93, 1, General Pedro Maria Anaya, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|100|19.3606089|-99.1600859|19.3606089,-99.1600859
+  Prolongación 5 De Mayo, Lomas De Tarango, Álvaro Obregón, Distrito Federal (cdmx)|6950|2|1.0|46|19.3609065|-99.2156956|19.3609065,-99.2156956
+  Av. Mexico 359, Cuajimalpa De Morelos, Distrito Federal (cdmx)|23500|3|3.0|148|19.3660535|-99.2981805|19.3660535,-99.2981805
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Av. Santa Fe 449, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20000|3|3.0|173|19.3621383|-99.2667033|19.3621383,-99.2667033
+  Culiacán 108, Condesa, Ciudad De México, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|21500|2|2.0|130|19.4036622|-99.169994|19.4036622,-99.169994
+  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|26000|2|2.0|93|19.4400628|-99.1830266|19.4400628,-99.1830266
+  Lago Alberto 300, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|18000|1|1.0|52|19.4400628|-99.1830266|19.4400628,-99.1830266
+  Av. De Las Torres Al 800, Álvaro Obregón, Distrito Federal (cdmx)|14000|1|1.0|54|19.331789800000003|-99.244923|19.331789800000003,-99.244923
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Tiburcio Sánchez De La Barquera 115, Merced Gómez, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|98|19.363917|-99.1901873|19.363917,-99.1901873
+  Chosica 655-3 Col. Lindavista, Distrito Federal (cdmx)|13800|2|1.0|120|19.490405|-99.1357157|19.490405,-99.1357157
+  Xicoténcatl 137, Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)|10000|1|1.0|60|19.3548977|-99.1544151|19.3548977,-99.1544151
+  Mexico Coyoacan 371, Xoco, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|80|19.3613949|-99.163194|19.3613949,-99.163194
+  Sanchez Azcona 1651, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|17000|2|1.0|114|19.3710629|-99.165752|19.3710629,-99.165752
+  Prolongación Reforma 1190, Cuajimalpa De Morelos, Distrito Federal (cdmx)|35000|2|2.0|140|19.360798000000003|-99.2694851|19.360798000000003,-99.2694851
+  Calle Duna Edificio 40 Depto 1 Unidad Habitacional Patera Vallejo, Vallejo, Ciudad De México|7200|3|1.0|80|19.5027865|-99.1544184|19.5027865,-99.1544184
+  Oasis 94, Clavería, Azcapotzalco, Distrito Federal (cdmx)|13000|3|1.0|94|19.46637|-99.18172879999999|19.46637,-99.18172879999999
+  Chicago 98, Nápoles, Benito Juárez, Distrito Federal (cdmx)|58215|3|3.0|190|19.396350299999998|-99.1758478|19.396350299999998,-99.1758478
+  Jose Rosas Moreno 96, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|20500|2|1.0|74|19.4368225|-99.1620265|19.4368225,-99.1620265
+  Andres De La Concha 10, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|18000|2|2.0|120|19.3687256|-99.1868552|19.3687256,-99.1868552
+  Ahuehuetes Nte 1275, 401, Bosques De Las Lomas, Cuajimalpa De Morelos|54000|3|3.0|305|19.3986208|-99.2557117|19.3986208,-99.2557117
+  7 (periferico Oriental), Iztacalco, Distrito Federal (cdmx)|6000|2|1.0|45|19.3971015|-99.0584708|19.3971015,-99.0584708
+  Av.jardín 330 Colonia Del Gas, Azcapotzalco, Distrito Federal (cdmx)|9500|2|2.0|76|19.468982999999998|-99.15956070000001|19.468982999999998,-99.15956070000001
+  Av Tamaulipas 1236, Álvaro Obregón, Distrito Federal (cdmx)|9200|1|1.0|39|19.3650508|-99.2415788|19.3650508,-99.2415788
+  Revolucion 1185, Merced Gomez, Álvaro Obregón, Distrito Federal (cdmx)|15000|2|2.0|65|19.363781399999997|-99.1893241|19.363781399999997,-99.1893241
+  Juan Augusto Ingres 143, Santa Maria Nonoalco, Benito Juárez, Distrito Federal (cdmx)|13000|2|1.0|65|19.383029500000003|-99.18891040000001|19.383029500000003,-99.18891040000001
+  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495|19.2716716,-99.208495
+  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495|19.2716716,-99.208495
+  Popocatepetl 415, 604, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|22000|2|2.0|86|19.3648302|-99.1613626|19.3648302,-99.1613626
+  Heraclito 2, Polanco V Sección, Miguel Hidalgo, Distrito Federal (cdmx)|48000|3|2.0|254|19.4324596|-99.1903491|19.4324596,-99.1903491
+  Departamento En Renta En Carrimon De 3 Recamaras, Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|50000|3|3.0|290|19.3853815|-99.2541083|19.3853815,-99.2541083
+  Adolfo Prieto 1033, 402, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|3.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Tiztik 9 Teotihuacan, Ciudad De México, Distrito Federal (cdmx)|14500|2|2.0|130|19.361301899999997|-99.1884152|19.361301899999997,-99.1884152
+  Av. Cuauhtémoc 997, 5, Narvarte, Benito Juárez, Distrito Federal (cdmx)|19900|2|2.0|105|19.3825328|-99.1584744|19.3825328,-99.1584744
+  Avenida Mexico Coyoacan 0, Xoco, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|80|19.362775|-99.1634115|19.362775,-99.1634115
+  Avenida Mariano Escobedo, Esquina Con Lago Alberto, Colonia Anáhuac, 11490 Ciudad De México, Cdmx, Miguel Hidalgo, Distrito Federal (cdmx)|30000|2|2.0|110|19.4397908|-99.1835247|19.4397908,-99.1835247
+  Departamento En Renta En Aquario Con 2 Recamaras En Interlomas., Jesús Del Monte, Cuajimalpa De Morelos|23500|2|1.0|140|19.383654|-99.2917621|19.383654,-99.2917621
+  Jose Moran 00, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|32000|2|2.0|150|19.4096184|-99.1862618|19.4096184,-99.1862618
+  Zurich 272, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|46000|3|4.0|162|19.4413824|-99.20284759999998|19.4413824,-99.20284759999998
+  Cda. De Guillermo Prieto 38, Jesús Del Monte, Cuajimalpa De Morelos|15000|2|3.0|134|19.374996799999998|-99.2955|19.374996799999998,-99.2955
+  Departamento En Renta En Bosques De Las Lomas De 3 Recamaras, Cdmx, Bosques De Las Lomas, Cuajimalpa De Morelos|46000|3|3.0|292|19.390416199999997|-99.2550003|19.390416199999997,-99.2550003
+  León Trotsky 58, 58, Romero Rubio, Venustiano Carranza, Distrito Federal (cdmx)|4800|2|1.0|50|19.4463679|-99.1015011|19.4463679,-99.1015011
+  Pennsylvania 229, 101, Nápoles, Benito Juárez, Distrito Federal (cdmx)|20500|2|2.0|98|19.3869789|-99.1773521|19.3869789,-99.1773521
+  Lago Alberto 320, Miguel Hidalgo, Distrito Federal (cdmx)|38000|3|3.0|156|19.4405817|-99.1865548|19.4405817,-99.1865548
+  Tarasco 52 Interior Depto 801, Edificio “n”, Colonia Degollado, Delegación Iztapalapa, Ciudad De Mexico, Desarrollo Urbano Quetzalcoatl, Ciudad De México|4000|2|1.0|50|19.358566600000003|-99.0732118|19.358566600000003,-99.0732118
+  1, Acacias, Benito Juárez, Distrito Federal (cdmx)|30000|4|2.0|1|19.3638034|-99.17321240000001|19.3638034,-99.17321240000001
+  Angel Urraza 1839, Independencia, Benito Juárez, Distrito Federal (cdmx)|17500|2|2.0|75|19.3799168|-99.1518631|19.3799168,-99.1518631
+  Arquimedes 200, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|27000|2|1.0|60|19.436655399999996|-99.1907925|19.436655399999996,-99.1907925
+  Jesus Del Monte 0, 0, Jesús Del Monte, Cuajimalpa De Morelos|22000|2|2.0|100|19.365976|-99.2910762|19.365976,-99.2910762
+  Blvd Adolfo Lopez Mateos 1951, Los Alpes, Álvaro Obregón, Distrito Federal (cdmx)|15000|1|2.0|60|19.3606836|-99.1924411|19.3606836,-99.1924411
+  Paseo De Laureles 410, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|38000|3|4.0|323|19.380057100000002|-99.2663205|19.380057100000002,-99.2663205
+  Capricornio 73, Prado Churubusco, Coyoacán, Distrito Federal (cdmx)|14000|3|3.0|102|19.3548891|-99.1247671|19.3548891,-99.1247671
+  Adolfo Prieto 1033, 102, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|3|2.0|136|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Eje Central 1130, San Simon Ticumac, Benito Juárez, Distrito Federal (cdmx)|14500|2|1.0|70|19.3754112|-99.1487747|19.3754112,-99.1487747
+  Departamento De 2 Niveles En Renta En Magna Residencial, Santa Fe., El Yaqui, Cuajimalpa De Morelos|30715|2|2.0|120|19.362865399999997|-99.283072|19.362865399999997,-99.283072
+  Arquimedes 191, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|29000|2|2.0|167|19.436178299999998|-99.19059150000001|19.436178299999998,-99.19059150000001
+  Independencia 1, Tizapan, Álvaro Obregón, Distrito Federal (cdmx)|13500|2|2.0|97|19.3381331|-99.19957790000001|19.3381331,-99.19957790000001
+  Popocatepetl 00x, Santa Cruz Atoyac, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|85|19.3643609|-99.1618693|19.3643609,-99.1618693
+  Camino Real De Minas 17, Lomas De Los Angeles Del Pueblo Tetelpan, Álvaro Obregón, Distrito Federal (cdmx)|20000|2|3.0|150|19.346277800000003|-99.2127392|19.346277800000003,-99.2127392
+  Cofre De Perote 220, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|59000|3|4.0|298|19.426197100000003|-99.2224624|19.426197100000003,-99.2224624
+  Calzada Desierto De Los Leones 4054, Ph 1, Atlamaya, Álvaro Obregón, Distrito Federal (cdmx)|42000|3|5.0|158|19.3470307|-99.2031199|19.3470307,-99.2031199
+  Insurgentes Norte 57 Esquina Hamburgo, Departamento 9, Colonia Juarez, Benito Juárez, Distrito Federal (cdmx)|22000|4|2.0|140|19.427806399999998|-99.1610284|19.427806399999998,-99.1610284
+  Paseo De La Reforma 284, Ciudad De México, Distrito Federal (cdmx)|22000|1|1.0|78|19.4278301|-99.16459990000001|19.4278301,-99.16459990000001
+  Rafael Solana 5, Independencia, Benito Juárez, Distrito Federal (cdmx)|13200|2|2.0|70|19.3810355|-99.145823|19.3810355,-99.145823
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2600|1|1.0|22|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|2700|1|1.0|25|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Atenas 3, Lomas De Padierna, Tlalpan, Distrito Federal (cdmx)|3600|2|1.0|42|19.2742435|-99.2281609|19.2742435,-99.2281609
+  Ibsen 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1843475|4|5.0|470|19.4313793|-99.2014307|19.4313793,-99.2014307
+  Prolongación Paseo De La Reforma 200, Paseo De Las Lomas, Álvaro Obregón, Distrito Federal (cdmx)|12000|1|2.0|113|19.3701439|-99.2660679|19.3701439,-99.2660679
+  Thomas A Edison 139, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|15000|2|1.0|65|19.4383727|-99.1567523|19.4383727,-99.1567523
+  Enrique Rebsamen 227, Del Valle, Benito Juárez, Distrito Federal (cdmx)|20000|2|2.0|120|19.399434399999997|-99.1588824|19.399434399999997,-99.1588824
+  Carretera Mexico Toluca 5095, El Yaqui, Cuajimalpa De Morelos|14500|1|1.0|40|19.3660268|-99.2727072|19.3660268,-99.2727072
+  Barranca Del Muerto 212, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|18500|2|2.0|70|19.361615899999997|-99.1838078|19.361615899999997,-99.1838078
+  Paseo De Las Bugambilias 1000, 00, Bosques De Las Lomas, Cuajimalpa De Morelos|90000|3|4.0|395|19.3869299|-99.2689321|19.3869299,-99.2689321
+  Elefante 93, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|42000|3|5.0|300|19.3700014|-99.1772111|19.3700014,-99.1772111
+  Amores 1609, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|18000|2|2.0|96|19.369143899999997|-99.1701818|19.369143899999997,-99.1701818
+  Cofré De Perote 0, 0, Lomas De Chapultepec Viii Sección, Miguel Hidalgo, Distrito Federal (cdmx)|60000|3|4.0|250|19.4260222|-99.2242748|19.4260222,-99.2242748
+  Guanajuato 85, San Bartolo Atepehuacan, Gustavo A. Madero|14000|3|2.0|105|19.4943782|-99.14465|19.4943782,-99.14465
+  Barranca Del Muerto 1, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|25000|3|4.0|147|19.363697|-99.1790552|19.363697,-99.1790552
+  Avenida Toluca 441, Colonia Olivar De Los Padres, Álvaro Obregón, Distrito Federal (cdmx)|13000|2|2.0|75|19.339641|-99.2167116|19.339641,-99.2167116
+"  Santa Cruz Cacalco 25, 601 ""a"", Miguel Hidalgo, Distrito Federal (cdmx)"|8750|1|1.0|63|19.450690100000003|-99.2017387|19.450690100000003,-99.2017387
+  Ingenieros Grabadores 11, Jardines De Churubusco, Iztapalapa|9000|3|1.0|84|19.373525100000002|-99.1066755|19.373525100000002,-99.1066755
+  Av Revolución 1400, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|20000|2|2.0|75|19.3563295|-99.18960890000001|19.3563295,-99.18960890000001
+  11 De Abril 177 303 A, Ciudad De México, Distrito Federal (cdmx)|12500|2|1.0|120|19.3960468|-99.184039|19.3960468,-99.184039
+  Montecito 57, Nápoles, Benito Juárez, Distrito Federal (cdmx)|25000|1|2.0|90|19.395326|-99.1737694|19.395326,-99.1737694
+  Ave Revolucion 1062, 302, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|17000|2|2.0|80|19.368114499999997|-99.1883503|19.368114499999997,-99.1883503
+  Av. Veracruz 62, Colonia Condesa, Cuauhtémoc, Distrito Federal (cdmx)|52000|2|2.0|128|19.4175483|-99.1740246|19.4175483,-99.1740246
+  Adolfo Prieto 1033, 101, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26500|3|2.0|117|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Santa Fe 1, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|72000|3|4.0|240|19.3660336|-99.2621958|19.3660336,-99.2621958
+  Montecito 57, Ampliación Napoles, Benito Juárez, Distrito Federal (cdmx)|25000|1|2.0|90|19.395326|-99.1737694|19.395326,-99.1737694
+  Paseo De Las Palmas 515, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|110000|2|3.0|250|19.4301984|-99.2122757|19.4301984,-99.2122757
+  Jose Ma. Vertiz 1, Vertiz Narvarte, Benito Juárez, Distrito Federal (cdmx)|18000|1|1.0|60|19.410864899999996|-99.1491358|19.410864899999996,-99.1491358
+  Granjas 38, Cuajimalpa De Morelos, Distrito Federal (cdmx)|14800|2|1.0|74|19.3822943|-99.2551798|19.3822943,-99.2551798
+  Departamento En Renta En Bosques De Las Lomas Con 2 Recamaras., Bosques De Las Lomas, Cuajimalpa De Morelos|40000|2|2.0|250|19.390416199999997|-99.2550003|19.390416199999997,-99.2550003
+  Camino A Santa Fe 1231, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|11500|2|1.0|100|19.3898806|-99.203598|19.3898806,-99.203598
+  Prolongación Paseo De La Reforma 367, Cuajimalpa De Morelos, Distrito Federal (cdmx)|19000|2|2.0|97|19.3784892|-99.2554913|19.3784892,-99.2554913
+  Calzada Del Hueso 621, Granjas Coapa, Tlalpan, Distrito Federal (cdmx)|11000|3|1.0|86|19.3021875|-99.1202756|19.3021875,-99.1202756
+  Division Del Norte 3526, Coyoacán, Distrito Federal (cdmx)|17000|2|2.0|89|19.325581399999997|-99.139684|19.325581399999997,-99.139684
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Ing. Grabadores 11, Jardines De Churubusco, Iztapalapa|9000|3|1.0|84|19.373525100000002|-99.1066755|19.373525100000002,-99.1066755
+  Inglaterra 105, 1er Piso, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|2.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Estrasburgo 0, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|17000|2|1.0|60|19.4267254|-99.16527090000001|19.4267254,-99.16527090000001
+  Periférico Sur 4860, 5, Xochimilco, Distrito Federal (cdmx)|20000|2|2.0|85|19.301233800000002|-99.16359449999999|19.301233800000002,-99.16359449999999
+  Calzada México-tacuba 1501, Distrito Federal (cdmx)|10500|2|1.0|58|19.455503699999998|-99.21121740000001|19.455503699999998,-99.21121740000001
+  Lago Zurich 272, 810, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|46000|3|5.0|162|19.4414677|-99.202496|19.4414677,-99.202496
+  Av Anacahuita 26, Distrito Federal (cdmx)|679175|2|1.0|20|19.3342897|-99.169909|19.3342897,-99.169909
+  Cerrada De Tamarindos 0, 0, Bosques De Las Lomas, Cuajimalpa De Morelos|33000|3|4.0|218|19.385514699999998|-99.2533303|19.385514699999998,-99.2533303
+  Rubén Darío 275, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1455375|2|3.0|390|19.4263008|-99.1911453|19.4263008,-99.1911453
+  Peral 26, Santa Maria La Ribera, Cuauhtémoc, Distrito Federal (cdmx)|12500|2|2.0|67|19.4543423|-99.1622723|19.4543423,-99.1622723
+  Providencia 1000, Del Valle, Benito Juárez, Distrito Federal (cdmx)|16000|2|2.0|86|19.3854505|-99.1701577|19.3854505,-99.1701577
+  Gómez Farias 23a, Bejero, 01340 Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|4500|6|1.0|9|19.3800728|-99.2456569|19.3800728,-99.2456569
+  Sur 79 353, Venustiano Carranza, Distrito Federal (cdmx)|5500|1|1.0|48|19.416715399999998|-99.12376400000001|19.416715399999998,-99.12376400000001
+  General Pedro Antonio De Los Santos 0, 203, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|17000|3|2.0|110|19.4103796|-99.1831385|19.4103796,-99.1831385
+  Avenida Tecamachalco 31, Reforma Social, Miguel Hidalgo, Distrito Federal (cdmx)|25500|1|1.0|65|19.4332289|-99.211299|19.4332289,-99.211299
+  Suderman 1, 3, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|55000|2|2.0|140|19.4354037|-99.1840781|19.4354037,-99.1840781
+  Periferico Sur 4091, Tlalpan, Distrito Federal (cdmx)|5500|1|1.0|132|19.3064279|-99.211316|19.3064279,-99.211316
+  Lago Margarita 34, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|20500|2|2.0|68|19.4386749|-99.1873782|19.4386749,-99.1873782
+  Calle Lago Zurich 245, Colonia Irrigación, Miguel Hidalgo, Distrito Federal (cdmx)|70000|2|3.0|120|19.4416485|-99.2039108|19.4416485,-99.2039108
+  Ph En Renta De 2 Niveles En Polanco, Miguel Hidalgo, Cdmx, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1067275|3|3.0|250|19.445374899999997|-99.18171070000001|19.445374899999997,-99.18171070000001
+  Goldsmith 37, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|75000|3|4.0|180|19.430351899999998|-99.200657|19.430351899999998,-99.200657
+  Víctor Hugo 17, 401, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|10000|2|1.0|80|19.3688216|-99.1381447|19.3688216,-99.1381447
+  Reforma 222, Juárez, Cuauhtémoc, Distrito Federal (cdmx)|28000|1|2.0|75|19.4285853|-99.1617883|19.4285853,-99.1617883
+  Prolongacion Ocote 64, Cuajimalpa De Morelos, Distrito Federal (cdmx)|8950|2|2.0|64|19.37245|-99.291322|19.37245,-99.291322
+  Lago Alberto 300, 710, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|19800|1|1.0|52|19.4400628|-99.1830266|19.4400628,-99.1830266
+  Plaza Rio De Janeiro 56, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|19200|2|1.0|80|19.4210467|-99.1597361|19.4210467,-99.1597361
+  Xicohténcatl 137, Colonia Del Carmen, Coyoacán, Distrito Federal (cdmx)|10000|1|1.0|65|19.3548977|-99.1544151|19.3548977,-99.1544151
+  Anillo Perif. Blvd. Adolfo López Mateos 5146, Coyoacán, Distrito Federal (cdmx)|28000|2|2.0|105|19.3038798|-99.17718670000001|19.3038798,-99.17718670000001
+  Siete 190, Coyoacán, Distrito Federal (cdmx)|15800|3|2.0|110|19.314216100000003|-99.1358408|19.314216100000003,-99.1358408
+  Homero 246, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|873225|3|3.0|280|19.435475600000004|-99.1916716|19.435475600000004,-99.1916716
+  Avenida Mariano Escobedo, Lago Iseo Esquina 0, Cuauhtémoc, Distrito Federal (cdmx)|30000|2|2.0|94|19.4397908|-99.1835247|19.4397908,-99.1835247
+  Lago Alberto 321, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|19850|1|1.0|55|19.4401734|-99.1880532|19.4401734,-99.1880532
+  Av. Revolución 1, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|21000|2|2.0|103|19.3785332|-99.187561|19.3785332,-99.187561
+  Peten 543, 4, Letrán Valle, Benito Juárez, Distrito Federal (cdmx)|18000|3|2.0|103|19.378553699999998|-99.154916|19.378553699999998,-99.154916
+  Paseo De La Reforma 222, Distrito Federal (cdmx)|33000|2|2.0|120|19.4286725|-99.16166820000001|19.4286725,-99.16166820000001
+  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|14000|2|2.0|65|19.38268|-99.2561818|19.38268,-99.2561818
+  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|17000|2|2.0|75|19.38268|-99.2561818|19.38268,-99.2561818
+  Río Nazas 152, Ciudad De México, Distrito Federal (cdmx)|19000|2|2.0|100|19.430562899999998|-99.17056170000001|19.430562899999998,-99.17056170000001
+  Prolongación Avenida Vasco De Quiroga 3850, Cuajimalpa De Morelos, Distrito Federal (cdmx)|20000|2|2.0|91|19.3607488|-99.27527579999999|19.3607488,-99.27527579999999
+  Guaymas 33, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|18000|3|2.0|95|19.4239288|-99.15503659999999|19.4239288,-99.15503659999999
+  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|140|19.434078|-99.2112666|19.434078,-99.2112666
+  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|80|19.434078|-99.2112666|19.434078,-99.2112666
+  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|14000|1|1.0|20|19.3584142|-99.17777059999999|19.3584142,-99.17777059999999
+  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|28000|2|2.0|45|19.3584142|-99.17777059999999|19.3584142,-99.17777059999999
+  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|18000|3|2.0|80|19.4714503|-99.1613575|19.4714503,-99.1613575
+  Encarnación Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|13000|2|2.0|65|19.4714503|-99.1613575|19.4714503,-99.1613575
+  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|140|19.434078|-99.2112666|19.434078,-99.2112666
+  Manuel Avila Camacho 166, 102, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|19500|2|2.0|80|19.434078|-99.2112666|19.434078,-99.2112666
+  Paseo De La Reforma 439, Cuauhtémoc, Distrito Federal (cdmx)|89000|2|2.0|180|19.4256497|-99.1723516|19.4256497,-99.1723516
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Indianapolis 4, Nápoles, Benito Juárez, Distrito Federal (cdmx)|22500|2|2.0|64|19.394105300000003|-99.1774246|19.394105300000003,-99.1774246
+  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|14000|2|2.0|65|19.38268|-99.2561818|19.38268,-99.2561818
+  Palo Alto 73, Cuajimalpa De Morelos, Distrito Federal (cdmx)|17000|2|2.0|75|19.38268|-99.2561818|19.38268,-99.2561818
+  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|25800|2|2.0|48|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Sagredo 253, Álvaro Obregón, Distrito Federal (cdmx)|19980|1|1.0|36|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Av. Cuauhtémoc 1, Del Valle, Benito Juárez, Distrito Federal (cdmx)|20200|2|1.0|69|19.406026100000002|-99.15514920000001|19.406026100000002,-99.15514920000001
+  Avenida Revolucion 000, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|19000|2|2.0|103|19.3676615|-99.1886542|19.3676615,-99.1886542
+  Av Cuauhtemoc 514, Narvarte, Benito Juárez, Distrito Federal (cdmx)|15000|2|2.0|62|19.3996034|-99.1555014|19.3996034,-99.1555014
+  Campos Elíseos 1, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|50000|3|3.0|274|19.4287872|-99.1803683|19.4287872,-99.1803683
+  Av. Del Iman 141, 3, Insurgentes Cuicuilco, Coyoacán, Distrito Federal (cdmx)|12000|2|1.0|70|19.307182100000002|-99.1815155|19.307182100000002,-99.1815155
+  San Guillermo Lote 1 Mz 19 Col. Pedregal De Santa Ursula, Ciudad De México, Distrito Federal (cdmx)|4000|1|1.0|12|19.3109425|-99.1625881|19.3109425,-99.1625881
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Inglaterra 105, Parque San Andres, Coyoacán, Distrito Federal (cdmx)|16000|1|1.0|80|19.3441688|-99.1505835|19.3441688,-99.1505835
+  Privada Veracruz 13, Cuajimalpa De Morelos, Distrito Federal (cdmx)|15500|3|3.0|166|19.378071300000002|-99.29696209999999|19.378071300000002,-99.29696209999999
+  Tlálpan 1461, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|12500|2|2.0|70|19.364967|-99.1428406|19.364967,-99.1428406
+  Plaza Valverde 60, Álvaro Obregón, Distrito Federal (cdmx)|29400|3|2.0|117|19.3393016|-99.193528|19.3393016,-99.193528
+  Ibsen 00, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|45000|2|2.0|170|19.4313793|-99.2014307|19.4313793,-99.2014307
+  Departamento En Renta En Via Santa Fe Con 2 Recamaras, Álvaro Obregón, Distrito Federal (cdmx)|23000|2|2.0|97|19.3609821|-99.2686522|19.3609821,-99.2686522
+  Pedro Romero De Terreros 730, Del Valle, Benito Juárez, Distrito Federal (cdmx)|24000|3|3.0|110|19.3942682|-99.164189|19.3942682,-99.164189
+  Av Mexico 321, Coyoacán, Distrito Federal (cdmx)|26000|2|2.0|86|19.358366600000004|-99.1698871|19.358366600000004,-99.1698871
+  Camino A Santa Fe 1231, 302, Álvaro Obregón, Distrito Federal (cdmx)|11000|2|1.0|80|19.3898806|-99.203598|19.3898806,-99.203598
+  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001|19.4335413,-99.19977390000001
+  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001|19.4335413,-99.19977390000001
+  Emerson 1, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37000|2|2.0|191|19.433530800000003|-99.1888509|19.433530800000003,-99.1888509
+  Viaducto Tlalpan 000, 000, Tlalpan, Distrito Federal (cdmx)|14300|3|3.0|123|19.2898477|-99.1522034|19.2898477,-99.1522034
+  3 Picos 12, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|3.0|250|19.4284413|-99.1863053|19.4284413,-99.1863053
+  Coyoacan 0, Del Valle Centro, Benito Juárez, Distrito Federal (cdmx)|23000|2|2.0|140|19.3842782|-99.16784140000001|19.3842782,-99.16784140000001
+  Ph En Renta De 2 Niveles En Polanco., Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|45000|3|2.0|305|19.445374899999997|-99.18171070000001|19.445374899999997,-99.18171070000001
+  Río Sena 67, 203, Cuauhtémoc, Distrito Federal (cdmx)|29000|2|2.0|100|19.430421300000003|-99.1662906|19.430421300000003,-99.1662906
+  Paseo De La Reforma 222, Cuauhtémoc, Distrito Federal (cdmx)|45000|2|2.0|125|19.4286725|-99.16166820000001|19.4286725,-99.16166820000001
+  Av. Santa Fe 449, Loma De Santa Fe, Cuajimalpa De Morelos|4000000|3|2.0|173|19.3621383|-99.2667033|19.3621383,-99.2667033
+  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516|19.4423271,-99.2016516
+  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516|19.4423271,-99.2016516
+  Lope De Vega 237, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|30000|1|1.0|70|19.4341567|-99.1873743|19.4341567,-99.1873743
+  Lago Alberto 32o, 25, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|2.0|150|19.4399893|-99.1852486|19.4399893,-99.1852486
+  San Camilo 26, 702, Tlalpan, Distrito Federal (cdmx)|10000|2|1.0|55|19.28656|-99.1321471|19.28656,-99.1321471
+  Cuitláhuac 94, Gustavo A. Madero, Distrito Federal (cdmx)|12000|3|2.0|95|19.473083|-99.1492211|19.473083,-99.1492211
+  Constituyente Amilcar Vidal 149, Lomas De Memetla, Distrito Federal (cdmx)|8000|1|1.0|65|19.3583576|-99.2866262|19.3583576,-99.2866262
+  Arneses 10, Iztapalapa, Distrito Federal (cdmx)|11000|3|1.0|81|19.356014899999998|-99.1101435|19.356014899999998,-99.1101435
+  Juan Sanchez Azcona 1426, 104, Del Valle Sur, Benito Juárez, Distrito Federal (cdmx)|17000|1|1.0|80|19.3767641|-99.1642438|19.3767641,-99.1642438
+  Eugenio Sue 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|66000|2|3.0|170|19.4377529|-99.1935959|19.4377529,-99.1935959
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Horacio 1609, 1001, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|25000|3|2.0|130|19.4356965|-99.2076746|19.4356965,-99.2076746
+  Adolfo Prieto 125, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|3.0|165|19.399095300000003|-99.1660784|19.399095300000003,-99.1660784
+  Homero 0, 9, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|40000|3|2.0|190|19.4359961|-99.1980942|19.4359961,-99.1980942
+  Campos Elíseos 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|1261325|3|4.0|213|19.4272576|-99.1936044|19.4272576,-99.1936044
+  Juarez Y Zarco  12, Cuajimalpa De Morelos, Distrito Federal (cdmx)|15000|2|2.0|60|19.3544035|-99.2949992|19.3544035,-99.2949992
+  Prolongacion Paseo De La Reforma 307, 4, Lomas De Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|21000|2|2.0|74|19.3795682|-99.2538313|19.3795682,-99.2538313
+  Pablo Ucello 51, Ciudad De México, Distrito Federal (cdmx)|16600|2|2.0|110|19.382220800000002|-99.1830482|19.382220800000002,-99.1830482
+  Río Sena 67, 203 A, Cuauhtémoc, Distrito Federal (cdmx)|27000|2|2.0|100|19.430421300000003|-99.1662906|19.430421300000003,-99.1662906
+  Lago Constanza 27, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|20500|2|2.0|68|19.449108600000002|-99.1868876|19.449108600000002,-99.1868876
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|11500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140|19.314178100000003|-99.2460849|19.314178100000003,-99.2460849
+  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|4317613|2||43|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|2361589|1||27|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Periferico Sur 4091, Ciudad De México, Distrito Federal (cdmx)|12000|4|3.0|120|19.3064279|-99.211316|19.3064279,-99.211316
+  General Pedro Antonio De Los Santos 0, 204, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|17000|3|2.0|150|19.4103796|-99.1831385|19.4103796,-99.1831385
+  Eugenio Sue 200, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|65000|3|3.0|208|19.4341173|-99.19415179999999|19.4341173,-99.19415179999999
+  Moliere 340 B Polanco M. Hidalgo Cdmx, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|30000|2|1.0|110|19.437172600000004|-99.2012363|19.437172600000004,-99.2012363
+  Francisco Petrarca 139, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|873225|3|3.0|177|19.4362197|-99.1857304|19.4362197,-99.1857304
+  Coahuila 159, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|32000|2|2.0|150|19.411271300000003|-99.1633655|19.411271300000003,-99.1633655
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Anatole France 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|54334|2|3.0|210|19.4311987|-99.1976385|19.4311987,-99.1976385
+  Insurgentes Sur 297, Ciudad De México, Distrito Federal (cdmx)|24000|3|2.0|115|19.414801999999998|-99.1659622|19.414801999999998,-99.1659622
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Cardos 6, Tlalpan, Distrito Federal (cdmx)|5500|3|1.0|64|19.27613|-99.2062151|19.27613,-99.2062151
+  Canalito 1, Progreso Tizapan, Álvaro Obregón, Distrito Federal (cdmx)|13000|2|1.0|68|19.3401218|-99.20625340000001|19.3401218,-99.20625340000001
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Eugenio Sue 0, Pb, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|108000|3|4.0|250|19.4377529|-99.1935959|19.4377529,-99.1935959
+  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|6500|2|1.0|60|19.2876015|-99.2258515|19.2876015,-99.2258515
+  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|5200|2|1.0|60|19.2876015|-99.2258515|19.2876015,-99.2258515
+  Salamanca 0, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|14500|1|1.0|35|19.4205382|-99.1701058|19.4205382,-99.1701058
+  Rancho Calichan 51, A-402, Tlalpan, Distrito Federal (cdmx)|10000|2|1.0|86|19.298158800000003|-99.1282555|19.298158800000003,-99.1282555
+  Parroquia 411, Benito Juárez, Distrito Federal (cdmx)|21000|3|2.0|110|19.3701633|-99.1742779|19.3701633,-99.1742779
+  Prolongación División Del Norte 4134, 1c, Tlalpan, Distrito Federal (cdmx)|12000|2|1.0|84|19.2945565|-99.1314271|19.2945565,-99.1314271
+  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|7500|2|1.0|72|19.2751896|-99.1724386|19.2751896,-99.1724386
+  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|4000|2|1.0|33|19.2751896|-99.1724386|19.2751896,-99.1724386
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Lago Como 128, 504, Miguel Hidalgo, Distrito Federal (cdmx)|11000|2|2.0|66|19.4464049|-99.1836748|19.4464049,-99.1836748
+  Camino Antiguo Santa Fe, Numero 55, Corpus Christy, Álvaro Obregón, Distrito Federal (cdmx)|4200|2|2.0|70|19.3686704|-99.25737729999999|19.3686704,-99.25737729999999
+  Lomas De Becerra Edif 7 Dep 1, Álvaro Obregón, Distrito Federal (cdmx)|9000|2|1.0|73|19.384945499999997|-99.2138697|19.384945499999997,-99.2138697
+  Cholula 20, 301 Y 502, Miguel Hidalgo, Distrito Federal (cdmx)|29000|3|2.0|110|19.430657500000002|-99.2083953|19.430657500000002,-99.2083953
+  Nelly Campobello 129, Álvaro Obregón, Distrito Federal (cdmx)|9000|2|2.0|73|19.383796399999998|-99.1971753|19.383796399999998,-99.1971753
+  Patricio Sanz 1357, Tlacoquemecatl, Benito Juárez, Distrito Federal (cdmx)|28000|3|4.0|152|19.3773756|-99.1738399|19.3773756,-99.1738399
+  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|4317613|2||43|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|2361589|1||27|19.3613167|-99.1885042|19.3613167,-99.1885042
+  Uman 11, Tlalpan, Distrito Federal (cdmx)|8500|3|1.0|80|19.2811336|-99.2283237|19.2811336,-99.2283237
+  Av. F.f.cc. Nacionales 1940, Azcapotzalco, Distrito Federal (cdmx)|7800|2|1.0|60|19.4704246|-99.1905284|19.4704246,-99.1905284
+  Ruben Dario 35, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|2425625|3|4.0|429|19.4300669|-99.1821687|19.4300669,-99.1821687
+  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495|19.2716716,-99.208495
+  Encinos 65, Tlalpan, Distrito Federal (cdmx)|11500|2|2.0|90|19.2716716|-99.208495|19.2716716,-99.208495
+  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001|19.4335413,-99.19977390000001
+  Edgar Allan Poe 0, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|7664975|2|3.0|170|19.4335413|-99.19977390000001|19.4335413,-99.19977390000001
+  Calle Lago Zurich 245, Delegación Miguel Hidalgo, 11529 Ciudad De México, Cdmx, Miguel Hidalgo, Distrito Federal (cdmx)|30000|3|3.0|145|19.4416421|-99.2039005|19.4416421,-99.2039005
+  Villalongin 82, Cuauhtémoc, Distrito Federal (cdmx)|18500|2|2.0|95|19.432859|-99.16392950000001|19.432859,-99.16392950000001
+  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|14000|1|1.0|20|19.3584142|-99.17777059999999|19.3584142,-99.17777059999999
+  Moras 1254, Álvaro Obregón, Distrito Federal (cdmx)|28000|2|2.0|45|19.3584142|-99.17777059999999|19.3584142,-99.17777059999999
+  Lamartine 0, 501, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|25000|3|2.0|120|19.432127800000004|-99.18975379999999|19.432127800000004,-99.18975379999999
+  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|155240|4|4.0|400|19.4279636|-99.221941|19.4279636,-99.221941
+  Sierra Gorda 23, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|174645|3|4.0|353|19.4279636|-99.221941|19.4279636,-99.221941
+  Ejército Nacional 225, Ciudad De México, Distrito Federal (cdmx)|23000|2|2.0|104|19.4367558|-99.1793111|19.4367558,-99.1793111
+  Calle Pitágoras 284, Benito Juárez, Distrito Federal (cdmx)|19405|1|1.0|71|19.398350100000002|-99.1573626|19.398350100000002,-99.1573626
+  Arquimedes 196, 2, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|36000|3|3.0|200|19.4363783|-99.1907524|19.4363783,-99.1907524
+  Carretera Mexico Toluca 2500, Santa Fe Cuajimalpa, Cuajimalpa De Morelos|27000|3|4.0|127|19.388847199999997|-99.2400876|19.388847199999997,-99.2400876
+  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|7500|2|1.0|72|19.2751896|-99.1724386|19.2751896,-99.1724386
+  Yaquis 1, Tlalpan, Distrito Federal (cdmx)|4000|2|1.0|33|19.2751896|-99.1724386|19.2751896,-99.1724386
+  Nubia 264, Del Recreo, Azcapotzalco, Distrito Federal (cdmx)|10500|2|1.0|55|19.4735213|-99.1823344|19.4735213,-99.1823344
+  Calzada De Tlalpan 1510, Portales Oriente, Benito Juárez, Distrito Federal (cdmx)|14000|2|2.0|70|19.3632488|-99.1424011|19.3632488,-99.1424011
+  Begonias 1, Clavería, Azcapotzalco, Distrito Federal (cdmx)|8750|2|1.0|75|19.4635773|-99.18051390000001|19.4635773,-99.18051390000001
+  Prolongación Paseo De La Reforma 307, Santa Fe, Álvaro Obregón, Distrito Federal (cdmx)|19500|2|2.0|75|19.3795682|-99.2538313|19.3795682,-99.2538313
+  José María Izazaga 20, Distrito Federal (cdmx)|18000|2|1.0|80|19.426923100000003|-99.1408698|19.426923100000003,-99.1408698
+  Renta Residencial La Jolla Bosques De La Reforma 1592, Bosques De Las Lomas, Cuajimalpa De Morelos, Bosques De Las Lomas, Cuajimalpa De Morelos|97025|3|3.0|400|19.3846052|-99.2638167|19.3846052,-99.2638167
+  Mimosa 3, Distrito Federal (cdmx)|3500|1|1.0|30|19.333569100000002|-99.233711|19.333569100000002,-99.233711
+  Calle  3, Agrícola Pantitlán, Iztacalco|3500|1|1.0|35|19.413731100000003|-99.0644816|19.413731100000003,-99.0644816
+  Calzada De Las Aguilas 1124, Ciudad De México, Distrito Federal (cdmx)|7700|2|1.0|60|19.349237300000002|-99.2248749|19.349237300000002,-99.2248749
+  Bahia De San Hipolito 43, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|17500|2|2.0|74|19.4400986|-99.17682420000001|19.4400986,-99.17682420000001
+  Barranquilla 139, Gustavo A. Madero, Distrito Federal (cdmx)|10500|2|1.0|66|19.5019839|-99.1276727|19.5019839,-99.1276727
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|194050|2|3.0|620|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|62096|1|2.0|230|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|360|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Ave. Carlos Lazo 20, Álvaro Obregón, Distrito Federal (cdmx)|22000|1|1.0|120|19.363825199999997|-99.2659316|19.363825199999997,-99.2659316
+  6ta Cerrada De Francisco I Madero, Ex Ejido De Santa Ursula Coapa, Ex-ejido De Santa Ursula Coapa, Ciudad De México|2900|3||80|19.3043162|-99.1413745|19.3043162,-99.1413745
+  Calle La Paz  6 Colonia San Lorenzo Huipulco, San Lorenzo Huipulco, Tlalpan, Distrito Federal (cdmx)|2500|34|14.0|200|19.298513399999997|-99.1487787|19.298513399999997,-99.1487787
+  Pocito 139, 7, Popotla, Miguel Hidalgo, Distrito Federal (cdmx)|8300|3|1.0|70|19.455213600000004|-99.1827196|19.455213600000004,-99.1827196
+  Prol Bosque De La Reforma 1455, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|56500|3|4.0|380|19.3878909|-99.2631725|19.3878909,-99.2631725
+  Av. Aquiles Serdan 671, Centro De Azcapotzalco, Distrito Federal (cdmx)|13200|2|1.0|64|19.4836447|-99.1878718|19.4836447,-99.1878718
+  Jesús Lecuona 90, 3, Tlalpan, Distrito Federal (cdmx)|8500|2|1.0|80|19.285040600000002|-99.1982905|19.285040600000002,-99.1982905
+  Av. Jardín 257, Ampliación Del Gas, Azcapotzalco, Distrito Federal (cdmx)|13000|1|1.0|51|19.465393|-99.1589121|19.465393,-99.1589121
+  Andres Molina Enriquez 4118, Cuauhtémoc, Distrito Federal (cdmx)|5000|1|1.0|40|19.4069017|-99.1285417|19.4069017,-99.1285417
+  Etla 15, Cuauhtémoc, Cuauhtémoc, Distrito Federal (cdmx)|21000|1|1.0|50|19.4064379|-99.17536650000001|19.4064379,-99.17536650000001
+  Miguel De Cervantes De Saavedra 303, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|1455375|3|3.0|221|19.440692600000002|-99.2047001|19.440692600000002,-99.2047001
+  Jesus Del Monte 245, Jesús Del Monte, Cuajimalpa De Morelos|23500|2|2.0|98|19.3675283|-99.2925703|19.3675283,-99.2925703
+  Miguel De Cervantes Saavedra 443, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|43000|3|2.0|110|19.4406215|-99.2079858|19.4406215,-99.2079858
+  Avenida 2 200, San Pedro De Los Pinos, Álvaro Obregón, Distrito Federal (cdmx)|14500|2|2.0|90|19.388758199999998|-99.1845614|19.388758199999998,-99.1845614
+  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|6500|2|1.0|60|19.2876015|-99.2258515|19.2876015,-99.2258515
+  Tekit 189-16, Colonia Heroes De Padierna, Tlalpan, Distrito Federal (cdmx)|5200|2|1.0|60|19.2876015|-99.2258515|19.2876015,-99.2258515
+  Bartolome R Salido 166, Vertiz Narvarte, Benito Juárez, Distrito Federal (cdmx)|16000|2|2.0|76|19.3821537|-99.1503048|19.3821537,-99.1503048
+  Avenida Parque Lira 141, 12, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|15000|2|1.0|95|19.4043632|-99.1877986|19.4043632,-99.1877986
+  Prol. Paseo De La Reforma 3700, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|56500|3|4.0|380|19.3883491|-99.24091379999999|19.3883491,-99.24091379999999
+  Antigua Taxqueña 164, Coyoacán, Distrito Federal (cdmx)|17500|3|2.0|115|19.3451105|-99.1530858|19.3451105,-99.1530858
+  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516|19.4423271,-99.2016516
+  Lago Neuchatel 10, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|28500|3|2.0|125|19.4423271|-99.2016516|19.4423271,-99.2016516
+  Gabino Barreda 117, San Rafael, Ciudad De México|4500|2|1.0|70|19.436176899999996|-99.1644315|19.436176899999996,-99.1644315
+  Av Tamapulipas 250, San Francisco Culhuacán Barrio De Santa Ana, Ciudad De México|66000|4|4.0|320|19.333673|-99.123239|19.333673,-99.123239
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|3.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|30000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|34000|2|2.0|116|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Adolfo Prieto 1033, Del Valle, Benito Juárez, Distrito Federal (cdmx)|26000|3|2.0|117|19.386347600000004|-99.1690951|19.386347600000004,-99.1690951
+  Parras 15, Hipódromo, Cuauhtémoc, 06100, México D.f., Distrito Federal (cdmx)|4500|1|1.0|11|19.4146434|-99.1702334|19.4146434,-99.1702334
+  Avenida México No. 133, Colonia Hipódromo, Delegación Cuauhtémoc, Ciudad De México, Ciudad De México, Distrito Federal (cdmx)|15500|1|1.0|40|19.4107758|-99.1690226|19.4107758,-99.1690226
+  Calle 4 Num 308, Agrícola Pantitlán, Iztacalco|4500|2|1.0|60|19.4155236|-99.0623488|19.4155236,-99.0623488
+  Arquimedes 1, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|97025|3|4.0|240|19.4261608|-99.1917496|19.4261608,-99.1917496
+  Cuitlahuac 19, Isidro Fabela, Tlalpan, Distrito Federal (cdmx)|15500|3|3.0|120|19.2974784|-99.1707496|19.2974784,-99.1707496
+  Parque Lira 0, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|15000|2|1.0|93|19.4099693|-99.19050959999998|19.4099693,-99.19050959999998
+  Rio Elba 30, Cuauhtémoc, Distrito Federal (cdmx)|21000|2|1.0|120|19.425413199999998|-99.1748833|19.425413199999998,-99.1748833
+  Cerrada De La Cruz 12, Cuajimalpa De Morelos, Distrito Federal (cdmx)|21000|2|2.0|94|19.3574017|-99.287644|19.3574017,-99.287644
+  San Marcos 11, Ciudad De México, Distrito Federal (cdmx)|16300|3|3.0|120|19.3075075|-99.2306311|19.3075075,-99.2306311
+  Plutarco Elias Calles 282, Iztacalco, Distrito Federal (cdmx)|10000|2|1.0|72|19.3978246|-99.1119502|19.3978246,-99.1119502
+  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10100|2|2.0|65|19.4814269|-99.1948158|19.4814269,-99.1948158
+  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10000|2|2.0|67|19.4814269|-99.1948158|19.4814269,-99.1948158
+  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10100|2|2.0|65|19.4814269|-99.1948158|19.4814269,-99.1948158
+  Centeotl 341, Azcapotzalco, Distrito Federal (cdmx)|10000|2|2.0|67|19.4814269|-99.1948158|19.4814269,-99.1948158
+  Fracc Copal Lt 2 Edf D104, San Pedro Zacatenco, Gustavo A. Madero|1500|2|1.0|1|19.506951500000003|-99.12140450000001|19.506951500000003,-99.12140450000001
+  Av Ejercito Nacional 769 Esq Moliere, Miguel Hidalgo, Ciudad De México, Distrito Federal (cdmx)|38000|2|2.0|115|19.439641|-99.1995083|19.439641,-99.1995083
+  2 Cuadras De Ipn, Planetario Lindavista, Ciudad De México|2500|1|1.0|35|19.496732|-99.14251290000001|19.496732,-99.14251290000001
+  Revillagigedo 18, Distrito Federal (cdmx)|34929|3|2.0|115|19.4342202|-99.1456585|19.4342202,-99.1456585
+  Lago Alberto 00, Colonia Anahuac I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|25000|2|2.0|90|19.4386555|-99.1808203|19.4386555,-99.1808203
+  Av. De Los Bosques 1516 Col. Lomas De Chamizal, Lomas Del Chamizal, Cuajimalpa De Morelos|45000|3|4.0|285|19.399668300000002|-99.25648670000001|19.399668300000002,-99.25648670000001
+  Cholula 10, Hipódromo Condesa, Cuauhtémoc, Distrito Federal (cdmx)|28750|2|2.0|93|19.4102375|-99.1736072|19.4102375,-99.1736072
+  Avenida Paseo De Las Palmas 800, Lomas De Chapultepec I Sección, Miguel Hidalgo, Distrito Federal (cdmx)|679175|3|3.0|320|19.428531600000003|-99.2160841|19.428531600000003,-99.2160841
+  Lago Zurich 244 Ph, Ampliación Granada, Miguel Hidalgo, Distrito Federal (cdmx)|25000|3|2.0|110|19.442756600000003|-99.202496|19.442756600000003,-99.202496
+  Concepcion Beistigui 616, 201, Del Valle, Benito Juárez, Distrito Federal (cdmx)|15000|2|2.0|80|19.3898495|-99.1674013|19.3898495,-99.1674013
+  Miguel De Cervantes Saavedra 380, Colonia Irrigación, Miguel Hidalgo, Distrito Federal (cdmx)|35000|2|2.0|154|19.439811600000002|-99.2057069|19.439811600000002,-99.2057069
+  Cuitlahuac 44, Guadalupe Victoria, Ciudad De México|8500|2|2.0|60|19.4715893|-99.13967480000001|19.4715893,-99.13967480000001
+  Sullana 700, Lindavista Sur, Gustavo A. Madero|2300|1|1.0|500|19.4927652|-99.13923759999999|19.4927652,-99.13923759999999
+  Mazaryk 400, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|50000|4|5.0|350|19.4317034|-99.198464|19.4317034,-99.198464
+  Calzada Del Hueso 300, Ciudad De México, Distrito Federal (cdmx)|6000|1|1.0|20|19.3079824|-99.1341744|19.3079824,-99.1341744
+  Sur 143 1614, Iztacalco, Distrito Federal (cdmx)|7000|2|1.0|120|19.3878741|-99.09842579999999|19.3878741,-99.09842579999999
+  A 2 Cuadras De Ipn, Planetario Lindavista, Ciudad De México|2500|1|1.0|40|19.496732|-99.14251290000001|19.496732,-99.14251290000001
+  Josafat F. Márquez 26, Colonial Iztapalapa, Iztapalapa, Distrito Federal (cdmx)|7500|2|2.0|78|19.3446888|-99.0573055|19.3446888,-99.0573055
+  Av. Talleres Graficos 42b, Agrícola Pantitlán, Iztacalco|5500|2|1.0|64|19.4145621|-99.0712658|19.4145621,-99.0712658
+  Calle 31 No. 13, Álvaro Obregón, Col. Olivar Del Conde, Álvaro Obregón, Distrito Federal (cdmx)|4000|2|1.0|64|19.372131200000002|-99.2207334|19.372131200000002,-99.2207334
+  Alpes 2001 Periferico Sur, Álvaro Obregón, Distrito Federal (cdmx)|13000|2|2.0|76|19.3305129|-99.210092|19.3305129,-99.210092
+  Calle 31-13 Col. Olivar Del Conde 2da Sección, Delegación Álvaro Obregón, Ciudad De México, Distrito Federal (cdmx)|4200|2|1.0|140|19.372131200000002|-99.2207334|19.372131200000002,-99.2207334
