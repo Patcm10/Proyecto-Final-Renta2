@@ -15,11 +15,11 @@ Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)
   Avenida Horacio1537, Polanco Iv Sección, Miguel Hidalgo, Distrito Federal (cdmx)|1261325|3|4.0|193
   Avenida De Las Torres 805, Torres Del Potrero, Alvaro Obregón Ciudad De México, Álvaro Obregón, Distrito Federal (cdmx)|17500|2|2.0|78
   Francisco Petrarca 139, Colonia Polanco Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|97025|2|2.0|167
-  Joaquin Garcia Izcabalceta 55, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16000|3|-|120
+  Joaquin Garcia Izcabalceta 55, San Rafael, Cuauhtémoc, Distrito Federal (cdmx)|16000|3||120
   Calle Division Del Norte 293, Lomas De Memetla, Cuajimalpa, Ciudad De Mexico, Lomas De Memetla, Cuajimalpa De Morelos|16000|2|2.0|122
   Bosque De Tabachines 327, Colonia Bosques De Las Lomas, Bosques De Las Lomas, Cuajimalpa De Morelos|155240|3|3.0|650
-  Palacio Escorial 20, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|33000|2|-|70
-  Avenida Jesus Del Monte 41, Jesús Del Monte, Cuajimalpa De Morelos|95312|2|-|184
+  Palacio Escorial 20, Lomas De Reforma, Miguel Hidalgo, Distrito Federal (cdmx)|33000|2||70
+  Avenida Jesus Del Monte 41, Jesús Del Monte, Cuajimalpa De Morelos|95312|2||184
   Encarnacion Ortiz 1860, Azcapotzalco, Distrito Federal (cdmx)|14000|2|2.0|69
   Tabasco 267, Roma Norte, Cuauhtémoc, Distrito Federal (cdmx)|47000|2|3.0|113
   Hegel 15, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|35000|3|2.0|230
@@ -157,7 +157,7 @@ Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)
   Textitlán 42, Santa Ursula Coapa, Coyoacán, Distrito Federal (cdmx)|8000|2|1.0|60
   Departamento En Renta En Polanco Con 3 Recamaras., Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|58215|3|3.0|250
   Chosica 655-3 Col.lindavista, Ciudad De México, Distrito Federal (cdmx)|13800|2|1.0|120
-  Av. Presidente Masaryk 123, Polanco, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37200|2|-|60
+  Av. Presidente Masaryk 123, Polanco, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|37200|2||60
   Goldsmith a, 0, Polanco Iii Sección, Miguel Hidalgo, Distrito Federal (cdmx)|77620|3|4.0|180
   Damas 76, San José Insurgentes, Benito Juárez, Distrito Federal (cdmx)|28000|3|3.0|171
   Av Bonampak Sm27 01, Benito Juárez, Distrito Federal (cdmx)|45000|4|4.0|320
@@ -357,7 +357,7 @@ Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)
   Río Sena 67, 203 A, Cuauhtémoc, Distrito Federal (cdmx)|27000|2|2.0|100
   Lago Constanza 27, Granada, Miguel Hidalgo, Distrito Federal (cdmx)|20500|2|2.0|68
   Azalea 152, La Magdalena Contreras, Distrito Federal (cdmx)|13500|2|2.0|140
-  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|4317613|2|-|43
+  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|4317613|2||43
   Periferico Sur 4091, Ciudad De México, Distrito Federal (cdmx)|12000|4|3.0|120
   General Pedro Antonio De Los Santos 0, 204, San Miguel Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|17000|3|2.0|150
   Eugenio Sue 200, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|65000|3|3.0|208
@@ -384,7 +384,7 @@ Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)
   Cholula 20, 301 Y 502, Miguel Hidalgo, Distrito Federal (cdmx)|29000|3|2.0|110
   Nelly Campobello 129, Álvaro Obregón, Distrito Federal (cdmx)|9000|2|2.0|73
   Patricio Sanz 1357, Tlacoquemecatl, Benito Juárez, Distrito Federal (cdmx)|28000|3|4.0|152
-  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|2361589|1|-|27
+  Sagredo 253 Colonia Guadalupe Inn, Guadalupe Inn, Álvaro Obregón, Distrito Federal (cdmx)|2361589|1||27
   Uman 11, Tlalpan, Distrito Federal (cdmx)|8500|3|1.0|80
   Av. F.f.cc. Nacionales 1940, Azcapotzalco, Distrito Federal (cdmx)|7800|2|1.0|60
   Ruben Dario 35, Polanco, Miguel Hidalgo, Distrito Federal (cdmx)|2425625|3|4.0|429
@@ -413,7 +413,7 @@ Address|Price(MX$)|Bedrooms|Bathrooms|Size(m2)
   Barranquilla 139, Gustavo A. Madero, Distrito Federal (cdmx)|10500|2|1.0|66
   Paseo De Las Palmas 800, Lomas De Chapultepec, Miguel Hidalgo, Distrito Federal (cdmx)|523935|2|3.0|270
   Ave. Carlos Lazo 20, Álvaro Obregón, Distrito Federal (cdmx)|22000|1|1.0|120
-  6ta Cerrada De Francisco I Madero, Ex Ejido De Santa Ursula Coapa, Ex-ejido De Santa Ursula Coapa, Ciudad De México|2900|3|-|80
+  6ta Cerrada De Francisco I Madero, Ex Ejido De Santa Ursula Coapa, Ex-ejido De Santa Ursula Coapa, Ciudad De México|2900|3||80
   Calle La Paz  6 Colonia San Lorenzo Huipulco, San Lorenzo Huipulco, Tlalpan, Distrito Federal (cdmx)|2500|34|14.0|200
   Pocito 139, 7, Popotla, Miguel Hidalgo, Distrito Federal (cdmx)|8300|3|1.0|70
   Prol Bosque De La Reforma 1455, Bosques De Las Lomas, Miguel Hidalgo, Distrito Federal (cdmx)|56500|3|4.0|380
