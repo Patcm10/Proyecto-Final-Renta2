@@ -2,7 +2,7 @@
 
 Proyecto final del bootcamp en Data Analytics 2019
 
-ROBLEMA:
+PROBLEMA:
 
 - La revisión de las páginas de renta de departamentos es un tarea muy cansada debido al número de registros por página y en un ambiente en donde las personas disponen de poco tiempo se vuelve una tarea tediosa.
 
