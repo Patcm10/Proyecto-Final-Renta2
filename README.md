@@ -2,21 +2,21 @@
 
 Proyecto final del bootcamp en Data Analytics 2019
 
-PROBLEMA:
+# PROBLEMA:
 
 - La revisión de las páginas de renta de departamentos es un tarea muy ardua como consecuencia del número de registros por página -en donde en algunos casos llegan a 100 páginas o más-. Y en un contexto en donde las personas disponen de poco tiempo, se vuelve una tarea tediosa.
 
-SOLUCIÓN:
+# SOLUCIÓN:
 
 - Este proyecto funciona a través de la respuesta a 3 preguntas (rango de precios de renta, número de personas que habitarán el departamento y lugar de trabajo o estudios(ubicación de usuario)). Su principal objetivo es filtrar (haciendo web scrapping) -de las principales paginas de rentas de bienes inmuebles - las mejores opciones de renta de acuerdo a lo respondido en las preguntas y lo más importante, visualizar las respuestas a través de un mapa (creado con folium y geolocalizaciones) en donde se muestren markers con las mejores opciones.
 
 - Hacer más eficiente la búsqueda de departamentos en la CDMX.
 
-POBLACIÓN OBJETIVO:
+# POBLACIÓN OBJETIVO:
 
 - Personas que por razones laborales o académicas busquen opciones de renta en la CDMX.
 
-PASOS REALIZADOS:
+# PASOS REALIZADOS:
 
 1) Primero fue una tarea de búqueda de páginas para hacer el web scrapping, mis primeros intentos fueron fallidos debido a que la seguridad de las páginas detectaron que estaba haciendo esta tarea y me mandaron Captchas. Por esta razón fue necesario seguir buscando, hasta encontrar páginas amigables. Para mi sopresa encontré una muy bien diseñada de la que fue muy sencillo la información a través de loops.
 
@@ -30,7 +30,7 @@ PASOS REALIZADOS:
 
 6) Finalmente, en el archivo Final_Final se crearon las funciones para filtrar los departamentos por los criterios de rango de precios, número de habitantes y ubicación del usuario y asimismo en donde se creó el mapa_final en donde se puede observar los resultados arrojados de la aplicación.
 
-CONCLUSIÓN:
+# CONCLUSIÓN:
 
 Desde un principio se tenía el objetivo definido, si bien fue un reto realizar el web scrapping se obtuvieron y limpiaron los datos. Uno de los mayores retos fue convertir la direcciones en coordenadas pero era la única manera de mapear los resultados. Asimismo, aprender como funcionaba la API de Google Maps fue difícil. Sin embargo, lo más complicado se presentó al realizar la función que recibiera inputs y que filtrara la información de los Data Frame pero que al mismo tiempo mapeara los resultados. Por último, considero que es un proyecto muy interesante y que aún tien mucho camino por delante, por tal motivo, seguiré desarrollándolo para que sea un producto que se pueda utilizar y facilitar la vida de miles de personas que buscan ofertas de renta en la CDMX.
 
